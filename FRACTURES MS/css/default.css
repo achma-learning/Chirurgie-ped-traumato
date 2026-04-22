@@ -1,0 +1,255 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	font-size: 12px;
+        font-family: Arial, Helvetica, Tahoma, Verdana, sans-serif;
+	width: 100%;
+}
+a {
+	color: blue;
+	outline: none;
+	text-decoration: underline;
+}
+a:hover {
+	text-decoration: none;
+}
+p {
+	margin: 0 0 18px
+}
+img {
+	border: none;
+}
+input {
+	vertical-align: middle;
+}
+#wrapper {
+	width: 1000px;
+	margin: 0 auto;
+}
+
+
+/* Header
+-----------------------------------------------------------------------------*/
+#header {
+	height: 150px;
+	border: 1px solid;
+}
+
+
+/* Middle
+-----------------------------------------------------------------------------*/
+#middle {
+	width: 100%;
+	height: 100%;
+	position: relative;
+}
+#middle:after {
+	content: '.';
+	display: block;
+	clear: both;
+	visibility: hidden;
+	height: 0;
+}
+#container {
+	width: 100%;
+        height: 100%;
+	float: left;
+	overflow: hidden;
+}
+#content {
+	padding: 0 0 0 220px;
+}
+
+
+/* Sidebar Left
+-----------------------------------------------------------------------------*/
+#sideLeft {
+	float: left;
+	width: 200px;
+        min-height: 500px;
+	margin-left: -100%;
+	position: relative;
+	border: 1px solid;
+}
+
+
+/* Footer
+-----------------------------------------------------------------------------*/
+#footer {
+	height: 100px;
+	border: 1px solid;
+}
+
+/* general
+-----------------------------------------------------------------------------*/
+.clear{
+    clear: both;
+}
+.btn{
+    padding: 5px;
+    background-color: #777;
+    border-radius:5px;
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+}
+.right {
+    float: right;
+}
+
+.left {
+    float: left;
+}
+/* menu
+-----------------------------------------------------------------------------*/
+.menu {
+    border: 1px solid black;
+    height: 30px;
+    margin: 5px;
+}
+.menu a{
+    margin: 5px;
+    
+}
+
+/* accueil
+-----------------------------------------------------------------------------*/
+
+.liste_annuaire{
+    width: 500px;
+    margin: 10px;
+    margin-left: 50px;
+    border: 1px solid;
+    min-height: 100px;
+    padding: 10px;
+    
+}
+.liste_annuaire .logo_prestataires img{
+    float: left;
+    width: 70px;
+    height: 70px;
+    margin: 5px;
+    
+}
+.liste_annuaire .info_general_prestaires{
+  
+   margin-left: 75px;
+
+}
+.liste_annuaire .info_general_prestaires div.left{
+    max-width: 200px;
+}
+.liste_annuaire .info_general_prestaires div.right{
+    text-align: right;
+}
+.liste_annuaire .info_suite_prestaires{
+    width: 200px;
+}
+
+.liste_annuaire a.btn{
+    margin-left: 390px
+}
+
+#lang{
+    float: right;
+}
+
+#prestataire{
+    width: 90%;
+    margin: auto;
+}
+.prestataires_header_right{
+    float: right;
+    text-align: right;
+}
+.prestataire_contact_right{
+    float: right;
+    margin-right: 50px;
+}
+.prestataire_presentation{
+    width: 300px;
+}
+.info_consultant2 , .info_utilisateur2{
+    text-align: right;
+}
+
+.search_bar{
+    width: 100px;
+}
+
+.experiences{
+    margin: 10px;
+}
+.formations{
+    margin: 10px;
+}
+
+.search_consultant{
+    width: 20%;
+    border: 1px solid black;
+}
+.list_consultant{
+    width: 75%;
+    margin: 10px;
+}
+.consultants{
+    margin: auto;
+    width: 90%;
+}
+.consultant{
+    margin: 5px;
+    height: auto;
+}
+.list_consultant{
+    width: 75%;
+    margin: auto;
+}
+.img_cv_pdf img{
+    height: 48px;
+    width: 48px;
+    border: 0;
+}
+
+.ico_edit img{
+    border: 0;
+    margin-left: 5px;
+}
+
+a.img_cv_pdf, a.ico_edit{
+    text-decoration: none;
+}
+
+.msg_menu{
+    float: left;
+    margin: 5px;
+    margin-right: 15px
+}
+
+.msg_content{
+    margin-top: 20px;
+    margin-left: 150px;
+}
+
+tr.thread{
+    height: 60px;
+    vertical-align: top;
+}
+.msg_auteur{
+    width: 120px;
+}
+
+.msg_thread_unread{
+    font-weight: bold;
+    width: 200px;
+}
+
+.msg_image{
+    width: 100px;
+    float: left;
+}
+
+.msg_replay{
+    float: right;
+}

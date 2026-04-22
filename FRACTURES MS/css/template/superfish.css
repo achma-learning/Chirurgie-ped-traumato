@@ -1,0 +1,109 @@
+.navigation{float:right;}
+nav{border-top:3px solid #ebecec; padding-right:5px; margin-bottom:-13px;margin-top: 10px;clear: right; float: right; position: relative; z-index: 999;}
+#menu-icon{display:none;}
+.menu {list-style:none; margin-top:-3px;}
+.menu > li {
+	position:relative;
+	float:left;
+	font:15px Arial, Helvetica, sans-serif;
+        /*natacha*/background:url(img/template/slider-links-separator.gif) right 15px no-repeat;
+        /*natacha*/background-size: 1px 47px;
+        /*font:14px Arial, Helvetica, sans-serif;*/
+	/*natacha text-transform:lowercase;*/
+}
+	.menu > li > a {
+		display:block;
+		color:#333;
+		text-decoration:none;
+		text-align:center;
+		background:url(../../img/template/menu-bg.png) center -999em no-repeat;
+		width:111px;
+                padding: 20px 0 50px;
+		position:relative;
+		z-index:999;
+                /*Natacha*/ height: 22px;
+	}
+        .menu > li > a.menu-middle {
+            padding: 28px 0 42px;
+        }
+		.menu > li.sfHover > a,.menu > li > a:hover , .menu > li.current > a {text-decoration:none; color:#fff; background-position: center bottom;}
+	.menu .menu-arrow{display:none;}
+        .menu li.last-item{
+            background: none;
+        }
+/***submenu***/
+.menu ul {
+	position:absolute;
+	top:-999em;
+/*	Natacha width:142px;*/
+	display:none;
+	padding:21px 7px 15px 10px;
+	background:#e2ded5;
+	z-index:99;
+}
+.menu li li{
+	width:100%;
+	padding:0;
+	margin-bottom:4px;
+	position:relative;
+	font:14px/17px Arial, Helvetica, sans-serif;
+	text-transform:capitalize;
+}
+	.menu li li a{
+		display:block;
+		background:url(img/template/submenu-bg.jpg) right -999em no-repeat;
+		color:#8c8c8c;
+		text-decoration:none;
+		padding:1px 14px 3px;
+		height:17px;
+		overflow:hidden;
+	}
+		.menu li li > a:hover,.menu li li.sfHover > a{
+			color:#fff;
+			text-decoration:none;
+			background-position: right top;
+			background-color:#d5cdba;
+		}
+.menu li:hover ul, .menu li.sfHover ul {left:0px; top:81px;}
+.menu li:hover li ul, .menu li.sfHover li ul {top:-999em;}
+/***submenu***/
+.menu ul ul{
+	position:static;
+	width:auto;
+	padding:15px 0px 15px 20px;
+}
+
+/* Design for a width of 768px */
+/*@media only screen and (max-width: 995px){
+	nav{padding-right:0px;}
+	.menu > li > a {width:80px; padding:25px 0 40px;}
+	.menu > li > a .menu-arrow{display:block; width:100%; height:4px; overflow:hidden; text-indent:-999em; background:url(img/template/menu-arrow.gif) center -10px no-repeat; position:absolute; top:47px; left:0;}
+		.menu > li.sfHover > a .menu-arrow, .menu > li > a:hover .menu-arrow, .menu > li.current > a .menu-arrow{background-position: center top;}
+	**submenu**
+	.menu li:hover ul, .menu li.sfHover ul {top:73px;}
+	.menu ul .menu-arrow{display:inline-block; color:#8c8c8c; margin-left:5px;}
+		.menu ul li.sfHover > a .menu-arrow, .menu ul li > a:hover .menu-arrow{color:#fff;}
+}*/
+
+/* Design for a width of 480px*/
+/*@media only screen and (max-width: 767px) {
+	nav{border-color:#a0c327; border-width:5px;}
+	#menu-icon{display:block; color:#fff; text-decoration:none; text-align:center; padding:23px 0 40px; background:url(img/template/menu-bg.png) center bottom no-repeat; width:111px; position:relative; z-index:999; cursor:pointer;}
+	#menu-icon .menu-arrow{display:block; width:100%; height:4px; overflow:hidden; text-indent:-999em; background:url(img/template/menu-arrow.gif) center top no-repeat; position:absolute; top:47px; left:0;}
+	menu
+	.menu{margin-top:0; display:none; position:absolute; top:71px; right:0; width:142px; padding:21px 7px 15px 10px; background:#e2ded5; z-index:99;width: 825px;}
+	.menu > li {position:relative; float:none; text-transform:lowercase; width:100%; padding:0; margin-bottom:4px; font:14px/17px Arial, Helvetica, sans-serif;}
+	.menu > li > a {display:block; color:#8c8c8c; text-decoration:none; text-align:left; padding:1px 14px 3px; background:url(img/template/submenu-bg.jpg) right -999em no-repeat; width:auto; position:static; height:17px; overflow:hidden;}
+		.menu > li.sfHover > a,.menu > li > a:hover , .menu > li.current > a {text-decoration:none; color:#fff;background-position: right top; background-color:#d5cdba;}
+	.menu > li > a .menu-arrow{display:inline-block; width:auto; height:auto; text-indent:0; background:0; position:static; color:#8c8c8c; margin-left:5px;}
+		.menu > li.sfHover > a .menu-arrow, .menu > li > a:hover .menu-arrow, .menu > li.current > a .menu-arrow{color:#fff;}
+	**submenu**
+	.menu ul {position:static; width:auto; padding:15px 0px 15px 20px;}
+		.menu ul li{text-transform:lowercase;}
+}*/
+
+/* Design for a width of 320px */
+/*@media only screen and (max-width: 479px){
+	#menu-icon {width:91px;}
+}*/
+@media only screen and (min-width: 768px) {.menu {display:block !important;}}

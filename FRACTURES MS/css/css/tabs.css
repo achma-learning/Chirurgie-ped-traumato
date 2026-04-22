@@ -1,0 +1,109 @@
+#tabs {
+	margin: 0 auto 10px;
+        width: 95%;
+}
+.tab-menu{
+    width: 16%;
+    min-width: 145px;
+    float: left;
+}
+
+.tab-menu .button-1{
+    padding: 5px 0;
+    width: 120px;
+}
+
+.tab-menu .linkedin{
+    margin: 0 0 0 -10px;
+    display: block;
+    float: none;
+
+}
+
+.tab-content{
+    width: 84%;
+    float: right;
+}
+
+.tab-content-main{
+    border-left: 1px solid #CCC;
+    padding: 0 0 20px 30px;
+}
+
+.tab-content-secondary{
+    border-left: 1px solid #CCC;
+    border-top:1px solid #CCC;
+    padding: 10px 0 10px 30px;
+}
+
+.tab-menu img.logo{
+    width: 120px;
+    margin-bottom: 10px;
+}
+#centre {
+	margin: 0 auto 10px;
+        width: 70%;
+}
+
+#utilisateur #centre .btn_submit{
+    vertical-align: middle;
+    height: 30px
+}
+#utilisateur #centre .btn_submit .left{
+    margin-left: 170px;
+}
+#utilisateur #centre .btn_submit .right{
+    margin-right: 270px;
+}
+
+/* Onglets */
+.ui-tabs .ui-tabs-nav li.ui-state-active {
+	cursor: text;
+	color: #666;
+        font-weight: bold;
+}
+.ui-tabs .ui-tabs-nav li.ui-tabs-selected a {
+	position: relative;
+}
+.ui-tabs .ui-tabs-nav li a, .ui-tabs.ui-tabs-collapsible .ui-tabs-nav li.ui-tabs-selected a {
+	cursor: pointer;
+}
+.ui-tabs .ui-tabs-panel {
+	display: block;
+	overflow: hidden;
+	clear: both;
+	float: left;
+	background: #fff;
+	padding: 10px 10px 0;
+/*        DVA*/
+	font-family: Arial,"Trebuchet MS";
+	font-size: 12px;
+        color:#333;
+}
+.ui-tabs .ui-tabs-hide {
+	display: none !important;
+}
+
+
+
+#tabs-1, #tabs-2, #tabs-3{
+    padding-top: 20px;
+}
+#tabs .tab-content .titre{
+    float: left;
+    margin-left: 10px;
+}
+
+#tab-prestataire .left{
+    width: 550px;
+    margin-top: 10px;
+}
+#tab-prestataire .right{
+    width: 185px;
+    margin-left: 20px;
+    margin-top: 125px;
+}
+#tab-prestataire .left div{
+    margin-bottom: 20px;
+}
+

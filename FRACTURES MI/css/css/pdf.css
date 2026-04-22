@@ -1,0 +1,64 @@
+*{margin:0;padding:0; font-style: normal;}
+html, body{height:100%;}
+body {margin:0;background:url('/img/v2/background.png') repeat top center;background-color:#f2f2f2;font-family:'HelveticaNeue','Trebuchet MS', Arial, Helvetica, sans-serif;font-size:14px;color:#323232;}
+.container{position: relative;min-height: 100%;height: auto !important;height: 100%;margin: 0 auto -210px;}
+/* div en bas permettant de descendre le footer */
+.push{height:210px;clear:both}
+
+h1, h2, h3, h4, p, img, ul, li, a, input, textarea, select{padding:0;margin:0;border:0;outline: 0;font-family:'HelveticaNeue',"Trebuchet MS", Arial, Helvetica, sans-serif;}
+/*Modif sigmalis*/#htmlcaption1, #htmlcaption2 {font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;}
+li{list-style:none;}
+/*modif méd*/a{text-decoration:none;outline:none; color:#e2065f;cursor: pointer;}
+a:hover{text-decoration:none;}
+img{vertical-align:middle}
+
+.underline{text-decoration: underline;}
+.overline{text-decoration: overline;}
+.bold{font-weight: bold;}
+.italic{font-style: italic;}
+div.clear{clear: both;}
+.emmetteur_facture{
+    margin-left: 50px;
+    height: 150px;
+    width: 300px;
+    border-right: solid 1px black;
+    padding: 10px;
+}
+.client_destinataire{
+    margin-left: 370px;
+    margin-top: -160px;
+    height: 159px;
+    width: 300px;
+    padding-left: 30px;
+}
+.trait_vertical{margin-left: 6px;width: 800px;border-bottom: solid 1px black;}
+.RIB{padding: 15px;margin-left: 130px;border: solid 1px black; height: auto; width: 400px;}
+.RIB_droite{margin-top: -131px;margin-left: 130px;border-left: solid 1px black; padding-left: 30px;}
+img.logo_trouvissimo{margin-left: 61px;width: 270px;}
+
+.titre {border: solid 1px black;}
+.titre .champ {border-left: solid 1px black; padding: 20px;}
+.titre .champ_1{border: none;padding-top: 25px;}
+.titre .champ_2{margin-left: 400px;margin-top: -64px;}
+.titre .champ_3{margin-left: 574px;margin-top: -60px;}
+.right{margin-left: 425px }
+.ligne {border: solid 1px black;}
+.ligne .champ {border-left: solid 1px black;padding-left: 40px; padding-top: 2px;}
+.ligne .champ_1{border: none;padding-left: 10px;}
+.ligne .champ_2{margin-left: 400px;margin-top: -20px; padding-left: 35px;}
+.ligne .champ_3{margin-left: 574px;margin-top: -20px; padding-left: 35px;}
+.bleu{background-color:#ccffff}
+.text-right{text-align: right}
+div.petit_tableau .titre {border: solid 1px black;width: 340px;}
+div.petit_tableau .titre .champ_petit {border-left: solid 1px black;padding: 5px;}
+div.petit_tableau .titre .champ_petit_1{border: none;}
+div.petit_tableau .titre .champ_petit_2{margin-left: 70px;margin-top: -29px;}
+div.petit_tableau .titre .champ_petit_3{margin-left: 135px;margin-top: -29px;}
+div.petit_tableau .titre .champ_petit_4{margin-left: 193px;margin-top: -29px;}
+
+div.petit_tableau .ligne {border: solid 1px black;width: 340px;}
+div.petit_tableau .ligne .champ_petit {border-left: solid 1px black;padding: 5px;padding-left: 20px;}
+div.petit_tableau .ligne .champ_petit_1{border: none;}
+div.petit_tableau .ligne .champ_petit_2{margin-left: 70px;margin-top: -29px;}
+div.petit_tableau .ligne .champ_petit_3{margin-left: 135px;margin-top: -29px;padding-left: 15px;}
+div.petit_tableau .ligne .champ_petit_4{margin-left: 193px;margin-top: -29px;padding-left: 55px;}

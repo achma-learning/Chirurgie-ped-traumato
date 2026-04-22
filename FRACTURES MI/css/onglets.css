@@ -1,0 +1,132 @@
+#prestataire , #utilisateur {
+	margin: 0 auto 10px;
+        width: 95%;
+}
+#centre {
+	margin: 0 auto 10px;
+        width: 70%;
+}
+
+#utilisateur #centre .btn_submit{
+    vertical-align: middle;
+    height: 30px
+}
+#utilisateur #centre .btn_submit .left{
+    margin-left: 170px;
+}
+#utilisateur #centre .btn_submit .right{
+    margin-right: 270px;
+}
+/*#prestataire ul {
+	margin: 0;
+	padding: 0;
+	float: left;
+	list-style: none;
+	height: 30px;
+	width: 750px;
+        margin-top: 20px;
+}
+#prestataire ul li {
+	float: left;
+	margin: 0;
+	padding: 0;
+	height: 29px;
+	line-height: 29px;
+	border: 1px solid #DFDFDF;
+	margin-bottom: -1px;
+	overflow: hidden;
+	position: relative;
+	background: #fff;
+        border-top-left-radius:5px;
+        border-top-right-radius:5px;
+}
+#prestataire ul li a {
+	text-decoration: none;
+	color: #888;
+	display: block;
+	font-family: "Trebuchet MS";
+	font-size: 14px;
+	padding: 0 20px;
+        border-top-left-radius:5px;
+        border-top-right-radius:5px;
+}
+#prestataire ul li a:hover {
+	color: #fff;
+        background: url(/../img/fleche_jaune.png) center -999em  no-repeat;
+        background-color: #d5cdba;
+}*/
+
+/* Onglets */
+.ui-tabs .ui-tabs-nav li.ui-state-active {
+	cursor: text;
+	color: #666;
+}
+.ui-tabs .ui-tabs-nav li.ui-tabs-selected a {
+	position: relative;
+}
+.ui-tabs .ui-tabs-nav li a, .ui-tabs.ui-tabs-collapsible .ui-tabs-nav li.ui-tabs-selected a {
+	cursor: pointer;
+}
+.ui-tabs .ui-tabs-panel {
+	display: block;
+	border: 1px solid #DFDFDF;
+	overflow: hidden;
+	clear: both;
+	float: left;
+	width: 890px;
+	background: #fff;
+	margin-top: -18px;
+	padding: 10px 10px 0;
+	font-family: "Trebuchet MS";
+	font-size: 14px;
+}
+.ui-tabs .ui-tabs-hide {
+	display: none !important;
+}
+
+
+
+#tabs-1, #tabs-2, #tabs-3{
+    padding-top: 20px;
+}
+.onglet > li {
+	position:relative;
+	float:left;
+	font:17px/21px Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        border-top: 2px solid #DFDFDF;
+}
+.onglet li a:hover{background-position:center top; color:#fff;}
+.onglet > li > a {
+        display:block;
+        color:#d5cdba;
+        text-decoration:none;
+        text-align:center;
+        padding:12px 0 55px;
+        background:url(/img/fleche_jaune2.png) center -999em no-repeat;
+        width:150px;
+        position:relative;
+        z-index:999;
+}
+
+.onglet li a span {
+    background: url("/img/template/slider-links-marker.png") no-repeat scroll center top transparent;
+    display: block;
+    height: 23px;
+    left: 67px;
+    overflow: hidden;
+    position: absolute;
+    top: 40px;
+    width: 23px;
+}
+
+.onglet li a:hover span, .onglet li.ui-tabs-selected a span{background-position:center -26px;}
+
+.onglet > li.sfHover > a,.onglet > li > a:hover , .onglet > li.ui-tabs-selected  > a {
+    text-decoration:none;
+    color:#fff;
+    background-position: center bottom;
+
+}
+
+

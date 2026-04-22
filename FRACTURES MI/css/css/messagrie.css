@@ -1,0 +1,188 @@
+/* 
+    Document   : messagrie
+    Created on : Jul 11, 2012, 2:33:33 PM
+    Author     : developpeur
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+.clear {
+    clear: both;
+}
+root { 
+    display: block;
+}
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+    border: 0 none;
+    font-family: inherit;
+    font-size: 98%;
+    font-style: inherit;
+    font-weight: inherit;
+    margin: 0;
+    outline: 0 none;
+    padding: 0;
+    vertical-align: baseline;
+}
+
+.grid-c {
+    float:left;
+    width: 100%;
+   /*/ border: 1px solid #B6B6B6; */
+}
+
+.grid-c a{
+    text-decoration: none;
+}
+
+.grid-c #sidebar{
+    float:left;
+    width:20.8%;
+    margin-right:10px}
+
+.grid-c #content {
+    float: left;
+    width: 76%;
+/*    padding: 0 10px 0 0;*/
+}
+
+#messages ul.menu-actions,
+#messages ul.menu-message {
+    border-bottom: 2px solid #DFD9C9;
+    padding: 5px 0 ;
+    text-align: right;
+}
+
+
+#messages ul.menu-message {
+    padding: 0;
+    text-align: right;
+}
+
+#messages ul.menu-actions li,
+#messages ul.menu-message li,
+#messages ul.menu-message-top li,
+#messages ul.filters li,
+#messages ul.message li,
+#messages ul.actions li
+{
+    display: inline-block;
+}
+
+#messages ul.message-list li.item{
+    padding: 5px 0;
+    border-top: 1px solid #DFD9C9;
+    cursor: pointer;
+}
+
+#messages ul.message-list li.item:hover{
+    background:none repeat scroll 0 0 #E2DED5;
+}
+#messages ul.message-list li.unread{
+    font-weight: bold;
+}
+
+#messages ul.filters
+{
+   text-align: right;
+   margin: 0 0 20px 0;
+}
+
+#messages li.chk_all span.label
+{
+   font-style: italic;
+   font-weight: normal;
+}
+
+#messages ul.filters li.filter{
+   width: 200px;
+}
+
+#messages ul.filters li.sort{
+   width: 175px;
+}
+
+#messages .btn {
+    padding: 2px 3px;
+    background-color: #E2DED5;
+    border-radius:3px;
+    -moz-border-radius:3px;
+    -webkit-border-radius:3px;
+    border: 1px solid #D5CDBA;
+    cursor: pointer;
+    margin: 0 0 0 2px;
+}
+
+#messages .btn:hover {
+    background-color:#d5cdba;
+    color:#fff;
+}
+
+#messages .btn:disabled {
+    opacity: 0.8;
+    cursor: default;
+    color: #B5B5B5
+}
+
+#messages .btn:disabled:hover {
+    background-color:#E2DED5;
+    color: #B5B5B5
+}
+
+#messages .preview {
+    display:none;
+}
+
+#messages ul.message li.participants{
+    width:175px;
+}
+
+#messages ul.message li.subject{
+    width:376px;
+}
+
+#messages .pagination-inbox {
+    padding: 20px;
+    text-align: center;
+    border-top: 3px solid #DFD9C9;
+}
+
+#messages ul.content li {
+    padding: 10px 5px;
+}
+#messages ul.content li.subject {
+    font-size: 22px;
+    padding: 0 0 10px;
+    border-bottom: 3px solid #DFD9C9;
+}
+
+#messages ul.content li.from {
+    border-bottom: 1px solid #DFD9C9;
+    padding: 10px 5px;
+    background:none repeat scroll 0 0 #FAFAFA;
+}
+
+#messages ul.content li.to {
+    border-bottom: 1px solid #DFD9C9;
+    padding: 10px 5px;
+    background:none repeat scroll 0 0 #FAFAFA;
+}
+
+#messages ul.content li.message{
+    border-bottom: 3px solid #DFD9C9;
+    padding: 10px 5px;
+}
+
+#messages ul.menu-message {
+    border-bottom: 0px none;
+    padding: 10px 0;
+}
+
+#messages ul.content ul.menu-message-top li{
+    padding:0;
+}

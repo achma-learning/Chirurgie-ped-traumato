@@ -1,0 +1,29 @@
+.link_bulle {
+cursor: default;
+color: gray;
+border-bottom: 1px dotted gray;
+}
+
+.infos_bulle {
+z-index: 100000;
+position: absolute;
+top: -999px;
+visibility: hidden;
+overflow:hidden;
+font: normal 10px Verdana, Arial;
+color: black;
+padding: 8px;
+border: 1px solid #ccc;
+background-color: #F2F2F2;
+background-image: -webkit-gradient(linear, left top, left bottom, from(#FFFFFF), to(#F2F2F2));
+background-image: -webkit-linear-gradient(top, #FFFFFF, #F2F2F2);
+background-image: -moz-linear-gradient(top, #FFFFFF, #F2F2F2);
+background-image: -ms-linear-gradient(top, #FFFFFF, #F2F2F2);
+background-image: -o-linear-gradient(top, #FFFFFF, #F2F2F2);
+background-image: linear-gradient(top, #FFFFFF, #F2F2F2);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#FFFFFF', EndColorStr='#F2F2F2');
+opacity: 0.9;
+-moz-opacity: 0.9;
+filter: alpha(opacity=90);
+border-radius:5px;
+}

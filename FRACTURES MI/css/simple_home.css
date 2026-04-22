@@ -1,0 +1,206 @@
+.textbox_style input{
+    background: none repeat scroll 0 0 #F7F7F7;
+    border: 1px solid #DFD9C9;
+    color: #828387;
+    font: 13px Arial,Helvetica,sans-serif;
+    margin: 0 0 10px;
+    outline: medium none;
+    padding: 6px 9px;
+    width: 180px;
+}
+
+.btn_submit{
+    vertical-align: middle;
+}
+
+.container_25 {
+    margin: 0 auto;
+    padding: 0 15px;
+    position: relative;
+    width: 1060px;
+}
+
+div.suffix_1 div.icon-home {
+    background: url("../img/template/page5-img1.jpg");
+    background-repeat: no-repeat;
+    padding-left: 280px;
+    padding-top: 30px;
+    width: 340px;
+}
+
+.home{
+    font: 14px Arial, Helvetica, sans-serif;
+    text-transform: none;
+    color: #000;
+    margin-top: 50px;
+    font-family: -webkit-body;
+    font-weight: normal;
+}
+
+.search_header{
+    background-color: white;
+    border-top: 1px solid #DFD9C9;
+    border-right: 1px solid #DFD9C9;
+    border-bottom: 1px solid #DFD9C9;
+    border-left: none;
+    color: #828387;
+    outline: none;
+    padding: 3px 9px;
+    width: 200px;
+    height:20px;
+    -webkit-border-top-right-radius: 5px;
+    -webkit-border-bottom-right-radius: 5px;
+    -moz-border-radius-topright: 5px;
+    -moz-border-radius-bottomright: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.suggestion_search_header{
+    -webkit-border-top-left-radius: 5px;
+    -webkit-border-bottom-left-radius: 5px;
+    -moz-border-radius-bottomleft: 5px;
+    -moz-border-radius-topleft: 5px;
+    background: none repeat scroll 0 0 #F7F7F7;
+    border: 1px solid #DFD9C9;
+    display: inline-block;
+    height: 20px;
+    padding: 2px 0 4px 2px;
+}
+
+.suggestion_search_header select{
+    background: none repeat scroll 0 0 #F7F7F7;
+    border: none;
+    color: #828387;
+    font: 13px Arial,Helvetica,sans-serif;
+    outline: none;
+}
+
+.search_button {
+    border: 0 none;
+    background: url("../img/search_loupe.png") no-repeat scroll center center transparent;
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    cursor: pointer;
+}
+
+.search-box-home .search_button {
+    background: url("../img/search_loupe.png") no-repeat scroll center center transparent;
+    border: 0 none;
+    cursor: pointer;
+    display: inline-block;
+    height: 26px;
+    width: 26px;
+}
+
+.logo-simple {
+    margin-top: 30px;
+}
+.logo img{
+    width: 200px;
+}
+.slider-links a span {
+    top: 82px
+}
+
+.img-indent img{
+    width: 70px;
+}
+.img-indent2 img{
+    width: auto;
+}
+
+.p6 {
+margin-bottom: 10px;
+}
+
+.menu li li{
+    text-transform: none;
+}
+.menu li li a {
+    width: 250px;
+}
+
+.left{float: left}
+.right{float: right}
+.logo{
+    font-size: 60px;
+    margin-top: 15px;
+}
+
+.scrollup{
+    width:40px;
+    height:40px;
+    opacity:0.3;
+    position:fixed;
+    bottom:50px;
+    right:100px;
+    display:none;
+    text-indent:-9999px;
+    background: url('/img/icon_top.png') no-repeat;
+}
+
+.slogan{
+    width: 300px;
+    text-align: right;
+    float: left;
+    position: relative;
+    top:25px;
+    right: 40px;
+    font-size: 14px;
+}
+
+.caption{
+    width: 700px;
+    background: none;
+}
+/*.caption p{
+    display: block;
+    font-size: 45px;
+    line-height: 50px;
+    color: #B9AA81;
+    text-transform: uppercase;
+    margin-left: -3px;
+}
+.caption span{
+    font-size: 22px;
+    line-height: 40px;
+}
+.caption em{
+    text-transform: none;
+}*/
+
+.text_home{
+    color: #B9AA81;
+    font-size: 16px;
+}
+ul.list-home{
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    float: right;
+}
+ul.list-home li{
+    font: 13px Arial, Helvetica, sans-serif;
+    background: url(/img/template/marker-1.png) 0 0 no-repeat;
+    padding-left: 29px;
+    padding-top: 1px;
+    min-height: 20px;
+    margin-bottom: 6px;
+}
+.wrapper{
+    font: 13px Arial, Helvetica, sans-serif;
+}
+
+.wrapper_left_home{
+    width: 600px;
+}
+
+.connect-link{
+    padding-right: 5px;border-right: 1px solid midnightblue;
+}
+
+.top-advanced-search{
+    font-size: 11px;
+}

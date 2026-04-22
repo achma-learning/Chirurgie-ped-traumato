@@ -1,0 +1,28 @@
+/*langue*/
+#langue{
+    height: 20px;
+    width: 110px;
+    float: right;
+}
+#langue span.texte{
+    display: inline-block;
+    zoom: 1;
+    vertical-align: top;
+    margin-right: 20px;
+    cursor: pointer;
+    background: url('/img/sprite/drapeaux.png') no-repeat right 4px;
+    padding-right: 13px;
+    font-size: 11px;
+
+}
+#langue span.drapeau{
+    margin-right: 5px;
+    position: relative;
+    top: 2px;
+    width: 16px;
+    height: 11px;
+}
+#langue .drapeaux-fr{
+     background: url('/img/sprite/drapeaux.png') no-repeat right;
+     background-position: 0px -24px;
+}

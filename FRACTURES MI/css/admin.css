@@ -1,0 +1,257 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    font-family: "Trebuchet MS", Verdana, Geneva, Arial;
+    font-size : 12px;
+    line-height: 1.5em;
+}
+a {
+    color: #3B6EBF;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+#wrap {
+    margin: 20px auto;    
+    width: 80% ;
+    color: #FFFFFF;
+}
+#content {
+    position: relative;
+    float: left;
+    background-color: #ccccff;
+    width: 100%;
+    color: #000000;
+    border-radius:5px;
+}
+.header {
+    height: 50px;
+    width: 80%;
+    margin: 20px auto;
+    background: #85ACF7 ;
+    border-radius:5px;
+    color: #FFFFFF;
+}
+.menu {
+    height: 50px;
+    margin: 10px;
+    color: #FFFFFF;
+}
+.titre {
+    height: 30px;
+    margin: 10px;
+    color: #FFFFFF;
+}
+.page{
+    margin: 10px;
+}
+.header h1 { padding-left: 17px; padding-top: 22px; font-size: 22px; color:#FFF; }
+.header h1 a { font-size: 22px; text-decoration: none; color:#FFF; }
+.header h2 { padding-left: 17px; padding-top: 10px; font-size: 17px; }
+
+#menu_txt_header {
+    background: #F6F9FB;
+    border-bottom: 1px solid #E1E1E1;
+    padding: 5px;
+}
+
+#menu_txt_header .image_addthis {
+    float: right;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+.all {
+    float: left;
+    width: 100%;
+    margin: 0 10px;
+    padding: 1% 1%;
+    text-align: justify;
+}
+.middle {
+    float: left;
+    width: 68%;
+    margin: 0 10px;
+    padding: 1% 1%;
+    text-align: justify;
+    overflow:hidden;
+}
+.middle-besoin {
+    float: left;
+    width: 75%;
+    margin: 0 10px;
+    padding: 1% 1%;
+    text-align: justify;
+    overflow:hidden;
+}
+.middle td.gauche{
+    min-width: 150px;
+}
+.middle input, .middle textarea , .middle select{
+    width: 163px;
+    min-width: 163px;
+    max-width: 163px;
+}
+.middle div.checkbox-tree-view input[type='checkbox']{
+    width: 20px;
+    min-width: 20px;
+    max-width: 20px;
+}
+
+.middle2 input, .middle2 textarea{
+    width: 400px;
+    min-width: 400px;
+    max-width: 400px;
+}
+
+#submit2{
+    width: 100%;
+    margin-left: 260px;
+}
+#submit2 a{
+    width: 100px;
+    padding: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: #06C;
+    border-radius: 5px;
+    color: white;
+}
+.middle input#submit{
+    width: 100px;
+    min-width: 100px;
+    max-width: 100px;
+}
+.middle input#role-freelance , .middle input#role-prestataire , .middle input#role-client , .middle input#role-gestionnaire{
+    width: 20px;
+    min-width: 20px;
+    max-width: 20px;
+}
+.right {
+    float: left;
+    background-color: #0066cc;
+    border-radius: 5px;
+    width: 23%;
+    margin:  5px;
+    padding: 1% 1%;
+}
+.right ul {
+    padding: 10px 0 10px 20px;
+    margin:0;
+}
+.right li {
+    margin-bottom:5px;
+    list-style-type: square;
+    color: #FFFFFF;
+}
+.right a{
+    color: white;
+    text-decoration: none;
+}
+.right select {
+    width: 100%;
+}
+.right input {
+    width: 98%;
+}
+.bottom {
+    float: left;
+    background-color: #E1E1E1;
+    border-radius: 5px;
+    width: 97%;
+    height: 30px;
+    margin:  5px;
+    padding: 1% 1%;
+}
+#clear { 
+    display: block;
+    clear: both;
+    width: 100%;
+    height:1px;
+    overflow:hidden;
+}
+/* menu-----------------------------------------------------------------------------*/
+div.menu_admin{
+}
+div.menu_admin a{
+    color: white;
+    text-decoration: none;
+}
+div.menu_admin a:hover{
+    color: black;
+    text-decoration: none;
+}
+div.menu_admin table{
+    width: 100%;
+    height: 30px;
+}
+div.menu_admin td{
+    width: 13.5%;
+    min-width: 13.5%;
+    border-radius:5px;
+    text-align: center;
+}
+div.menu_admin td.normal{
+    background-color: #0066cc;
+}
+div.menu_admin td.page{
+    background-color: #0099cc;
+}
+/* page index gestion-----------------------------------------------------------------------------*/
+div.tabbleau{
+    float: left;
+}
+div.tabbleau th{
+    min-width: 60px;
+    max-width: 150px;
+}
+div.tableau-besoin th,div.tableau-besoin td{
+    min-width: 120px;
+    max-width: 250px;
+    text-align: center;
+}
+div.tableau-besoin th.col1, div.tableau-besoin td.col1{
+    min-width: 135px;
+    max-width: 220px;
+    text-align: justify;
+}
+div.tabbleau td.supp {
+    text-align: center;
+}
+div.tabbleau td.modif {
+    text-align: center;
+}
+
+/* formulaire */
+
+div.page div.all textarea, div.page div.all input, div.page div.all select{
+    min-width: 160px;
+    max-width: 160px
+}
+
+
+.detail-besoin td{
+    width: 20%;
+
+}
+
+.detail-besoin td.tdstart{
+    width: 350px;
+}
+.middle-detailbesoin{
+
+    width: 100%;
+
+}
+.desc-besoin{
+    width: 85%;
+    margin-top: 20px;
+    height: auto;
+    text-align: justify;
+}
+
+form#edit_besoin p.besoin{
+    width: 187px;
+}
