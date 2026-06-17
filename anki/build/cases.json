@@ -1,0 +1,2091 @@
+[
+ {
+  "file": "FRACTURES MS/cas_clinique/cas1.html",
+  "region": "Epaule",
+  "casenum": "Cas Clinique 1",
+  "vignette": "Traumatisme fermé chez un enfant de 3ans, suite à un AVP. Cliniquement, il a présenté une douleur à la palpation de l’épaule droite. Une radiographie a été faite.",
+  "vignette_imgs": [
+   "FRACTURES MS/img/sdar.jpg"
+  ],
+  "qa": [
+   {
+    "n": 1,
+    "q": "De quel type de lésion s’agit-il?",
+    "answer": "Fracture en bois-vert médio-diaphysaire de la clavicule droite.",
+    "comment": "La fracture de la clavicule est parmi les plus fréquentes des fractures de l’enfant. Elle est souvent isolée. Néanmoins, elle se rencontre fréquemment dans les polytraumatismes où elle doit être systématiquement recherchée.\nLes fractures du tiers moyen sont de loin les plus fréquentes. Elles sont suivies par les fractures du tiers externe. Ensuite, viennent en dernier les fractures du tiers interne .(fig2).\n\nfig2 : schéma de fréquence des fractures de la clavicule selon leurs sièges",
+    "answer_imgs": []
+   },
+   {
+    "n": 2,
+    "q": "Quelle attitude préconisez-vous dans ce type de fracture?",
+    "answer": "Une immobilisation par anneau claviculaire.",
+    "comment": "Le traitement des fractures de la clavicule se fait comme suit:\n\n- Fractures de la diaphyse de la clavicule:\n\nLe traitement est dans l’immense majorité des cas un traitement orthopédique avec contention par anneaux en 8 pour une durée de 3 à 4 semaines. Le traitement chirurgical est exceptionnellement indiqué en cas de complications vasculo-nerveuses ou de menace d’ouverture cutané.\n\n- Fractures du quart externe de la clavicule:\n\nLe traitement est dans la grande majorité des cas orthopédique par contention par des anneaux en 8 associée à un bandage par élastoplaste en pont sur l’épaule ( abaissement du 1/4 externe) pour une durée de 3 à 4 semaines.\n\n- Lésions internes de la clavicule:\n\nEn cas de lésion à déplacement antérieur, le traitement consiste le plus souvent en une immobilisation du membre supérieur par une simple écharpe pour une durée de 3 semaines.\nEn cas de lésion à déplacement postérieur, il peut être nécessaire de réduire le déplacement sous anesthésie générale et d’assurer une stabilisation chirurgicale.",
+    "answer_imgs": []
+   },
+   {
+    "n": 3,
+    "q": "Que faut-il expliquer aux parents?",
+    "answer": "La mise en place des anneaux et la position recherchée en rétro-pulsion de l’épaule. Des anneaux lâches sont inefficaces.\n\nL’anneau ne doit pas être compressif. Aviser les parents de consulter en urgence en cas de fourmillements ou de paresthésies des doigts.\n\nLes cals vicieux sont fréquents avec persistance d'une saillie plus ou moins visible et d'un raccourcissement. Dans la plupart des cas, il n’y a aucun retentissement fonctionnel et seul peut exister un cal inesthétique.",
+    "comment": "Chez l'enfant jeune ou turbulent, on peut utiliser le procédé de PICCHIO qui consiste à plaquer le bras au thorax par un simple élastoplaste collé derrière le thorax (ne pas omettre un petit coussinet de coton dans l'aisselle). On peut compléter l'immobilisation du foyer de fracture par un coussinet collé en avant des fragments (fig3).\n\nfig3: schéma d’immobilisation selon le procédé de PICCHIO",
+    "answer_imgs": []
+   }
+  ],
+  "section": "MS",
+  "id": "MS_cas1"
+ },
+ {
+  "file": "FRACTURES MS/cas_clinique/cas2.html",
+  "region": "Epaule",
+  "casenum": "Cas clinique 2",
+  "vignette": "Traumatisme fermé de l’épaule droite, chez un enfant de 14ans, suite à une chute de sport.\nL’examen a trouvé une douleur au niveau de la clavicule, avec palpation de l’os sous la peau.",
+  "vignette_imgs": [
+   "FRACTURES MS/img/ktaff.jpg"
+  ],
+  "qa": [
+   {
+    "n": 1,
+    "q": "Quel imagerie demandez-vous?",
+    "answer": "Une radiographie de l’épaule droite de face et de profil",
+    "comment": "Certaines fractures peuvent être difficiles à voir et nécessitent parfois de multiplier les incidences pour dérouler la clavicule (incidences ascendantes et obliques).\n.",
+    "answer_imgs": []
+   },
+   {
+    "n": 2,
+    "q": "Quel est votre diagnostic?",
+    "answer": "Fracture médio-diaphysaire déplacée de la clavicule droite avec menace de la peau.",
+    "comment": "",
+    "answer_imgs": [
+     "FRACTURES MS/img/fig2R2CC2E.jpg"
+    ]
+   },
+   {
+    "n": 3,
+    "q": "Quelle attitude préconisez-vous pour cette lésion?",
+    "answer": "Vu le risque d’ouverture cutanée secondaire, une réduction chirurgicale avec embrochage a été proposée (fig3).",
+    "comment": "Le traitement chirurgical des fractures de la clavicule est indiqué en cas de:\n\nmenace d’ouverture cutanée\n\nlésion de l’artère et/ou de la veine sous clavière,\n\nd’atteinte du plexus brachial ou du dôme pleural,\n\nsubluxation acromio-claviculaire.",
+    "answer_imgs": [
+     "FRACTURES MS/img/ktafjanb.jpg"
+    ]
+   }
+  ],
+  "section": "MS",
+  "id": "MS_cas2"
+ },
+ {
+  "file": "FRACTURES MS/cas_clinique/cas3.html",
+  "region": "Epaule",
+  "casenum": "Cas clinique 3",
+  "vignette": "Suite à un AVP, un enfant de 13 ans a présenté un traumatisme fermé de l’épaule gauche. L’examen clinique a objectivé une impotence fonctionnelle totale et une déformation de l’épaule. L’examen vasculo-nerveux a été sans anomalie.\nLa radiographie de l’épaule gauche faite, a montré:",
+  "vignette_imgs": [
+   "FRACTURES MS/img/3dam.jpg"
+  ],
+  "qa": [
+   {
+    "n": 1,
+    "q": "Interpréter la radiographie",
+    "answer": "Fracture décollement épiphysaire stade I de SALTER et HARRIS de l’extrémité supérieure de l’humérus gauche avec déplacement secondaire.",
+    "comment": "Les fractures de l’extrémité supérieure de l’humérus sont très fréquentes.\nLeur diagnostic clinique se fait par la mise en évidence de l’impotence fonctionnelle et de la déformation du moignon de l’épaule.\n\nLes fractures-décollements épiphysaires les plus fréquentes sont:\n\n➢\nles décollement purs du cartilage de croissance (Type I de SALTER et HARRIS),\n\n➢\nles décollements impurs associés à une fracture métaphysaire (type II).",
+    "answer_imgs": []
+   },
+   {
+    "n": 2,
+    "q": "Citez les différents types de décollement épiphysaire décrits par SALTER et HARRIS ?",
+    "answer": "La classification des décollements épiphysaires selon SALTER et HARRIS (fig2):\n\ntype I: décollement épiphysaire pur\n\ntype II: décollement épiphysaire avec fracture métaphysaire\n\ntype III: décollement-fracture épiphysaire\n\ntype IV: fracture épiphysio-métaphysaire\n\ntype V: écrasement du cartilage de croissance\n\nfig2: image illustrant les stades des décollements épiphysaires de l'humérus selon SALTER et HARRIS",
+    "comment": "",
+    "answer_imgs": [
+     "FRACTURES MS/img/3dam.png"
+    ]
+   },
+   {
+    "n": 3,
+    "q": "Quel traitement proposez-vous?",
+    "answer": "Une réduction orthopédique de la fracture et stabilisation par un embrochage centro-médullaire élastique stable ou embrochage fasciculé (fig3).\n\nfig3: embrochage fasciculé percutané",
+    "comment": "L’ostéomyélite pubienne pose des problèmes de diagnostic à cause de la variabilité des signes cliniques. Son diagnostic passe par un examen clinique soigneux de la région du bassin et une demande appropriée des examens complémentaires.\n\nUn syndrome inflammatoire biologique est souvent retrouvé, avec une hyperleucocytose, une augmentation de la vitesse de sédimentation et un taux élevé de la CRP.\n\nLa radiographie standard\n, au début, est souvent normale. Les anomalies radiologiques initiales, telles que les images lytiques, posent un problème de diagnostic différentiel avec des lésions tumorales. Ces lésions radiologiques apparaissent au cours de l’évolution d’une ostéomyélite méconnue et le plus souvent non traitée. Tardivement, des remaniements ou des lésions sclérogéodiques apparaissent.\n\nL’échographie\npermet d’explorer de manière précoce et comparative les différentes facettes osseuses pelviennes à la recherche d’un abcès sous-périosté ou rompu dans les parties molles.\n\nLa scintigraphie osseuse\nfournit des signes précoces, en montrant une hyperfixation, cependant inconstante et non spécifique, peut orienter le diagnostic mais elle ne peut ni infirmer ni confirmer la présence d’une collection purulente.",
+    "answer_imgs": [
+     "FRACTURES MS/img/zzzz.jpg"
+    ]
+   }
+  ],
+  "section": "MS",
+  "id": "MS_cas3"
+ },
+ {
+  "file": "FRACTURES MS/cas_clinique/cas4.html",
+  "region": "Epaule",
+  "casenum": "Cas clinique 4",
+  "vignette": "Fille de 7ans, présentant un traumatisme fermé de l’épaule gauche, suite à une chute des escaliers. L’examen clinique a trouvé\n\nune douleur exquise à la palpation de l’épaule,\nune limitation douloureuse de la mobilisation et\nune absence de troubles vasculo-nerveux.\nLa radiographie a montré:",
+  "vignette_imgs": [
+   "FRACTURES MS/img/aa.jpg"
+  ],
+  "qa": [
+   {
+    "n": 1,
+    "q": "Quel est votre diagnostic?",
+    "answer": "Décollement épiphysaire stade II de SALTER et HARRIS de l’extrémité supérieure de l’humérus gauche avec déplacement important.",
+    "comment": "",
+    "answer_imgs": []
+   },
+   {
+    "n": 2,
+    "q": "Quelle classification peut-on utiliser pour juger le déplacement?",
+    "answer": "L’importance de l’angulation et de la translation permet de classer la fracture, en tenant compte de l’angulation maximum mesurée sur les clichés de face et de profil.\n\nCelle-ci est représenté par l’angle entre l’axe diaphysaire et la perpendiculaire au cartilage de croissance (fig2).\n\nType 1: angulation < 20° et une translation < 50%\n\nType 2: 20° < angulation < 40° ou translation > 50%\n\nType 3: angulation > 40° ou translation totale",
+    "comment": "",
+    "answer_imgs": [
+     "FRACTURES MS/img/fig2.jpg"
+    ]
+   },
+   {
+    "n": 3,
+    "q": "Quelle complication nerveuse faut-il craindre? Comment la rechercher?",
+    "answer": "La complication à craindre est la lésion du nerf axillaire. Elle est recherchée en testant la sensibilité du moignon de l’épaule.",
+    "comment": "Dès que le diagnostic est fait, il faut rechercher les complications possibles :\n\n- vasculaires : lésions des vaisseaux axillaires (pouls)\n\n- nerveuses : lésions du plexus brachial, du nerf circonflexe, du radial\n\n- cutanées : l'ouverture est rare\n\n- musculaires : deltoïde, tendon du biceps, interposition dans la fracture empêchant la réduction et justifiant une réduction chirurgicale.",
+    "answer_imgs": []
+   },
+   {
+    "n": 4,
+    "q": "Quelle est votre conduite thérapeutique?",
+    "answer": "Réduction orthopédique sous anesthésie générale et stabilisation par un embrochage percutané fasciculé en palmier (fig3).",
+    "comment": "Traitement des fractures-décollements épiphysaires:\n\n➢\nla majorité des fracture-décollements épiphysaires de l’extrémité supérieure de l’humérus relèvent d’un traitement orthopédique,\n\n➢\nles fractures-décollement épiphysaires de type I non déplacées ou avec un déplacement minime sont immobilisés coude au corps, sans réduction, par un simple bandage ou un Gerdy platré. Une immobilisation de 3 semaines est suffisante, relayée par une simple écharpe pour encore 3 semaines.\n\n➢\nPour le type II ou III: à partir de 20° d'angulation, la réduction devient nécessaire et sera associée à une immobilisation plâtrée, coude au corps, si la fracture est stable. Pour les fractures instables, il est préférable de réaliser un embrochage centro-médullaire élastique stable (ECMES) ou fasciculé; à foyer fermé.\n\n➢\nl’embrochage centro-médullaire élastique stable (ECMES) est une technique d’ostéosynthèse adaptée aux fractures diaphysaires de l’enfant et de l’adolescent. La technique chirurgicale utilise deux broches en acier ou en titane dont le diamètre est égale à 40% du diamètre médullaire. Ces deux broches béquillées et cintrées sont disposées en double arc sécant à l’intérieur du fût médullaire de façon à assurer une stabilité de la réduction obtenue.\n\n➢\nL’embrochage fasciculé, décrit par Hackethal en 1961, s’applique parfaitement aux fractures humérales. Cette technique stabilise l’humérus grâce à un contact interfragmentaire étroit, l’autoblocage mutuel d’un nombre maximal de broches cendomédullaires, leur divergence métaphyso-épiphysaire proximale dans l’os spongieux céphalique et l’obstruction de la fenêtre d’entrée corticale distale.\n\n➢\nCertaines fractures-décollements épiphysaires très déplacées peuvent faire l’objet d’une réduction chirurgicale.",
+    "answer_imgs": [
+     "FRACTURES MS/img/sloka.jpg"
+    ]
+   }
+  ],
+  "section": "MS",
+  "id": "MS_cas4"
+ },
+ {
+  "file": "FRACTURES MS/cas_clinique/cas5.html",
+  "region": "Epaule",
+  "casenum": "Cas clinique 5",
+  "vignette": "Traumatisme fermé de l’épaule gauche, chez un enfant de 13 ans, suite à une chute lors d’un jeu.\nL’examen a trouvé\n\nun œdème important de l’épaule,\n\nune douleur exquise à la palpation de l’extrémité supérieure de l’humérus et\nune absence de troubles vasculo-nerveux.\n\nLa radiographie faite, a montré:",
+  "vignette_imgs": [
+   "FRACTURES MS/img/ktaaf.jpg"
+  ],
+  "qa": [
+   {
+    "n": 1,
+    "q": "Quel est votre diagnostic?",
+    "answer": "Fracture métaphysaire légérement déplacé de l’extrémité supérieure de l’humérus gauche.",
+    "comment": "Les fractures métaphysaires dépassent largement les fractures épiphysaires avec un pourcentage de 77%. Elles siègent sur la métaphyse et respectent le cartilage de croissance. Elles sont rarement métaphyso-diaphysaire. Le trait est transversal ou oblique court.",
+    "answer_imgs": []
+   },
+   {
+    "n": 2,
+    "q": "Quelle est votre attitude thérapeutique?",
+    "answer": "Réduction orthopédique sous scope avec un embrochage centro-médullaire élastique stable (fig2).\n\nfig2\n\nAprès une durée de 4 mois, la radiographie a montré: (fig3)",
+    "comment": "Traitement des fractures métaphysaires:\n\n➢\nPour le type I: une immobilisation coude au corps et sans réduction, par un bandage de type DUJARIER, est suffisante pendant 3 semaines.\n\n➢\nPour le type II ou III: à partir de 20° d'angulation, la réduction devient nécessaire et sera associée à une immobilisation plâtrée, coude au corps, si la fracture est stable. Pour les fractures instables, il est préférable de réaliser un embrochage centro-médullaire élastique stable ou fasciculé; à foyer fermé.",
+    "answer_imgs": [
+     "FRACTURES MS/img/ktiyaf.jpg",
+     "FRACTURES MS/img/ECC5/fig3.jpg"
+    ]
+   }
+  ],
+  "section": "MS",
+  "id": "MS_cas5"
+ },
+ {
+  "file": "FRACTURES MS/cas_clinique/cas6.html",
+  "region": "Bras",
+  "casenum": "Cas clinique 1",
+  "vignette": "Traumatisme fermé du bras gauche chez un enfant de 12ans, suite à un AVP.\nL’examen clinique a trouvé\nune déformation du bras et\nune douleur exquise en regard sans ouverture cutanée ni troubles vasculo-nerveux.\nUne radiographie a été faite, et a montré:",
+  "vignette_imgs": [
+   "FRACTURES MS/img/aaaa.jpg"
+  ],
+  "qa": [
+   {
+    "n": 1,
+    "q": "Interprétez la radiographie",
+    "answer": "Fracture diaphysaire à trait oblique court de l’humérus gauche à la jonction 1/3 supérieur 1/3 moyen, avec chevauchement.",
+    "comment": "La fracture diaphysaire de l’humérus est peu fréquente chez l’enfant. Elle fait suite à un traumatisme de haute énergie. Son diagnostic, évident, se fait par la mise en évidence d’une impotence fonctionnelle du membre supérieur, la déformation du bras et l’impression de raccourcissement du membre.",
+    "answer_imgs": []
+   },
+   {
+    "n": 2,
+    "q": "Quelle est la complication qu’il faut craindre?",
+    "answer": "Une lésion du nerf radial (fig2).\n\nfig2: schéma illustrant le mécanisme de lésion du nerf radial dans une fracture diaphysaire de l'humérus",
+    "comment": "La paralysie radiale d’emblée constatée lors d’une fracture de la diaphyse humérale est dans la majorité des cas due à une contusion du nerf dont les effets vont être régressifs.",
+    "answer_imgs": [
+     "FRACTURES MS/img/awdii.jpg"
+    ]
+   },
+   {
+    "n": 3,
+    "q": "Comment la rechercher?",
+    "answer": "➢\nmobilité par la flexion dorsale du poignet et l’extension des métacarpo-phalangiennes.\n\n➢\nsensibilité de la tabatière anatomique, zone sensitive privilégiée du nerf radial",
+    "comment": "",
+    "answer_imgs": []
+   },
+   {
+    "n": 4,
+    "q": "Quel traitement proposez-vous?",
+    "answer": "Réduction orthopédique avec un embrochage percutané centro-médullaire élastique stable de METAIZEAU (fig3).",
+    "comment": "La ponction articulaire est la clé du diagnostic, c’est un geste qui doit être fait en urgence au bloc opératoire dans les conditions d’asepsie chirurgicale, sous anesthésie générale avant toute antibiothérapie. On utilise une aiguille d’un calibre suffisant pour ramener un liquide parfois épais.\n\nIl s’agit d’une ponction évacuatrice qui doit enlever le maximum de liquide afin de réduire l’inoculum bactérien.\n\nLe patient est installé en décubitus dorsal, le genou en extension. Les repères sont palpatoires, on repère le bord supéro-externe de la rotule, le point de ponction se trouve au niveau de la jonction du tiers proximal et du tiers médian de la rotule, on glisse l’aiguille en visant le pôle supérieur de la rotule, en formant un angle d’environ 30° avec l’horizontal.\n\nPoint de ponction au niveau de la jonction du 1/3 proximal et du 1/3 distal du bord externe de la rotule en visant son pôle supérieur\n\nAiguille orientée vers le pôle supérieur de la rotule en formant un angle de 30° avec l’horizontal\n\nL’étude macroscopique permet de distinguer un liquide synovial clair « mécanique », louche ou puriforme, ou un liquide sanglant. Le liquide est rapidement acheminé au laboratoire. Ce liquide fait l’objet d’une analyse cytologique avec numération et identification des éléments, et d’une analyse bactériologique.\n\nLe lavage doit être pratiqué dans des conditions d'asepsie chirurgicale. Il est réalisé à l'aide d'une seule aiguille avec un gros trocart en alternant injection et aspiration du produit de lavage. L'inflammation de la synoviale rend la manipulation souvent difficile, et Si ce produit ramène trop de fausses membranes en flammèches, et si l'état clinique ne s'améliore pas rapidement, on pourra en tirer l'indication d'un lavage chirurgical ou arthroscopique.",
+    "answer_imgs": [
+     "FRACTURES MS/img/sloo.png"
+    ]
+   }
+  ],
+  "section": "MS",
+  "id": "MS_cas6"
+ },
+ {
+  "file": "FRACTURES MS/cas_clinique/cas7.html",
+  "region": "Coude",
+  "casenum": "Cas clinique 1",
+  "vignette": "Traumatisme fermé du coude droit chez un enfant de 7ans, suite à une chute de sa hauteur, avec réception sur la main, coude en extension. L’examen clinique a trouvé\nune douleur exquise à la palpation du coude droit,\nun examen vasculo-nerveux sans anomalie.\nLa radiographie du coude droit a montré",
+  "vignette_imgs": [
+   "FRACTURES MS/img/CC1/fig11.jpg",
+   "FRACTURES MS/img/CC1/fig2.jpg"
+  ],
+  "qa": [
+   {
+    "n": 1,
+    "q": "Quel est votre diagnostic?",
+    "answer": "Fracture supra-condylienne du coude droit stade I (fig3).",
+    "comment": "Les fractures supra-condyliennes sont très fréquentes. Elles représentent 60% des fractures du coude de l'enfant.\nElles touchent l’enfant aux alentours de 7 ans, à cause de la présence d’une hyper-extension physiologique qui favorise la fracture en cas d'hyper-extension forcée.\n\nDès lors 95% des fractures supra-condyliennes se font avec un mécanisme en extension. Contre 5%\nqui se font avec un mécanisme en flexion.\n\nLes fractures en extension sont classées, selon LAGRANGE et RIGAULT, comme suit (fig4):\n\nFracture en extension:\n\n- stade I : uniquement la corticale antérieure est rompue, non déplacée\n\n- stade II : fracture des 2 corticales, bascule postérieure pure, le périoste postérieur reste toujours intact\n\n- stade III: dès qu'il y a une rotation ou une translation, mais les 2 fragments restent en contact l'un avec l'autre\n\n- stade IV: déplacement complet, il n'y a plus de contact entre les fragments\n\nfig4: schéma illustrant la classification de LAGRANGE et RIGAULT des fractures supra-condyliennes\n\n.",
+    "answer_imgs": [
+     "FRACTURES MS/img/CC1/fig1.jpg"
+    ]
+   },
+   {
+    "n": 2,
+    "q": "Pour quel traitement optez-vous?",
+    "answer": "La contention selon la méthode de BLOUNT. Elle se fait par l’immobilisation du coude en hyper-flexion (fig5), ou un plâtre brachio-anté-brachio-palmaire en légère flexion du coude, à garder pendant 4 semaines.",
+    "comment": "La réduction des fractures supra-condyliennes en extension n’est stable qu’en flexion du coude à angle aigu.\nC’est donc ainsi qu’il faut immobiliser le coude à la condition essentielle que le pouls radial continue à être perçu et que la vascularisation distale soit parfaite.\n\nLa méthode de BLOUNT répond à ce critère.",
+    "answer_imgs": [
+     "FRACTURES MS/img/hazido.jpg"
+    ]
+   },
+   {
+    "n": 3,
+    "q": "Quelle est la contre-indication absolue de la méthode de BLOUNT?",
+    "answer": "La présence d’œdème important est une contre-indication absolue à cette méthode.",
+    "comment": "Un œdème important est une contre-indication à la contention en flexion car la peau peut se plicaturer et faire compression sur le paquet vasculo-nerveux.\nMais il existe d’autres contre-indication à cette méthode, dont on cite:\n\n- les fractures supra-condyliennes par flexion représentent par définition une contre-indication.\n\n- Une fracture avec une lésion vasculaire représente une contre-indication certaine. Cependant, un syndrome ischémique suivant immédiatement la réduction n’est pas exceptionnel et sa survenue n’est pas une contre-indication, dans la mesure où il se lève très rapidement. La surveillance clinique post-opératoire sera encore plus étroite, et le dispositif de contention en flexion le permet particulièrement bien.\n\n- Il ne faut pas tolérer et maintenir une flexion d’une fracture mal réduite. La contention ne serait plus aussi efficace.",
+    "answer_imgs": []
+   }
+  ],
+  "section": "MS",
+  "id": "MS_cas7"
+ },
+ {
+  "file": "FRACTURES MS/cas_clinique/cas8.html",
+  "region": "Coude",
+  "casenum": "Cas Clinique 2",
+  "vignette": "Traumatisme fermé du membre supérieur gauche, chez un enfant de 9ans, avec réception sur la paume de la main.\nL’examen a trouvé\nune attitude du traumatisé du membre supérieur gauche,\nune douleur exquise à la palpation de l’extrémité inférieur de l’humérus gauche,\ndes pouls distaux palpable et un examen neurologique normal.\nLa radiographie faite, a montré:",
+  "vignette_imgs": [
+   "FRACTURES MS/img/CC2/fig1.jpg",
+   "FRACTURES MS/img/CC2/fig3.jpg"
+  ],
+  "qa": [
+   {
+    "n": 1,
+    "q": "Interpréter la radiographie. De quel type de mécanisme s’agit-il?",
+    "answer": "Fracture supra-condylienne gauche stade II par mécanisme en extension.",
+    "comment": "Les fractures en extension sont classées, selon LAGRANGE et RIGAULT, comme suit (fig3):\n\nFracture en extension:\n\n- stade I : uniquement la corticale antérieure est rompue, non déplacée\n\n- stade II : fracture des 2 corticales, bascule postérieure pure, le périoste postérieur reste toujours intact\n\n- stade III: dès qu'il y a une rotation ou une translation, mais les 2 fragments restent en contact l'un avec l'autre\n\n- stade IV: déplacement complet, il n'y a plus de contact entre les fragments\n\nfig3: schéma illustrant la classification de LAGRANGE et RIGAULT des fractures supra-condyliennes\n\n.",
+    "answer_imgs": []
+   },
+   {
+    "n": 2,
+    "q": "Quel traitement préconisez-vous pour ce patient?",
+    "answer": "Le traitement consiste en une réduction sous anesthésie générale, suivie d’une ostéosynthèse par broches selon la technique de JUDET.(fig4, fig5)\n\nfig4",
+    "comment": "Indications dans les fractures en extension de l’enfant:\n\n➢\nPour les fractures de stade I non déplacées, la méthode de JUDET ne présente pas d’intérêt.\n\n➢\nPour les fractures de stade II et III, la méthode de stabilisation est par contre plus discutée:\n\nsi le BLOUNT offre l’avantage de la simplicité d’exécution, il nécessite avant tout l’absence de toutes contre-indication. Par ailleurs il nécessite l’assurance d’une famille coopérante et une surveillance rigoureuse d’au moins 48 heures.\n\nQuand ces conditions ne sont pas remplies, la méthode de JUDET est justifiée. Elle se fait après la réduction de la fracture. Cette dernière est stabilisée par deux broches de Kirschner introduites le long du côté latéral, par voie percutanée. Une alternative est l’utilisation de deux broches de Kirschner croisées en évitant consciencieusement de blesser le nerf ulnaire.\n\n➢\npour les fractures de stade IV, les risques de fracture instable, dont le diagnostic n’est pas toujours facile devant un coude très œdèmatié, nous fait proposer une réduction orthopédique suivie d’une fixation percutanée par broches.\n\n➢\nPour toutes ces fractures, en l’absence d’une réduction anatomique parfaite ne permettant pas un brochage correct, la réduction chirurgicale s’impose.\n\nLa réduction de la fracture se fait sur un enfant installé à plat dos, en bord de table. L’aide prend à l’épaule à pleines mains pour une contre-extension.\n\nLe chirurgien lui fait face, empoignant l’avant-bras. Il y a plusieurs temps dans cette réduction (fig6).\n\n- La traction dans l’axe du bras se fait de manière douce et prolongée pour préserver le périoste, coude en extension ou même en légère hyper-extension pour détendre le périoste postérieur.\n\n- La translation latérale ou médiale\n\n- La translation antérieure en flexion du coude\n\n- Enfin le blocage par pronation ou par supination de l’avant-bras selon que le périoste interne ou externe semblait continu.\n\nfig6: schéma illustrant les étapes de réduction des fractures supra-condyliennes",
+    "answer_imgs": [
+     "FRACTURES MS/img/CC2/fig10.jpg",
+     "FRACTURES MS/img/CC2/fig11.jpg"
+    ]
+   },
+   {
+    "n": 3,
+    "q": "Quels sont les critères radiologiques d’une bonne réduction?",
+    "answer": "✔\nSur une radiographie de profil, l’axe de la palette humérale doit créer avec l’axe de la diaphyse humérale un angle de 30 à 40° .\n\n✔\nSur une radiographie de face, l’angle entre l’axe de la diaphyse humérale et la ligne passant par la physe du condyle latéral (angle de BAUMANN) doit être d’une valeur de 72° ± 5° (il permet d’apprécier le risque de cubitus varus). (fig7)",
+    "comment": "Selon les critères de MARION et LAGRANGE les résultats sont appréciés comme suit:\n\n- Résultat parfait:\n\nle coude est identique cliniquement et radiologiquement au côté opposé.\n\n- Résultat bon:\n\nla fonction du coude est bonne, mais il persiste:\n\n➔\nsoit un léger déficit de la mobilité inférieur à 10° en flexion et/ou en extension\n\n➔\nsoit un défaut d'axe inférieur à 10°\n\n➔\nsoit une déformation inesthétique même minime\n\n➔\nsoit un léger déficit de la force musculaire\n\n- Résultat médiocre:\n\nla fonction du coude est anormale, il s'agit:\n\n➔\nsoit d'un déficit de la mobilité supérieur à 20°\n\n➔\nsoit un défaut d'axe supérieur à 10°\n\n➔\nsoit un déficit important de la force musculaire\n\n- Résultat mauvais:\n\nmauvaise fonction du coude avec:\n\n➔\nsoit un déficit de la mobilité supérieure à 50°\n\n➔\nsoit un défaut d'axe de 20°\n\n➔\nsoit un déficit plus important de la force musculaire\n\n➔\nsoit un trouble moteur ou sensitif",
+    "answer_imgs": [
+     "FRACTURES MS/img/CC2/fig13.png"
+    ]
+   }
+  ],
+  "section": "MS",
+  "id": "MS_cas8"
+ },
+ {
+  "file": "FRACTURES MS/cas_clinique/cas9.html",
+  "region": "Coude",
+  "casenum": "Cas clinique 3",
+  "vignette": "Enfant de 3ans, victime 3 mois avant son admission d’une fracture fermée de l’avant-bras gauche, traitée par plâtre brachio-anté-brachio-palmaire pendant 6 semaines. À l’ablation du plâtre, l’examen a trouvé une persistance d’une angulation de l’avant-bras, avec flessum du poignet, une rétraction des doigts en flexion irréductible et une absence de douleurs.\nLa radiographie a montré (fig1):",
+  "vignette_imgs": [],
+  "qa": [
+   {
+    "n": 1,
+    "q": "Quel est votre diagnostic?",
+    "answer": "Syndrome de Volkman en évolution sur une fracture des deux os de l’avant-bras gauche",
+    "comment": "Le syndrome de Volkman:\n\n- Il se définit comme l’association d’une rétraction des muscles de la loge antérieure de l’avant-bras à une paralysie +/- étendue des muscles de la main\n\n- Il s’agit d’une conséquence d’ischémie intéressant les différents tissus, notamment, les masses musculaires de l’avant-bras et bien souvent des nerfs médian et ulnaire\n\n- Ces lésions musculaires et ce déficit nerveux s’associent pour créer une main paralytique\n\nAprès la phase aiguë, correspondant au syndrome de loges, deux symptômes sont objectivés: la rétraction musculaire et la paralysie. Alors qu’il y a régression des douleurs et recoloration des doigts.\nLe traitement du syndrome de Volkman reste palliatif.",
+    "answer_imgs": []
+   },
+   {
+    "n": 2,
+    "q": "Comment prévenir le syndrome de Volkman?",
+    "answer": "On évoque les pathologies régionales donnant un flessum extra-articulaires fébrile, à savoir :\n\n- confection d’un plâtre non compressif\n\n- avertir le patient des complications potentielles d’une immobilisation plâtrée\n\n- insister pour que le patient garde le membre en surélévation\n\n- assurer une surveillance rapprochée les deux premiers jours de la pose du plâtre\n\n- expliquer les symptômes d’un syndrome de loge aigu\n\n- insister pour que le patient consulte en urgence en cas de douleurs augmentant progressivement\n\nhors réponse:\n\n3 ans après, le patient revient avec la déformation représenté sur la photo (fig2)",
+    "comment": "",
+    "answer_imgs": [
+     "FRACTURES MS/img/lwidat.jpg"
+    ]
+   },
+   {
+    "n": 3,
+    "q": "Décrivez la déformation que présente le patient",
+    "answer": "La déformation présente un poignet en flexion, un pouce en flexion-adduction, des métacarpo-phalangiennes en extension et des inter-phalangiennes proximales et distales en flexion.",
+    "comment": "",
+    "answer_imgs": []
+   }
+  ],
+  "section": "MS",
+  "id": "MS_cas9"
+ },
+ {
+  "file": "FRACTURES MS/cas_clinique/cas10.html",
+  "region": "Coude",
+  "casenum": "Cas Clinique 3",
+  "vignette": "Traumatisme fermé du coude, chez un enfant de 6ans, suite à une chute d’1,5m de hauteur avec réception sur la paume de la main droite.\nL’examen clinique a mis en évidence un élargissement antéro-postérieur du coude, une douleur à la palpation de la région supra-condylienne avec respect des reliefs du coude. L’examen vasculo-nerveux a été sans anomalie.",
+  "vignette_imgs": [
+   "FRACTURES MS/img/CC3/fig1.jpg",
+   "FRACTURES MS/img/CC3/fig10.jpg"
+  ],
+  "qa": [
+   {
+    "n": 1,
+    "q": "Interprétez la radiographie suivante:",
+    "answer": "Fracture supra-condylienne droite stade III avec mécanisme en extension.",
+    "comment": "Les fractures en extension sont classées, selon LAGRANGE et RIGAULT, comme suit (fig3):\n\nFracture en extension:\n\n- stade I : uniquement la corticale antérieure est rompue, non déplacée\n\n- stade II : fracture des 2 corticales, bascule postérieure pure, le périoste postérieur reste toujours intact\n\n- stade III: dès qu'il y a une rotation ou une translation, mais les 2 fragments restent en contact l'un avec l'autre\n\n- stade IV: déplacement complet, il n'y a plus de contact entre les fragments\n\nfig3: schéma illustrant la classification de LAGRANGE et RIGAULT des fractures supra-condyliennes\n\n.",
+    "answer_imgs": []
+   },
+   {
+    "n": 2,
+    "q": "Quelle est votre conduite thérapeutique?",
+    "answer": "Réduction orthopédique, avec fixation par deux broches selon la technique de JUDET. Immobilisation plâtré pendant 45j (fig4, fig5)\n\nfig4",
+    "comment": "",
+    "answer_imgs": [
+     "FRACTURES MS/img/roo.jpg",
+     "FRACTURES MS/img/rkii.jpg"
+    ]
+   },
+   {
+    "n": 3,
+    "q": "Quels sont les éléments à surveiller en post-opératoire?",
+    "answer": "L'apparition et l'extension de la douleur est le signe le plus important à rechercher pour le dépistage du syndrome de loge.\n\nLes autres éléments à surveiller en post opératoire sont:\n\n- Immédiatement:\n\n- Mobilité et sensibilité des doigts, cherchant un déficit neurologique.\n\n- Coloration et chaleur des doigts à la recherche d’un trouble vasculaire.\n\n- Radiographie de contrôle jugeant l’efficacité de la réduction et de l'ostéosynthèse.\n\n- A moyen terme:\n\n- Radio de contrôle à la recherche d’un déplacement secondaire.\n\n- Au long terme:\n\n-Examen du coude à la recherche d’une raideur ou d’une déformation (cubitus varus +++)",
+    "comment": "",
+    "answer_imgs": []
+   }
+  ],
+  "section": "MS",
+  "id": "MS_cas10"
+ },
+ {
+  "file": "FRACTURES MS/cas_clinique/cas11.html",
+  "region": "Coude",
+  "casenum": "Cas Clinique 4",
+  "vignette": "Traumatisme fermé du coude gauche, chez une enfant de 6ans, suite à une chute de sa hauteur.\nL’examen a trouvé une tuméfaction du coude, un élargissement antéro-postérieur, une impotence fonctionnelle du membre et un examen vasculo-nerveux sans anomalies.\n\nLa radiographie faite, a montré",
+  "vignette_imgs": [
+   "FRACTURES MS/img/CC4/fig1.jpg",
+   "FRACTURES MS/img/CC4/fig2.jpg"
+  ],
+  "qa": [
+   {
+    "n": 1,
+    "q": "Quels sont le stade et le mécanisme de cette fracture?",
+    "answer": "Fracture supra-condylienne gauche stade IV par mécanisme en extension.",
+    "comment": "Les fractures en extension sont classées, selon LAGRANGE et RIGAULT, comme suit (fig3):\n\nFracture en extension:\n\n- stade I : uniquement la corticale antérieure est rompue, non déplacée\n\n- stade II : fracture des 2 corticales, bascule postérieure pure, le périoste postérieur reste toujours intact\n\n- stade III: dès qu'il y a une rotation ou une translation, mais les 2 fragments restent en contact l'un avec l'autre\n\n- stade IV: déplacement complet, il n'y a plus de contact entre les fragments\n\nfig3: schéma illustrant la classification de LAGRANGE et RIGAULT des fractures supra-condyliennes\n\n.\n\nService de traumato-orthopédie pédiatrique\n\nRéalisation: S.M. BOUKILI\n\nRapporteur: EM. AGHOUTANE\nPrésident: R. EL FIZZAZI",
+    "answer_imgs": []
+   },
+   {
+    "n": 2,
+    "q": "Quelle est votre conduite thérapeutique?",
+    "answer": "Réduction orthopédique, avec fixation par deux broches selon la technique de JUDET. Immobilisation plâtré pendant 45j (fig4).\n\nfig4\n\nLa radiographie après la fin du traitement et ablation des broches a montré fig5, fig6\n\nfig5",
+    "comment": "",
+    "answer_imgs": [
+     "FRACTURES MS/img/CC4/fig3.jpg",
+     "FRACTURES MS/img/CC4/fig10.jpg",
+     "FRACTURES MS/img/CC4/fig11.jpg"
+    ]
+   },
+   {
+    "n": 3,
+    "q": "Quelles sont les complications à redouter le plus pour ce type de fracture?",
+    "answer": "Les complications à redouter sont:\n\n✔\nla lésion vasculaire\n\n✔\nl’ouverture cutanée (fig7)\n\n✔\nla lésion du nerf inter-osseux antérieur\n\n✔\nla lésion du nerf médian\n\nfig7: photo d'une fracture supra-condylienne en extension avec ouverture cutanée",
+    "comment": "Les complications vasculo-nerveuses sont à rechercher systématiquement. Les pouls doivent être palpés afin d’éliminer une lésion de l’artère humérale (fig8).\n\nfig8: schéma du mécanisme de compression de l'artère humérale dans une fracture supra-condylienne en extension\n\nL’examen nerveux doit être effectué à la recherche de lésion du nerf radial et médian qui sont fréquentes dans les fractures avec mécanisme en extension (fig9, fig10). La recherche d’une atteinte nerveuse doit être rigoureuse. Elle se fait de la manière suivante:\n\nnerf radial:\n\n✔\nmobilité: la flexion dorsale du poignet et l’extension des métacarpo-phalangiennes.\n\n✔\nsensibilité de la tabatière anatomique, zone sensitive privilégiée du nerf radial\n\nnerf médian:\n\n✔\nmobilité: effectuer la flexion superficielle des doigts,\n\n✔\nsensibilité des pulpes du 2eme, 3eme et moitié externe du 4ème doigt\n\nfig9: schéma du mécanisme de lésion du nerf médian dans une fracture supra-condylienne en extension\n\nfig10: schéma du mécanisme de lésion du nerf radial dans une fracture supra-condylienne en extension\n\nPendant l’examen neurologique, il ne faut pas omettre de contrôler la fonction du nerf interosseux antérieur, en exécutant la pince pouce-index (fig11, fig12). Une lésion du nerf interosseux antérieur est probablement l’atteinte neurologique la plus fréquente des fractures supra-condyliennes, mais malheureusement la plus méconnue.\n\nfig11:photo d'un test du nerf inter-osseux sans anomalie\n\nfig12: photo d'un test du nerf inter-osseux lésé\n\nLe bon pronostic des atteintes nerveuses incomplètes semble rendre licite l’abstention chirurgicale.\n\nEn cas de paralysie complète du nerf médian ou du nerf radial, une exploration chirurgicale précoce ( dans la première semaine post-traumatique) doit être faite.\n\nLe traitement des fractures supra-condyliennes est une urgence. L’œdème est rapide au niveau du coude et la fracture est plus facile à réduire lorsque l’œdème est encore faible.",
+    "answer_imgs": [
+     "FRACTURES MS/img/CC4/fig4.png"
+    ]
+   }
+  ],
+  "section": "MS",
+  "id": "MS_cas11"
+ },
+ {
+  "file": "FRACTURES MS/cas_clinique/cas12.html",
+  "region": "Coude",
+  "casenum": "Cas Clinique 5",
+  "vignette": "Traumatisme fermé du coude gauche, chez un enfant de 5ans, suite à une chute de 0.5m avec réception sur coude en flexion.\nL’examen clinique objective un élargissement antéro-postérieur du coude avec une saillie osseuse interne, une douleur exquise à la palpation et à la mobilisation et pas de troubles vasculo-nerveux.\n\nUne radiographie a été faite.",
+  "vignette_imgs": [
+   "FRACTURES MS/img/CC5/fig1.jpg",
+   "FRACTURES MS/img/CC5/fig2.jpg"
+  ],
+  "qa": [
+   {
+    "n": 1,
+    "q": "De quel type de fracture s’agit-il?",
+    "answer": "Fracture supra-condylienne gauche stade III avec déplacement en avant du fragment inférieur (mécanisme en flexion).",
+    "comment": "Parfois le traumatisme est une chute sur le coude lui-même et le déplacement se fait en flexion.\n\nLes fractures supra-condyliennes en flexion représentent 5% des fractures supra-condyliennes, et sont classées comme suit selon LAGRANGE et RIGAULT:\n\nFracture en flexion:\n\n- stade I: uniquement la corticale postérieure est rompue, non déplacée\n\n- stade II: fracture des 2 corticales, bascule antérieure, contact persistant\n\n- stade III: déplacement complet, il n'y a plus de contact\n\nComplication des fractures supra-condyliennes en flexion:\n\nLe nerf ulnaire est sujet à une lésion si le mécanisme est en flexion (fig3). La recherche d’une lésion à son niveau se fait comme suit:\n\n✔\nmobilité: effectuer l’adduction du pouce (signe de Froment),\n\n✔\nsensibilité de l’auriculaire\n\nfig3: schéma du mécanisme de lésion du nerf cubital dans une fracture supra-condylienne en flexion",
+    "answer_imgs": []
+   },
+   {
+    "n": 2,
+    "q": "Quel traitement proposez-vous?",
+    "answer": "Réduction orthopédique, avec fixation par deux broches selon la technique de JUDET avec une immobilisation plâtrée pendant 45j (fig4).",
+    "comment": "Traitement des fractures en flexion:\n\n- Stade 1: Immobilisation par un plâtre brachio-anté-brachio-palmaire en extension\n\n- Stade 2: Réduction par manœuvre externe et embrochage percutané selon JUDET avec immobilisation par un plâtre\nbrachio-anté-brachio-palmaire\n\n- Stade3: Réduction sanglante et embrochage en croix avec immobilisation par un plâtre brachio-anté-brachio-palmaire\n\nL’immobilisation se fait pendant 3 semaines. L’enfant peut reprendre ses activités sportives après 8 semaines.\n\nsupination de l’avant-bras selon que le périoste interne ou externe semblait continu.",
+    "answer_imgs": [
+     "FRACTURES MS/img/CC5/fig4.jpg"
+    ]
+   },
+   {
+    "n": 3,
+    "q": "Quels sont les principaux conseils à donner aux parents?",
+    "answer": "✔\nDonner impérativement à la famille les critères d’une surveillance de l’immobilisation plâtrée. Insister pour qu’ils ramènent l’enfant aux urgences, en cas de douleurs augmentant progressivement, de paresthésies ou de froideur des extrémités.\n\n✔\nExpliquer l’importance fonctionnelle de l’articulation du coude et les possibles complications et séquelles.\n\n✔\nInformer les parents de toute incertitude de l’examen neurologique initial, celui-ci étant largement perturbé par la douleur.",
+    "comment": "",
+    "answer_imgs": []
+   }
+  ],
+  "section": "MS",
+  "id": "MS_cas12"
+ },
+ {
+  "file": "FRACTURES MS/cas_clinique/cas13.html",
+  "region": "Coude",
+  "casenum": "Cas Clinique 6",
+  "vignette": "Un enfant de 8 ans présente, suite à une fracture supra-condylienne droite négligée, manipulée par jebbar il y a 8 mois, une déviation de l’axe de l’avant bras de 25° en interne et une limitation de la flexion du coude à 90°.",
+  "vignette_imgs": [
+   "FRACTURES MS/img/CC6/fig1.jpg"
+  ],
+  "qa": [
+   {
+    "n": 1,
+    "q": "De quelle type de déformation s’agit-il?",
+    "answer": "Il s’agit d’un cubitus varus droit.",
+    "comment": "A l’état normal, il existe au coude un certain degré de valgus physiologique, plus important chez la fille que chez le garçon.\n\nCe cubitus valgus augmente avec l’âge, surtout lors de la poussée pubertaire, il est en moyenne de 8°chez le garçon et de 11° chez la fille. Il se transforme en varus lors de la flexion complète du coude.\n\nLe cubitus varus représente un cal vicieux en varus, consécutif aux fractures supra condyliennes, généralement déplacées de l'extrémité inférieure de l'humérus. Il a pour cause soit une mal union supra-condylienne soit une ostéonécrose de la trochlée. Les composantes de la déformation sont un varus, une rotation interne et une hyper extension",
+    "answer_imgs": []
+   },
+   {
+    "n": 2,
+    "q": "Quelle mesure permet d’identifier cette déformation? Quelle est sa valeur physiologique ?",
+    "answer": "L’angle de Baumann permet d’évaluer la valeur du cubitus varus. Sa valeur physiologique est de 72° ± 5° (fig2)\n\nfig2: image illustrant la technique de mesure de l'angle de Baumann",
+    "comment": "Afin de détecter les déviations axiales propres au coude, on utilise certaines mesures:\n\n- De face coude en extension et avant-bras en supination maximale on s'aide de l'angle de Baumann, (formé par l'intersection entre l'axe de l'humérus et une ligne parallèle au cartilage de croissance du condyle externe) en moyenne de 75°(fig3), (avec des écarts tolérables de + ou - 5°) représentant un cubitus valgus de 10° et dont l'avantage majeur est de rester fiable coude fléchi, à condition que le rayon incident soit bien perpendiculaire à la palette\n\nfig3\n\n- De profil on mesure l'anté-flexion épiphysaire inclinaison entre l'axe huméral et la ligne perpendiculaire au cartilage de croissance) qui est de 40° (fig4).\n\nfig4",
+    "answer_imgs": [
+     "FRACTURES MS/img/CC6/fig2.png"
+    ]
+   },
+   {
+    "n": 3,
+    "q": "Quel traitement proposez-vous pour ce patient?",
+    "answer": "Ostéotomie de valgisation et de flexion permettant la correction du varus et l’amélioration de la flexion (fig5, fig6)\n\nfig5",
+    "comment": "La technique le plus souvent réalisée est celle de DESCAMPS, qui consiste en une ostéotomie supra condylienne cunéiforme de soustraction externe d’un coin osseux correspondant à la correction désirée à la recherche de la restauration d’un valgus physiologique. Cette ostéotomie est effectuée à la jonction diaphyso-métaphysaire.",
+    "answer_imgs": [
+     "FRACTURES MS/img/CC6/fig10.jpg",
+     "FRACTURES MS/img/CC6/fig11.jpg"
+    ]
+   },
+   {
+    "n": 4,
+    "q": "Quelles complications fonctionnelles peut engendrer cette déformation?",
+    "answer": "- Instabilité du coude avec luxation postérieur récidivante ou luxation de la tête radiale.\n\n- Risque de fracture du condyle latéral.\n\n- Risque de paralysie tardive du nerf cubital",
+    "comment": "Le cubitus varus n'altère que peu la fonction du membre, l'indication est posée pour la gène esthétique occasionnée mais aussi pour éviter certaines complications telle que la paralysie nerveuse ulnaire, l'instabilité rotatoire postéro-latérale et la fracture secondaire de l'humérus distal.",
+    "answer_imgs": []
+   }
+  ],
+  "section": "MS",
+  "id": "MS_cas13"
+ },
+ {
+  "file": "FRACTURES MS/cas_clinique/cas14.html",
+  "region": "Coude",
+  "casenum": "Cas Clinique 7",
+  "vignette": "Enfant de 5ans, victime d’un traumatisme fermé du coude droit, suite à une chute de 0,5 m de hauteur. L’examen clinique a trouvé\nun élargissement antéro-postérieur du coude,\nune douleur à la palpation de l’extrémité inférieure de l’humérus,\nune impotence fonctionnelle totale du coude et\nune absence d’anomalie vasculo-nerveuses.",
+  "vignette_imgs": [
+   "FRACTURES MS/img/CC7/fig1.jpg",
+   "FRACTURES MS/img/CC7/fig3.jpg"
+  ],
+  "qa": [
+   {
+    "n": 1,
+    "q": "Interprétez la radiographie suivante:",
+    "answer": "Fracture sus et inter-condylienne droite de la palette humérale.",
+    "comment": "Les fractures sus et inter-condyliennes représentent 2% des fractures du coude de l’enfant. Elles sont rares avant 10ans.\n\nClassification:\n\n- Fractures inter-condyliennes sans déplacement ou à déplacement minime. La fracture comporte un seul trait de fracture vertical.\n\n- Fractures inter-condyliennes et sus-condyliennes. Les fractures comportent outre le trait vertical un trait transversal\nmétaphysaire. Ce sont des fractures en T ou en Y.\n\n- Fractures comminutives.\n\n- Fractures diaphyso-épiphysaires.\n\nLe traitement des fractures sus et inter-condyliennes est le plus souvent chirurgical par broches afin d’assurer une bonne stabilité du foyer fracturaire.\n\nChez le grand enfant la rééducation peut être recommandé si la raideur est présente.\n\nCertaines séquelles guettent ce type de lésion, d’autant plus si la fracture est comminutive et que l’enfant est âgé. Les plus redoutables sont les cals vicieux articulaires.",
+    "answer_imgs": []
+   },
+   {
+    "n": 2,
+    "q": "Quelles sont les complications immédiates qu’il faut rechercher?",
+    "answer": "✔\nL’ouverture cutanée\n\n✔\nLa lésion du nerf médian\n\n✔\nLa lésion du nerf ulnaire",
+    "comment": "",
+    "answer_imgs": []
+   },
+   {
+    "n": 3,
+    "q": "Comment recherche-t-on les complications nerveuses?",
+    "answer": "- Nerf médian:\n\n✔\nmobilité: effectuer la flexion superficielle des doigts,\n\n✔\nsensibilité des pulpes du 2eme, 3eme et moitié externe du 4ème doigt\n\n- Nerf ulnaire:\n\n✔\nmobilité: effectuer l’adduction du pouce (signe de Froment),\n\n✔\nsensibilité de l’auriculaire",
+    "comment": "",
+    "answer_imgs": []
+   },
+   {
+    "n": 4,
+    "q": "Quel traitement proposez-vous?",
+    "answer": "Réduction chirurgical à ciel ouvert et embrochage sus et inter-condylien. (fig3)",
+    "comment": "",
+    "answer_imgs": [
+     "FRACTURES MS/img/CC7/fig2.jpg"
+    ]
+   }
+  ],
+  "section": "MS",
+  "id": "MS_cas14"
+ },
+ {
+  "file": "FRACTURES MS/cas_clinique/cas15.html",
+  "region": "Coude",
+  "casenum": "Cas Clinique 8",
+  "vignette": "Traumatisme négligé du coude droit chez un enfant de 3 ans, suite à une chute de sa hauteur avec réception direct sur le coude.\nL’examen a trouvé\nun coude tuméfié avec ecchymose en regard,\nune douleur à la palpation,\nun déficit de la flexion active et passive et\npas de trouble vasculo-nerveux.\n\nLa radiographie a montré:",
+  "vignette_imgs": [
+   "FRACTURES MS/img/CC8/fig3.jpg",
+   "FRACTURES MS/img/CC8/fig4.jpg"
+  ],
+  "qa": [
+   {
+    "n": 1,
+    "q": "Quel est le stade de cette fracture selon LAGRANGE et RIGAULT ?",
+    "answer": "Fracture du condyle externe droit stade I\n\nfig3",
+    "comment": "Les fractures du condyle latéral représentent 20% des fractures du coudes de l’enfant. Leur pic de fréquence se situe à l’âge de 6 ans.\n\nDeux mécanismes sont retrouvés:\n\n- Le valgus forcé avec translation du coude en dehors emportant le condyle externe, réalisant une fracture-séparation. Le fragment condylien peut être très déplacé, voire même retourné, les surfaces osseuses cruentées ne sont plus en regard.\n\n- Le déplacement en varus est plus rare, simple bâillement avec fracture-séparation incomplète métaphysaire externe de l’humérus, sans solution de continuité au niveau articulaire. Ce mécanisme plus rare, ne doit pas pour autant rassurer car le trait se prolonge jusqu’au cartilage de croissance.\n\nLa recherche de lésions associées est obligatoire.",
+    "answer_imgs": [
+     "FRACTURES MS/img/R1CC8C.jpg"
+    ]
+   },
+   {
+    "n": 2,
+    "q": "Quels sont les autres stades de cette classification?",
+    "answer": "Stade II: déplacement supérieur ou égal à 2mm sur au moins une incidence radiographique, avec une translation latérale et sans rotation\n\nStade III: déplacement important associant translation latérale et rotation du fragment condylien",
+    "comment": "",
+    "answer_imgs": []
+   },
+   {
+    "n": 3,
+    "q": "Quel traitment proposez-vous ?",
+    "answer": "Réduction à ciel ouvert avec maintient par 2 broches obliques (fig5, fig6). Un plâtre brachio-antébrachio-palmaire sera gardé pendant 4 semaines.\n\nfig5",
+    "comment": "",
+    "answer_imgs": [
+     "FRACTURES MS/img/CC8/fig5.jpg"
+    ]
+   }
+  ],
+  "section": "MS",
+  "id": "MS_cas15"
+ },
+ {
+  "file": "FRACTURES MS/cas_clinique/cas16.html",
+  "region": "Coude",
+  "casenum": "Cas Clinique 9",
+  "vignette": "Traumatisme fermé du coude gauche, chez un enfant de 10 ans, suite à une chute de sa hauteur avec réception sur l’avant-bras.\nA l’examen: coude tuméfié avec douleur à la palpation de la face externe du coude, sans troubles vasculo-nerveux. La radiographie a montré:",
+  "vignette_imgs": [
+   "FRACTURES MS/img/CC9/fig1.jpg",
+   "FRACTURES MS/img/CC9/fig2.jpg"
+  ],
+  "qa": [
+   {
+    "n": 1,
+    "q": "Quel est votre diagnostic?",
+    "answer": "Fracture du condyle externe gauche stade II selon la classification de LAGRANGE et RIGAULT.",
+    "comment": "Il y a souvent peu de signes en faveur de cette fracture déjà trompeuse dès le premier examen, à cause de l’importance de l’œdème post-fracturaire. Le premier risque est de négliger le trait ou même de plâtrer sans avoir apprécié le déplacement.\n\nLa radiographie est donc indispensable à condition d’exiger des incidences de bonne qualité. En effet, s’il est déjà difficile dans le contexte traumatique d’obtenir un coude de face en extension, il ne faut jamais s’en contenter car il sera insuffisant si le déplacement est modéré et seul le cliché de profil pourra mettre en évidence l’hémarthrose et le bâillement postérieur.\n\nIl faut savoir demander des clichées comparatifs au moindre doute. En effet, la sous-estimation de la taille du fragment et de son déplacement est pratiquement constante. Un cliché 3/4 peut apporter des renseignements précieux. Les documents initiaux seront gardés avec soin en raison du risque important de déplacement secondaire.",
+    "answer_imgs": []
+   },
+   {
+    "n": 2,
+    "q": "Est-ce une indication à un traitement chirurgical? Et pourquoi?",
+    "answer": "Le traitement doit être chirurgical, car il s’agit d’une fracture articulaire. Le fragment distal doit être reposé anatomiquement, sans décalage ni aucun déplacement résiduel (fig3, fig4).\n\nfig3",
+    "comment": "Les indications thérapeutiques se présentent comme suit:\n\na- Immobilisation seule:\n\nLes fractures non déplacées de stade I peuvent être être immobilisées d'emblée par un plâtre brachio-anté-brachio-palmaire pendant 4 semaines. Le risque important de déplacement secondaire, impose des radio de contrôle à J7, J15 et J21 post-opératoire.\n\nb- Réduction avec embrochage à ciel ouvert:\n\nLe traitement chirurgical permet par un abord direct, de réduire et de reposer anatomiquement le condyle externe. La dissection doit être minutieuse étant donné le risque de nécrose. L'ostéosynthèse fait appel aux vis ou plus souvent aux broches, qui doivent être divergentes et obliques de bas en haut. L’immobilisation fait appel au plâtre brachio-anté-brachio-palmaire pour une durée moyenne de 45 jours.\n\nc- les suites thérapeutiques:\n\n- Surveillance et dépistage du syndrome de Volkmann.\n\n- Pas de rééducation.\n\n- Les activités sportives seront reprises progressivement un mois après la fin du traitement.",
+    "answer_imgs": [
+     "FRACTURES MS/img/CC9/fig3.png",
+     "FRACTURES MS/img/CC9/fig4.jpg"
+    ]
+   },
+   {
+    "n": 3,
+    "q": "Quelles sont les complications à craindre pour ce type de fracture?",
+    "answer": "1/ Immédiates:\n\n- Déplacement secondaire\n\n- Sepsis: rare.\n\n2/ Tardives:\n\n- Retard de consolidation: (5ème semaine)\n\n- Pseudarthrose : (3ème mois)\n\nEn l'absence de gêne fonctionnelle importante, l'abstention doit rester la règle car toute reprise de condyle externe expose à d'autres complications dominées par la nécrose et la raideur du coude.\n\n- Hypertrophie du condyle externe.\n\n- La nécrose du condyle externe.",
+    "comment": "Les complications les plus graves sont, d’une part, le retard de consolidation, par insuffisance de stabilisation et persistance de micro-mouvements dans le foyer de fracture, ayant favorisé l'interposition de tissu fibreux. D’autres part la pseudarthrose qui est la principale complication des fractures du condyle externe. Elle complique:\n\n- les fractures non diagnostiquées ou mal traitées.\n\n- les déplacements secondaires des fractures de stade I insuffisamment immobilisées.\n\n- les fractures de stade II ou III, non réduites et/ou non synthétisées.",
+    "answer_imgs": []
+   }
+  ],
+  "section": "MS",
+  "id": "MS_cas16"
+ },
+ {
+  "file": "FRACTURES MS/cas_clinique/cas17.html",
+  "region": "Coude",
+  "casenum": "Cas Clinique 12",
+  "vignette": "Traumatisme du coude, chez un enfant de 13ans, suite à un AVP. L’examen a trouvé\nun coude droit tuméfié,\nune douleur à la palpation de l’épitrochlée,\nune impotence fonctionnelle partielle et\nune absence de troubles vasculo-nerveux.",
+  "vignette_imgs": [
+   "FRACTURES MS/img/CC10/fig1.jpg",
+   "FRACTURES MS/img/CC10/fig2.jpg"
+  ],
+  "qa": [
+   {
+    "n": 1,
+    "q": "Interprétez la radiographie suivante:",
+    "answer": "Fracture déplacée du condyle interne droit.",
+    "comment": "Les fractures du condyle interne représentent 2% des fractures du coude de l’enfant. Elles font suites à une traction des muscles épi-trochléens, par des mouvements de torsion et de valgus.\n\nLe risque de déplacement secondaire est accru. C’est pour cela que l’immobilisation doit se faire dès l’entrée aux urgences.\n\nLe diagnostic radiologique est difficile. Des signes indirects, comme l’élargissement des parties molles et l’arrachement métaphysaire médial, peuvent aider au diagnostic.",
+    "answer_imgs": []
+   },
+   {
+    "n": 2,
+    "q": "Quel élément vasculo-nerveux est en danger?",
+    "answer": "Le nerf ulnaire.",
+    "comment": "Les complications possibles sont:\n\n-Immédiate: paralysie ulnaire\n\n-Secondaires:\n\nNécrose du condyle médial, évolution vers le cubitus varus\n\nPseudarthrose, évolution vers le cubitus varus",
+    "answer_imgs": []
+   },
+   {
+    "n": 3,
+    "q": "Quel classification est utilisée pour ce type de fracture?",
+    "answer": "Classification de MILCH :\nfig3\n\nType I: le trait se termine dans la gorge trochléenne\n\nType II: le trait se termine dans la gorge capitello-trochléaire\n\nfig3: schéma des stades de la classification de Milch pour les fractures du condyle interne\n\nClassification de BENSAHEL:\nest la plus utilisée, elle tient compte du déplacement\n\nStade 1: non déplacé\n\nStade 2: déplacement médial sans rotation\n\nStade 3: important déplacement avec rotation",
+    "comment": "",
+    "answer_imgs": [
+     "FRACTURES MS/img/CC10/fig3.jpg"
+    ]
+   },
+   {
+    "n": 4,
+    "q": "Quel traitement proposez-vous?",
+    "answer": "Réduction chirurgicale avec maintient par un embrochage divergent par 2 broches de Kirschner. (fig4, fig5)\n\nfig4",
+    "comment": "Le traitement des fractures du condyle interne se fait comme suit:\n\n- stade I de la classification de BENSAHEL: son traitement est orthopédique par une immobilisation brachio-anté-brachio-palmaire, coude fléchit à 90°.\n\n- Les fractures de stade II et III sont traitées chirurgicalement par deux broches .\n\nLa consolidation se fait en 4 à 6 semaines. La surveillance à J10 est obligatoire lorsque le traitement est orthopédique.",
+    "answer_imgs": [
+     "FRACTURES MS/img/CC10/fig4.jpg",
+     "FRACTURES MS/img/CC10/fig5.jpg"
+    ]
+   }
+  ],
+  "section": "MS",
+  "id": "MS_cas17"
+ },
+ {
+  "file": "FRACTURES MS/cas_clinique/cas18.html",
+  "region": "Coude",
+  "casenum": "Cas Clinique 14",
+  "vignette": "Enfant de 6 ans, victime d’une chute de sa hauteur à point d’impact au niveau du coude gauche. L’examen a trouvé:\nune limitation de la mobilité du coude et une douleur exquise à la palpation.\nLa radiographie a montré:",
+  "vignette_imgs": [
+   "FRACTURES MS/img/CC11/fig1.jpg",
+   "FRACTURES MS/img/CC11/fig3.jpg"
+  ],
+  "qa": [
+   {
+    "n": 1,
+    "q": "De quel type de lésion s’agit-il?",
+    "answer": "Fracture de la tête radiale gauche stade 2.",
+    "comment": "Les fractures du col radial sont peu fréquentes. En effet, elles ne représentent que 5% des fractures du coude. Ceci grâce à la structure cartilagineuse de l’épiphyse radiale qui amortit les chocs, et le retard d’apparition du noyau d’ossification (vers 5ans).\n\nElles sont, dans 50% des cas, associées à d’autres lésions.\n\nDes radiographies strict de face et oblique peuvent aider à établir un diagnostic, qui peut être difficile en l’absence de déplacement.",
+    "answer_imgs": [
+     "FRACTURES MS/img/R1CC14C.jpg"
+    ]
+   },
+   {
+    "n": 2,
+    "q": "Citez les stades de cette fracture selon JUDET?",
+    "answer": "La classification selon JUDET:\n\n- Stade 1 : translation externe pure de quelques milimètres\n\n- Stade 2 : déplacement latéral <50%, angulation<30°\n\n- Stade 3 : 30°< angulation<60°\n\n- Stade 4 : angulation>60°, divisé en deux groupes par METAIZEAU\n\ntype 4 a: angulation<80°\n\ntype 4 b: angulation>80°",
+    "comment": "Les fractures les plus fréquentes au niveau du col radial sont:\n\n- décollement épiphysaire de type II de SALTER, le fragment métaphysaire étant latéral ou postéro-latéral.\n\n- Fracture métaphysaire pure du col radial.\n\n- Les fractures articulaires sont exceptionnelles\n\n- le déplacement pré-cité est classé selon JUDET. cette illustration schématise cette classification (fig4).\n\nfig4: schéma illustrant les stades de fractures de la tête radiale",
+    "answer_imgs": []
+   },
+   {
+    "n": 3,
+    "q": "Quelle lésion nerveuse doit être recherchée? Et comment le faire?",
+    "answer": "La lésion du nerf radial doit systématiquement être recherché devant toute fracture radiale. Sa recherche se fait de la manière suivante:\n\n✔\nmobilité par la flexion dorsale du poignet et l’extension des métacarpo-phalangiennes.\n\n✔\nsensibilité de la tabatière anatomique, zone sensitive privilégiée du nerf radial",
+    "comment": "",
+    "answer_imgs": []
+   },
+   {
+    "n": 4,
+    "q": "Quel traitement proposez-vous?",
+    "answer": "Réduction par manœuvre externe. Avec mise en place d’un plâtre brachio-anté-brachio-palmaire en pronation.",
+    "comment": "Le traitement des fractures du col radial se fait comme suit:\n\n- grade 1: plâtre brachio-anté-brachio-palmaire en pronation pendant 3 semaines\n\n- grade 2: réduction orthopédique et immobilisation par plâtre brachio-anté-brachio-palmaire pendant 4 à 6 semaines en pronation\n\n(après réduction il faut que la pronation et la supination soient toutes les 2 > 50°)\n\n- grade 3: essai de réduction fermée. Si échec un embrochage selon METAIZEAU est indiqué.\n\n- grade 4: embrochage selon METAIZEAU",
+    "answer_imgs": []
+   }
+  ],
+  "section": "MS",
+  "id": "MS_cas18"
+ },
+ {
+  "file": "FRACTURES MS/cas_clinique/cas19.html",
+  "region": "Coude",
+  "casenum": "Cas Clinique 15",
+  "vignette": "Traumatisme fermé du coude droit, chez un enfant de 13ans, suite à une chute de sa hauteur. L’examen a trouvé un coude tuméfié avec une douleur exquise à la palpation de la face externe et pas de troubles vasculo-nerveux.\n\nLa radiographie a montré:",
+  "vignette_imgs": [
+   "FRACTURES MS/img/CC12/fig1.jpg",
+   "FRACTURES MS/img/CC12/fig2.jpg"
+  ],
+  "qa": [
+   {
+    "n": 1,
+    "q": "Quel est votre diagnostic?",
+    "answer": "Fracture du col radial droit stade IV selon JUDET.",
+    "comment": "La classification selon JUDET (fig3):\n\n- Stade 1 : translation externe pure de quelques milimètres\n\n- Stade 2 : déplacement latéral <50%, angulation<30°\n\n- Stade 3 : 30°< angulation<60°\n\n- Stade 4 : angulation>60°, divisé en deux groupes par METAIZEAU\n\ntype 4 a: angulation<80°\n\ntype 4 b: angulation>80°\n\nfig3: schéma illustrant les stades de fractures de la tête radiale",
+    "answer_imgs": []
+   },
+   {
+    "n": 2,
+    "q": "Que proposez-vous pour traiter cette lésion?",
+    "answer": "Une réduction de la tête radiale par poinçonnage percutané maintenu par un embrochage selon METAIZEAU (fig4).",
+    "comment": "",
+    "answer_imgs": [
+     "FRACTURES MS/img/CC12/fig3.jpg"
+    ]
+   },
+   {
+    "n": 3,
+    "q": "Quelles complications guettent se type de fracture?",
+    "answer": "La nécrose de la tête radiale et la pseudarthrose.",
+    "comment": "La vascularisation terminale de la tête radiale lui confère un important taux de séquelles. Notamment la nécrose de la tête radiale et la pseudarthrose. Elles sont favorisées par l’abord chirurgical et l’importance du déplacement initial.\n\nQuand le traitement est orthopédique, les cals vicieux constituent la principale complication à redouter. Leur retentissement fonctionnel est variable, mais la limitation de la prono-supination n’est objective qu’à partir de 20° d’inclinaison résiduelle.",
+    "answer_imgs": []
+   }
+  ],
+  "section": "MS",
+  "id": "MS_cas19"
+ },
+ {
+  "file": "FRACTURES MS/cas_clinique/cas20.html",
+  "region": "Coude",
+  "casenum": "Cas Clinique 10",
+  "vignette": "Enfant de 10ans, victime d’une chute de sa hauteur, avec réception sur le coude droit, occasionnant chez lui un traumatisme fermé du coude.\nL’examen a trouvé un coude tuméfié avec des repères conservés et une douleur de la face interne du coude.\nLa radiographie faite, a montré:",
+  "vignette_imgs": [
+   "FRACTURES MS/img/CC13/fig1.jpg",
+   "FRACTURES MS/img/CC13/fig8.jpg"
+  ],
+  "qa": [
+   {
+    "n": 1,
+    "q": "De quel type de fracture s’agit-il?",
+    "answer": "Fracture déplacée de l’épitrochlée droite.",
+    "comment": "Les fractures de l’épitrochlée sont des fractures fréquentes. Elles représentent 10% des fractures du coude de l’enfant.\nElles se produisent au cours de traumatismes en valgus de l'avant bras (pouvant conduire au maximum à une luxation du coude).\n\n- Le fragment épi-trochléen est arraché par le ligament latéral et par les muscles épi-trochléens qui s'insèrent sur lui et ont tendance à l'attirer vers le bas et à le faire basculer.\n\nLe fragment peut s'incarcérer dans l'articulation entre cubitus et trochlée humérale, au moment du bâillement du coude ou de la luxation (fig3, fig4).\n\nfig3: radiographie d'une fracture de l'épitrochlée sans déplacement chez un enfant de 12ans\n\nfig4: radiographie d'une fracture de l'épitrochlée avec fragment incarcéré dans l'articulation\n\nOn peut assister dans les grands déplacements à une compression du nerf cubital (fig5).\n\nfig5: schéma illustrant le fragment épitrochléen attiré par les muscles épitrochléens\n\nChez le jeune enfant (avant 6 ans) quand le noyau apophysaire n’est pas encore calcifié, on manque d’élément radiologiques pour faire le diagnostic. Ce sont alors les éléments cliniques ( douleur provoquée par la mise en valgus et augmentation du volume de la région épi-trochléenne) qui devront faire suspecter la lésion. Les examens comme l'echographie et l'IRM permettent de faire le diagnostic.\n\nL’examen sous anesthésie générale est essentiel. Celui ci nous permet de tester la stabilité dans le plan frontal et de pratiquer des radiographies en valgus.",
+    "answer_imgs": []
+   },
+   {
+    "n": 2,
+    "q": "Quelle est sa classification selon WATSON-JONES?",
+    "answer": "La classification des fractures de l'épitrochlée la plus utilisée, est celle de WATSON-JONES:\n\n- Stade I: Fracture peu ou pas déplacée.\n\n- Stade II: Fracture déplacée, soit en arrière, soit le plus souvent en bas.\n\n- Stade III: Incarcération de l’épitrochlée dans l’articulation huméro-cubitale.\n\n- Stade IV: Fracture associée à une luxation du coude.",
+    "comment": "",
+    "answer_imgs": []
+   },
+   {
+    "n": 3,
+    "q": "Cette classification néglige un deuxième élément, lequel?",
+    "answer": "L’élément négligé est la stabilité de la fracture. Elle est évaluée lors de l’examen en valgus forcé sous anesthésie générale.",
+    "comment": "La nouvelle classification des fractures de l'épitrochlée qui est basée sur:\n\n- La stabilité de la fracture, évaluée lors de l’examen en valgus forcé sous anesthésie générale.\n\n- Le déplacement observé sur les clichés radiographiques.\n\nCette classification est simple et détermine directement les indications thérapeutiques:\n\n1- En l’absence de luxation:\n\n- s’il n’y a pas de déplacement, on se borne à un traitement orthopédique, mais en surveillant de près la fracture pour la synthétiser dès l’impression d’un déplacement secondaire.\n\n- Si la fracture est déplacée, il y aura instabilité frontale, et la fixation chirurgicale s’impose.\n\nNB:\nLe décollement-fracture est mis en évidence en traçant la ligne prolongeant le bord médial de la corticale. En cas de déplacement, le noyau épicondylien passe en dessous de cette ligne (fig6).\n\nfig6\n\n2- En association avec une luxation du coude:\n\n- on réduit bien sûr la luxation et l’on teste la stabilité frontale. Si l’épitrochlée est revenue en position anatomique et si le coude est stable, on peut se limiter à un traitement orthopédique. Si en revanche, l’épitrochlée ne revient pas en bonne position, qu’elle soit incarcérée ou non, la fixation chirurgicale est là encore nécessaire.",
+    "answer_imgs": []
+   },
+   {
+    "n": 4,
+    "q": "Quel traitement peut être utilisé?",
+    "answer": "Abord chirurgical avec réduction et embrochage divergent par 2 broches de Kirchner (après protection du nerf ulnaire) (fig7, fig8)\n\nfig7",
+    "comment": "",
+    "answer_imgs": [
+     "FRACTURES MS/img/CC13/fig6.jpg",
+     "FRACTURES MS/img/CC13/fig7.jpg"
+    ]
+   }
+  ],
+  "section": "MS",
+  "id": "MS_cas20"
+ },
+ {
+  "file": "FRACTURES MS/cas_clinique/cas21.html",
+  "region": "Coude",
+  "casenum": "Cas Clinique 11",
+  "vignette": "Traumatisme fermé du coude droit, chez un enfant de 14ans, suite à une chute de sa hauteur. L’examen a trouvé\nun élargissement antéro-postérieur du coude,\nune limitation de la flexion,\nune douleur exquise à la palpation,\nune perturbation des repères anatomiques du coude et\nune absence de troubles vasculo-nerveux.",
+  "vignette_imgs": [
+   "FRACTURES MS/img/CC14/fig2.jpg",
+   "FRACTURES MS/img/CC14/fig3.jpg",
+   "FRACTURES MS/img/CC14/fig4.png",
+   "FRACTURES MS/img/CC14/fig5.jpg"
+  ],
+  "qa": [
+   {
+    "n": 1,
+    "q": "Cliniquement, quel diagnostic évoquez-vous en premier?",
+    "answer": "La perturbation des repères anatomique du coude oriente en premier, vers une luxation postérieure du coude droit.",
+    "comment": "La luxation du coude est de loin la plus fréquente des luxations chez l’enfant. Sa réduction est simple si elle est faite rapidement et elle ne donne pas de séquelles à distance dans les formes isolées.\n\nLe plus souvent, elle fait suite à un traumatisme indirect l’enfant tombant sur la paume de la main, dans une position de l’avant-bras qui détermine le type de luxation et les éventuelles lésions associées. l’hyper-extension provoque des lésions internes, alors que la flexion entraîne plutôt des lésions externes.\n\nLes luxations les plus fréquentes sont postérieures dans 1/3 des cas, ou postéro-latérales externes dans 2/3 des cas.\n\nA l’examen clinique, son diagnostic repose sur la perte des repères anatomiques du coude (fig1).\n\nfig1: schéma illustrant les repères anatomiques du coude en flexion et en extension\n\nEn arrière trois repères osseux sont palpables:\n\n- externe: épicondyle\n\n- médian: olécrane\n\n- interne: épi-trochlée\n\nCes repères dessinent une ligne droite en extension et un triangle en flexion à 90°.",
+    "answer_imgs": []
+   },
+   {
+    "n": 2,
+    "q": "Interprétez la radiographie suivante: ,",
+    "answer": "Luxation postérieure du coude droit associé à une fracture de l’épitrochlée qui est intra-articulaire.",
+    "comment": "Les fractures de l’épitrochlée sont associées à une luxation du coude dans au moins un tiers des cas et leur traitement dépend de la stabilité de la fracture après réduction de la luxation.\nPar ailleurs, l’incarcération de l’épitrochlée peut être une cause d’irréductibilité si elle est passée inaperçue au départ, en sachant que la lésion du nerf cubital qui peut en résulter, est alors une complication iatrogène.",
+    "answer_imgs": []
+   },
+   {
+    "n": 3,
+    "q": "Quel traitement proposez-vous?",
+    "answer": "Réduction sous anesthésie générale et testing de la stabilité du coude sur le plan frontal.\nDans notre cas l'épitrochlée est revenue à sa place. Le maintient se fait par plâtre brachio-antébrachio-palmaire pendant 3 semaines. Il se fait en pronation afin de relacher les muscles épitrochléens.",
+    "comment": "Le fragment épi-trochléen est arraché par le ligament latéral et par les muscles épi-trochléens qui s'insèrent sur lui et ont tendance à l'attirer vers le bas et à le faire basculer (fig7, fig8).\n\nfig7: radiographie d'une fracture de l'épitrochlée sans déplacement chez un enfant de 12ans\n\nfig8: radiographie d'une fracture de l'épitrochlée avec fragment incarcéré dans l'articulation\n\nLe fragment peut s'incarcérer dans l'articulation entre cubitus et trochlée humérale, au moment du bâillement du coude ou de la luxation. On peut assister dans les grands déplacements à une compression du nerf cubital (fig9).\n\nfig9: schéma illustrant le fragment épi-trochléen attiré par les muscles épi-trochléens\n\nChez le jeune enfant (avant 6 ans) quand le noyau apophysaire n’est pas encore calcifié, on manque d’élément radiologiques pour faire le diagnostic. Ce sont alors les éléments cliniques ( douleur provoquée par la mise en valgus et augmentation du volume de la région épi-trochléenne) qui devront faire suspecter la lésion. Les examens comme l'echographie et l'IRM permettent de faire le diagnostic.\n\nL’examen sous anesthésie générale est essentiel. Celui ci nous permet de tester la stabilité dans le plan frontal et de pratiquer des radiographies en valgus.",
+    "answer_imgs": []
+   }
+  ],
+  "section": "MS",
+  "id": "MS_cas21"
+ },
+ {
+  "file": "FRACTURES MS/cas_clinique/cas22.html",
+  "region": "Coude",
+  "casenum": "Cas Clinique 15",
+  "vignette": "Enfant de 8 ans, victime d’une chute de sa hauteur avec réception sur la paume de la main droite avec coude en hyper-extension, 2 jours avant son admission. L’examen a trouvé:\nune déformation du coude droit sans lésion cutanée\nune ecchymose en regard et une douleur exquise à la palpation\nune impotence fonctionnelle totale\nun examen vasculo-nerveux sans anomalie.\nLa radiographie a montré (fig1,fig2):",
+  "vignette_imgs": [
+   "FRACTURES MS/img/CC15/fig3.jpg",
+   "FRACTURES MS/img/CC15/fig4.jpg"
+  ],
+  "qa": [
+   {
+    "n": 1,
+    "q": "Quel est votre diagnostic?",
+    "answer": "Fracture de l’olécrane.",
+    "comment": "La fracture de l’olécrane est relativement rare (5% des fractures du coude). Elle est dans la moitié des cas associée à d’autres fractures. Le plus souvent c’est des fractures du col du radius ou du condyle externe.\n\nLa classification selon le déplacement peut se faire en 3 stades:\n\nStade 0: non déplacées\n\nStade I: déplacement ≤ 2 mm\n\nStade II: déplacement> 2mm",
+    "answer_imgs": []
+   },
+   {
+    "n": 2,
+    "q": "Choisissez la ou les propositions exactes:",
+    "answer": "B C E",
+    "comment": "",
+    "answer_imgs": []
+   },
+   {
+    "n": 3,
+    "q": "Est-ce une indication à une réduction orthopédique? Justifiez votre réponse?",
+    "answer": "Oui, il s’agit d’une fracture de l’olécrane non déplacée.",
+    "comment": "Le traitement repose sur l'immobilisation plâtrée, pendant 3 à 6 semaines, dans les formes non déplacées. Par contre, il est nécessaire de réduire toute fracture articulaire déplacée, modifiant la forme de la cavité sigmoïde. Si le déplacement est supérieur à 2mm, le traitement se fait par brochage haubanage.",
+    "answer_imgs": []
+   }
+  ],
+  "section": "MS",
+  "id": "MS_cas22"
+ },
+ {
+  "file": "FRACTURES MS/cas_clinique/cas23.html",
+  "region": "Coude",
+  "casenum": "Cas Clinique 13",
+  "vignette": "Traumatisme fermé de l’avant-bras gauche, chez un enfant de 10 ans, suite à une chute d’un mètre de hauteur.\nL’examen a trouvé\nun coude tuméfié,\nune douleur exquise à la palpation de l’avant-bras et à la mobilisation et\nune absence de troubles vasculo-nerveux.\n\nLa radiographie a montré:",
+  "vignette_imgs": [
+   "FRACTURES MS/img/CC16/fig1.jpg",
+   "FRACTURES MS/img/CC16/fig2.jpg"
+  ],
+  "qa": [
+   {
+    "n": 1,
+    "q": "Quel est votre diagnostic?",
+    "answer": "Fracture articulaire de l’olécrane droit déplacée.",
+    "comment": "",
+    "answer_imgs": []
+   },
+   {
+    "n": 2,
+    "q": "Quelle est votre attitude thérapeutique?",
+    "answer": "Réduction chirurgicale à ciel ouvert avec embrochage par 2 broches avec haubanage par un fil d’acier (fig3,fig4).\n\nfig3",
+    "comment": "Le traitement repose sur l'immobilisation plâtrée, pendant 3 à 6 semaines, dans les formes non déplacées. Par contre, il est nécessaire de réduire toute fracture articulaire déplacée, modifiant la forme de la cavité sigmoïde. Si le déplacement est supérieur à 2mm, le traitement se fait par brochage haubanage.",
+    "answer_imgs": [
+     "FRACTURES MS/img/CC16/fig3.jpg",
+     "FRACTURES MS/img/CC16/fig4.jpg"
+    ]
+   }
+  ],
+  "section": "MS",
+  "id": "MS_cas23"
+ },
+ {
+  "file": "FRACTURES MS/cas_clinique/cas24.html",
+  "region": "Coude",
+  "casenum": "Cas Clinique 16",
+  "vignette": "Enfant de 13ans , victime d’une chute de 0,5m de hauteur avec réception sur la paume de la main droite.\nL’examen a trouvé\nune impotence fonctionnelle du membre supérieure droit,\nune déformation de l’avant-bras,\nune tuméfaction du coude et\nune absence de troubles vasculo-nerveux.",
+  "vignette_imgs": [
+   "FRACTURES MS/img/CC17/fig10.jpg",
+   "FRACTURES MS/img/CC17/fig11.jpg"
+  ],
+  "qa": [
+   {
+    "n": 1,
+    "q": "Quel bilan radiographique doit être demandé?",
+    "answer": "Une radiographie de l’avant-bras droit prenant coude et poignet.",
+    "comment": "",
+    "answer_imgs": []
+   },
+   {
+    "n": 2,
+    "q": "Interprétez la radiographie suivante:",
+    "answer": "Fracture déplacée du membre supérieur droit du tiers supérieur de l’ulna associé à une luxation de la tête radiale = lésion de MONTEGGIA.\n\nfig3",
+    "comment": "La lésion de MONTEGGIA représente 2% des fractures de l’avant bras de l’enfant. Le piège de cette lésion est la méconnaissance de la luxation de la tête radiale. Par conséquent la construction de STOREN doit être faite systématiquement.\n\nLa lésion de MONTEGGIA se décompose en trois groupes selon la classification de TRILLAT:\n\nGroupe I: luxation de la tête radiale quel que soit son déplacement avec fracture diaphysaire du cubitus\n\nGroupe II: luxation de la tête radiale quel que soit son déplacement avec fracture métaphyso-épiphysaire du cubitus\n\nGroupe III: luxation de la tête radiale quel que soit son déplacement avec fracture du cubitus(quel que soit son siège) et avec une fracture de l’humérus ou du radius ( fracture complète de la tête ou de la diaphyse) ou fracture du poignet.",
+    "answer_imgs": [
+     "FRACTURES MS/img/CC17/fig3.jpg",
+     "FRACTURES MS/img/CC17/fig4.jpg"
+    ]
+   },
+   {
+    "n": 3,
+    "q": "Rappelez la construction de STOREN, et quelle est son intérêt?",
+    "answer": "La construction de STOREN: Sur une radio du coude de face et de profil, l’axe longitudinal du radius doit toujours passer par le centre du point condylien externe de l’humérus, quel que soit le degré de flexion du coude. Elle permet ainsi, de chercher une luxation de la tête radiale (fig5,fig6).\n\nfig5",
+    "comment": "",
+    "answer_imgs": [
+     "FRACTURES MS/img/CC17/fig1.jpg",
+     "FRACTURES MS/img/CC17/fig2.jpg"
+    ]
+   },
+   {
+    "n": 4,
+    "q": "Choisissez la ou les propositions exactes:",
+    "answer": "A B D\n\nService de traumato-orthopédie pédiatrique\n\nRéalisation: S.M. BOUKILI\n\nRapporteur: EM. AGHOUTANE\nPrésident: R. EL FIZZAZI",
+    "comment": "90% des lésions MONTEGGIA sont accessibles au traitement orthopédique. Quel que soit le type de lésion récente, la réduction du cubitus est primordiale.\n\nUne fois la fracture du cubitus réduite, la tête radiale doit revenir spontanément en place. Il faut alors, d’une part, tester la réduction et la stabilité du cubitus, d’autre part, tester celles de la tête radiale. Le traitement sera alors orthopédique pur, si les deux lésions sont réduites et stables. Ailleurs l’ostéosynthèse du cubitus et l’abord de la tête radiale seront nécessaires.",
+    "answer_imgs": []
+   },
+   {
+    "n": 5,
+    "q": "Quel traitment proposez-vous?",
+    "answer": "Réduction avec embrochage percutané descendant par une broche de Kirschner avec mise en place d'un plâtre brachio-antébrachio-palmaire. (fig7)",
+    "comment": "",
+    "answer_imgs": [
+     "FRACTURES MS/img/CC17/fig12.jpg"
+    ]
+   }
+  ],
+  "section": "MS",
+  "id": "MS_cas24"
+ },
+ {
+  "file": "FRACTURES MS/cas_clinique/cas25.html",
+  "region": "Coude",
+  "casenum": "Cas Clinique 17",
+  "vignette": "Enfant de 3ans, est admis 14h après un traumatisme fermé du coude gauche, survenue après une chute de sa hauteur. 10H après l’application de Jbira, l’examen a trouvé:\nJbira très serrée et une tuméfaction étendue du membre supérieur gauche limité à mi-bras.",
+  "vignette_imgs": [
+   "FRACTURES MS/img/CC18/fig1.jpg"
+  ],
+  "qa": [
+   {
+    "n": 1,
+    "q": "Quel est votre diagnostic?",
+    "answer": "Syndrome de loge de l'avant-bras gauche sur Jbira",
+    "comment": "Les syndromes de loges regroupent plusieurs tableaux dont le point commun est l’augmentation de la pression à l’intérieur d’un compartiment fermé perturbant la fonction et la viabilité des tissus contenus dans ce compartiment.\n\nDeux mécanismes d’élévation de la pression sont individualisables :\n\n- La diminution du contenant induit une diminution du volume de la loge musculaire et correspond essentiellement aux bandages et aux plâtres trop serrés ou aux compressions prolongées.\n\n- L’ augmentation du contenu correspondent à l’œdème lié à l’ischémie ou à un hématome.\n\nLe syndrome de loge aigu correspond aux symptômes aiguës accompagnant l’augmentation pathologique brutale de la pression intra-musculaire. Le mécanisme du syndrome aiguë de loge associe dans un cercle vicieux et auto-entretenu la baisse de la vascularisation tissulaire et l’augmentation de la pression intra-musculaire. A partir de 30mm de mercure le flux tissulaire peut être totalement interrompu. La souffrance musculaire secondaire entraîne elle-même un œdème accentuant l’ischémie.\n\nfig1: schéma illustrant le cercle vicieux du syndrome de loge\n\nDans le cas d’un syndrome aiguë de loge l’examen clinique doit être précoce et rigoureux :\n\n- La douleur est le symptôme au premier plan, siégeant au niveau de la loge lésée sous forme de tension et de crampe, très intense voire extrême par rapport au mécanisme causal, résistant aux antalgiques et aux changements de position. La douleur est augmentée par la surélévation du membre à la différence de celle liée à l’œdème post-traumatique. La douleur est exacerbée par l’extension passive du poignet et des doigts.\n\n- Le déficit de sensibilité dans le territoire du nerf passant par la loge souffrante est un signe précoce et fiable.\n\n- La palpation de la loge montre qu’elle est tendue ; les muscles ont perdu leur force.\n\n- Un déficit moteur est un signe supplémentaire tardif comme la disparition des pouls distaux qui sont des signes d’ischémie qu’il ne faut attendre.\n\n- L’interrogatoire est fondamental pour rechercher une cause contextuelle favorisante et en particulier les traumatismes des membres fermés, immobilisés par plâtre ou pansement compressif, les interventions pour ostéosynthèse à foyer fermé, les compressions prolongées en état d’inconscience.",
+    "answer_imgs": []
+   },
+   {
+    "n": 2,
+    "q": "Quel geste urgent devez-vous faire?",
+    "answer": "Il faut faire une ablation de Jbira, et s'il n'y a pas régression rapide des signes cliniques une aponévrotomie s'impose en urgence",
+    "comment": "Le traitement du syndrome de loge aigu :\n- Avant tout supprimer l’élément compressif, c’est à dire plâtre ou pansement.\n\n- L’aponévrotomie et l’ouverture des périmysiums est l’étape suivante. Le diagnostic est facilement confirmé lorsque les masses musculaires jaillissent à travers l’incision. Le rapprochement cutané immédiat est formellement contre-indiqué pour éviter toute récidive.\n\n- Le parage musculaire ne doit jamais être réalisé en urgence car l’absence de saignement et l’aspect sont de mauvais éléments d’appréciation ; les capacités de régénération sont très importantes. En cas de surinfection locale, l’excision doit être très prudente, à la curette pour protéger nerfs et vaisseaux.\n- La fermeture cutanée ultérieure ne doit pas être envisagée avant le 5-6e jour par décollement cutané prudent et/ou greffe de peau mince.\n\n- La prévention des raideurs articulaires repose sur la rééducation immédiate.",
+    "answer_imgs": []
+   },
+   {
+    "n": 3,
+    "q": "Quel est votre diagnostic?",
+    "answer": "Fracture du condyle externe gauche stade I",
+    "comment": "",
+    "answer_imgs": [
+     "FRACTURES MS/img/R1CC17C.jpg"
+    ]
+   },
+   {
+    "n": 4,
+    "q": "Quelle est votre conduite à tenir?",
+    "answer": "Hospitalisation\n\nMise en place d’une attelle\n\nAnti inflammatoire par voie intra-veineuse\n\nSurélévation de la main\n\nTraitement orthopédique après tarissement de l’œdème.",
+    "comment": "",
+    "answer_imgs": []
+   }
+  ],
+  "section": "MS",
+  "id": "MS_cas25"
+ },
+ {
+  "file": "FRACTURES MS/cas_clinique/cas26.html",
+  "region": "Avant-bras",
+  "casenum": "Cas clinique 1",
+  "vignette": "Traumatisme fermé de l’avant bras gauche, chez un enfant de 6 ans, victime d’une chute de 0.5m de hauteur.\nL’examen a trouvé une déformation de l’avant bras avec douleur à la palpation sans ecchymose ni lésion cutané.\n\nLa radiographie a montré: (fig1, fig2)\n\n1. Quel est votre diagnostic? R1 C1\n\n2. La lésion radiale présente quel type de fracture? R2\n\n3. Quel traitement proposez-vous? R3 C3\n4. Quelle complication redoutez-vous? R4 C4\n\nRéf",
+  "vignette_imgs": [
+   "FRACTURES MS/img/haykall.jpg",
+   "FRACTURES MS/img/avant-bras/fig10.jpg"
+  ],
+  "qa": [
+   {
+    "n": 1,
+    "q": "Quel est votre diagnostic?",
+    "answer": "Fracture diaphysaire des deux os de l’avant bras gauche. L’une intéressant le 1/4 inférieur du cubitus avec angulation et l’autre intéressant la jonction 1/3 moyen 1/3 inférieur.",
+    "comment": "Les fractures des deux os de l’avant-bras représentent 5% des fractures de l’enfant.\n\nElles illustrent les caractéristiques de l’os infantile. 3 types de fractures peuvent se voir:\n\n-la fracture plastiques\n\n-la fracture en bois-vert\n\n-la fracture complète\n\nIl faut distinguer entre les fractures diaphysaires qui sont particulières par leur lenteur de consolidation et leurs conséquences sur les courbures des deux os, les fractures métaphysaires et les fractures intéressant la physe et l’épiphyse avec leur risque sur la croissance.\n\n.",
+    "answer_imgs": []
+   },
+   {
+    "n": 2,
+    "q": "La lésion radiale présente quel type de fracture?",
+    "answer": "C’est une fracture en bois-vert car elle est uni-corticale avec angulation.",
+    "comment": "",
+    "answer_imgs": []
+   },
+   {
+    "n": 3,
+    "q": "Quel traitement proposez-vous?",
+    "answer": "Réduction orthopédique, sous anesthésie générale, maintenue par un plâtre brachio-anté-brachio-palmaire.",
+    "comment": "Le traitement orthopédique est le plus souvent indiqué dans les fractures des deux os de l’avant-bras de l’enfant. En effet, la nécessité d’un alignement anatomique quasi parfait n’est pas toujours nécessaire du fait des propriétés de remodelage inhérentes à l’os en croissance de l’enfant.\nLa réduction se fait sous anesthésie générale et sous contrôle scopique.\n\nLe remodelage intervient par croissance asymétrique au niveau de la plaque épiphysaire. Trois facteurs l’influencent:\n\n- l’âge de l’enfant: les fractures de l’avant-bras avant 8ans laissent rarement une angulation importante, après 13ans il est déraaisonnable d’espérer une correction. Entre les deux la correction est largement imprévisible.\n\n- La distance de la fracture à la métaphyse: plus la fracture est distale plus grand est le potentiel de correction. Plus elle est proximal plus la probabilité de la persistance d’un cal vicieux est grande.\n\n- l’importance de la déformation: on considère que le remodelage est excellent pour un angle de moins de 30° à 6ans et de moins de 15° à 10ans, mais la grande variabilité des corrections incite à la prudence. La sécurité est de recommander la correction des déformations angulaires supérieures à 10° au-delà de 10ans.\n\n- En cas de fracture en bois-vert, le déplacement est essentiellement angulaire. La réduction par pression sur le sommet de la déformation sera douce en cherchant à obtenir une hypercorrection par rupture de la corticale concave et en veillant à ne pas rompre les attaches périostées. Ceci permet d'éviter les déplacements secondaires et les fractures itératives\n\n- En cas de fracture complète, le déplacement est généralement angulaire avec chevauchement et déplacement rotatoire. Celui ci associe la rotation initiale imposée par le traumatisme et la rotation secondaire due à la traction des muscles sur leurs insertions osseuses. La réduction est obtenue par une traction dans l’axe de l’avant bras avec une contre traction sur le bras. Elle réduit facilement le déplacement angulaire, le chevauchement et le décalage\n\n- La réduction est maintenue par un plâtre brachio-anté-brachio-palmaire, moulant au maximum le membre fracturé pour éviter les déplacements secondaires.\n\n- Cette immobilisation sera suivie par un contrôle radiologique immédiat et une surveillance clinique basés sur :\n\n* La surveillance de la chaleur, la coloration, le pouls capillaire de la main et des doigts, ainsi que la motricité et la sensibilité des doigts. Le risque d’un syndrome de loge est la principale crainte. Celui-ci doit être évoqué devant toute douleur à l'extension passive ou active des doigts\n\n* Le contrôle radiologique à J8, J15 et J21, à la recherche d’un déplacement secondaire sous plâtre.",
+    "answer_imgs": [
+     "FRACTURES MS/img/avant-bras/fig11.jpg"
+    ]
+   },
+   {
+    "n": 4,
+    "q": "Quelle complication redoutez-vous?",
+    "answer": "On craint la survenue d'un syndrome de loge.",
+    "comment": "La ponction articulaire est la clé du diagnostic, c’est un geste qui doit être fait en urgence au bloc opératoire dans les conditions d’asepsie chirurgicale, sous anesthésie générale avant toute antibiothérapie. On utilise une aiguille d’un calibre suffisant pour ramener un liquide parfois épais.\n\nIl s’agit d’une ponction évacuatrice qui doit enlever le maximum de liquide afin de réduire l’inoculum bactérien.\n\nLe patient est installé en décubitus dorsal, le genou en extension. Les repères sont palpatoires, on repère le bord supéro-externe de la rotule, le point de ponction se trouve au niveau de la jonction du tiers proximal et du tiers médian de la rotule, on glisse l’aiguille en visant le pôle supérieur de la rotule, en formant un angle d’environ 30° avec l’horizontal.\n\nPoint de ponction au niveau de la jonction du 1/3 proximal et du 1/3 distal du bord externe de la rotule en visant son pôle supérieur\n\nAiguille orientée vers le pôle supérieur de la rotule en formant un angle de 30° avec l’horizontal\n\nL’étude macroscopique permet de distinguer un liquide synovial clair « mécanique », louche ou puriforme, ou un liquide sanglant. Le liquide est rapidement acheminé au laboratoire. Ce liquide fait l’objet d’une analyse cytologique avec numération et identification des éléments, et d’une analyse bactériologique.\n\nLe lavage doit être pratiqué dans des conditions d'asepsie chirurgicale. Il est réalisé à l'aide d'une seule aiguille avec un gros trocart en alternant injection et aspiration du produit de lavage. L'inflammation de la synoviale rend la manipulation souvent difficile, et Si ce produit ramène trop de fausses membranes en flammèches, et si l'état clinique ne s'améliore pas rapidement, on pourra en tirer l'indication d'un lavage chirurgical ou arthroscopique.",
+    "answer_imgs": []
+   }
+  ],
+  "section": "MS",
+  "id": "MS_cas26"
+ },
+ {
+  "file": "FRACTURES MS/cas_clinique/cas27.html",
+  "region": "Avant-bras",
+  "casenum": "Cas clinique 2",
+  "vignette": "Traumatise fermé de l’avant-bras droit, chez un enfant de 14 ans, victime d’un accident de sport.\nL’examen clinique a trouvé une déformation du 1/3 moyen de l’avant-bras, sans aucun trouble vasculo-nerveux en aval.\n\nLa radiographie de l’avant-bras a montré:",
+  "vignette_imgs": [
+   "FRACTURES MS/img/3dam1.jpg",
+   "FRACTURES MS/img/3dam2.jpg"
+  ],
+  "qa": [
+   {
+    "n": 1,
+    "q": "Interprétez la radiographie ?",
+    "answer": "Fracture en bois-vert déplacée de la diaphyse des deux os de l’avant-bras droit.",
+    "comment": "Les fractures des deux os de l’avant-bras représentent 5% des fractures de l’enfant.\n\nElles illustrent les caractéristiques de l’os infantile. 3 types de fractures peuvent se voir:\n\n-la fracture plastiques\n\n-la fracture en bois-vert\n\n-la fracture complète\n\nIl faut distinguer entre les fractures diaphysaires qui sont particulières par leur lenteur de consolidation et leurs conséquences sur les courbures des deux os, les fractures métaphysaires et les fractures intéressant la physe et l’épiphyse avec leur risque sur la croissance.",
+    "answer_imgs": []
+   },
+   {
+    "n": 2,
+    "q": "Quel traitement proposez-vous ?",
+    "answer": "Réduction orthopédique avec embrochage percutané sous scope; antérograde du cubitus et rétrograde du radius. (fig3, fig4).\n\nfig3",
+    "comment": "Le traitement chirurgical est un traitement d’exeption dans les fractures des deux os de l’avant-bras.\n\nL'embrochage percutané soit par broches de Kirschner stable ou par broches de Métaizeau. ces dernières gardent une supériorité par rapport aux précédentes, car par leur élasticité leur lontage est plus stable et aucune mobilisation ne saurait les déplacer.",
+    "answer_imgs": [
+     "FRACTURES MS/img/3idm1.jpg",
+     "FRACTURES MS/img/3idm2.jpg"
+    ]
+   }
+  ],
+  "section": "MS",
+  "id": "MS_cas27"
+ },
+ {
+  "file": "FRACTURES MS/cas_clinique/cas28.html",
+  "region": "Avant-bras",
+  "casenum": "Cas clinique 3",
+  "vignette": "Enfant de 3ans, victime 3 mois avant son admission d’une fracture fermée de l’avant-bras gauche, traitée par plâtre brachio-anté-brachio-palmaire pendant 6 semaines. À l’ablation du plâtre, l’examen a trouvé une persistance d’une angulation de l’avant-bras, un poignet en flexion, un pouce en flexion-adduction, des métacarpo-phalangiennes en extension et des inter-phalangiennes proximales et distales en flexion.\nLa radiographie a montré:",
+  "vignette_imgs": [
+   "FRACTURES MS/img/as.jpg"
+  ],
+  "qa": [
+   {
+    "n": 1,
+    "q": "Quel est votre diagnostic?",
+    "answer": "Syndrome de Volkman sur une fracture des deux os de l’avant-bras gauche",
+    "comment": "Le syndrome de Volkman: (fig2)\n\n- Il se définit comme l’association d’une rétraction des muscles de la loge antérieure de l’avant-bras à une paralysie +/- étendue des muscles de la main\n\n- Il s’agit d’une conséquence d’ischémie intéressant les différents tissus, notamment, les masses musculaires de l’avant-bras et bien souvent des nerfs médian et ulnaire\n\n- Ces lésions musculaires et ce déficit nerveux s’associent pour créer une main paralytique\n\nAprès la phase aiguë, correspondant au syndrome de loges, deux symptômes sont objectivés: la rétraction musculaire et la paralysie. Alors qu’il y a régression des douleurs et recoloration des doigts.\nLe traitement du syndrome de Volkman reste palliatif.\n\nfig2",
+    "answer_imgs": []
+   },
+   {
+    "n": 2,
+    "q": "Comment prévenir le syndrome de Volkman?",
+    "answer": "Les régles à suivre pour la prévention d'un syndrome de Volkman sont:\n\n- la confection d’un plâtre non compressif\n\n- avertir le patient des complications potentielles d’une immobilisation plâtrée\n\n- insister pour que le patient garde le membre en surélévation\n\n- assurer une surveillance rapprochée les deux premiers jours de la pose du plâtre\n\n- expliquer les symptômes d’un syndrome de loge aigu\n\n- insister pour que le patient consulte en urgence en cas de douleurs augmentant progressivement",
+    "comment": "La rétraction du syndrome de Volkman se constitue très rapidement, parfois, malgré le traitement d’urgence. Elle est décrite comme suit:\n\n- Constitution de la griffe du poignet et des doigts due à la rétraction musculaire des éléments de la loge antérieure (pronateurs, fléchisseurs du poignet, fléchisseurs des doigts)\n\n- L’avant-bras est en pronation, poignet en flexion, griffe digitale (métacarpo-phalangiennes en extension, inter-phalangiennes proximales et distales en flexion) et pouce en adduction\n\n- Atteinte neurologique : médio-ulnaire, le plus souvent médian, situé au centre de la zone ischémique et traversant des carrefours étroits (canal carpien et coude). Il s’agit d’une atteinte motrice touchant l’opposition et une hypoesthésie dans le territoire concerné\n\n- Troubles circulatoires et trophiques : main froide, troubles sudoraux, fente des tissus sous cutanés, amyotrophie, peau mince, ongles secs et cassants, ulcération distale des doigts et arrêt de la croissance osseuse\n\n- L’évolution est variable selon l’étendue de l’ischémie et du degré d’atteinte des nerfs\n\nLa phase de séquelles est constituée définitivement au bout de 9 mois. La rétraction est fixée par l’organisation fibreuse, existence ou non d’atteinte nerveuse périphérique, lésion cutanée et trophique, déformation ostéo-articulaire.\nLe traitement du syndrome de Volkmann à ce stade reste palliatif.",
+    "answer_imgs": []
+   }
+  ],
+  "section": "MS",
+  "id": "MS_cas28"
+ },
+ {
+  "file": "FRACTURES MS/cas_clinique/cas29.html",
+  "region": "Poignet",
+  "casenum": "Cas clinique 1",
+  "vignette": "Traumatisme fermé du poignet, chez un enfant de 12 ans, suite à une chute de sa hauteur sur la paume de la main.\nL’examen a trouvé\nune impotence fonctionnelle du membre supérieur gauche,\nune déformation du poignet et\nune douleur à la palpation de l’extrémité distale du radius.\n\nLa radiographie du poignet a montré:",
+  "vignette_imgs": [
+   "FRACTURES MS/img/3diyam.jpg",
+   "FRACTURES MS/img/3diyam2.jpg"
+  ],
+  "qa": [
+   {
+    "n": 1,
+    "q": "Quel est votre diagnostic?",
+    "answer": "Fracture-décollement épiphysaire de l’extrémité inférieur du radius SALTER I",
+    "comment": "Les fractures du 1/4 distale de l’avant-bras représentent le 1/3 des fractures des membres de l’enfant.\n\n20% intéressent le cartilage de croissance et sont des décollement épiphysaires de radius.\n\n40% de ces fractures atteignent les deux os. 40% n’atteignent qu’un seul os, en règle général le radius.\n\nLeur mécanisme est le plus souvent indirect par chute sur le poignet.\n\nLa recherche d’autres lésions associées est impératives.\n\nContrairement à l’adulte, les fractures du 1/4 inférieur des deux os de l’avant-bras chez l’enfant sont très stéréotypées et peuvent être classées de façon simple.\n\nCette classification tient compte du trait de fracture et comporte 5 catégories:\n\n- les fractures du radius n’intéressant pas le cartilage conjugal, associées ou non à une fracture du cubitus.\n\n- Les fractures décollement épiphysaire du radius, associées ou non à une fracture du cubitus.\n\n- Les fractures intermédiaires (associant les deux catégories précédentes)\n\n- les fractures isolées du cubitus.\n\n- Les fractures épiphysaires isolées.\n\nPar ailleurs, les fractures-décollements épiphysaires sont classées selon SALTER et HARRIS comme suit:\n\ntype I: décollement épiphysaire pur\n\ntype II: décollement épiphysaire avec fracture métaphysaire\n\ntype III: décollement-fracture épiphysaire\n\ntype IV: fracture épiphysio-métaphysaire\n\ntype V: écrasement du cartilage de croissance\n\nfig4",
+    "answer_imgs": [
+     "FRACTURES MS/img/R1CC1P.jpg"
+    ]
+   },
+   {
+    "n": 2,
+    "q": "Quel traitement préconisez-vous?",
+    "answer": "Réduction orthopédique, maintenue par un plâtre brachio-anté-brachio-palmaire poignet en flexion prono-supination neutre et coude fléchit à 90°. Le plâtre sera redressé après 3 semaines.",
+    "comment": "Les fractures du 1/4 distal des deux os de l'avant bras relèvent d’un traitement orthopédique dans la majorité des cas.\n\n- Les fractures épargnant le cartilage de croissance:\n\n- Fractures en motte de beurre : le traitement repose sur l'immobilisation par un plâtre brachio-anté-brachio-palmaire.\n\n- Fractures en bois-vert: la réduction en général facile, impose parfois de casser la deuxième corticale pour obtenir un alignement stable des deux os et éviter un déplacement secondaire.\n\n- Fractures complètes : Non déplacées, elles seront immobilisées par un plâtre brachio-anté-brachio-palmaire. Déplacées, elles seront réduites sous anesthésie générale et immobilisées par plâtre brachio-anté-brachio-palmaire circulaire et bien moulé. Pour les fractures à bascule postérieure, il est préférable que le plâtre soit fait sur un poignet en flexion de 45 à 60° pour prévenir un éventuel déplacement secondaire. Ce plâtre pourra être redressé 3 semaines après (l’immobilisation totale est de 6 à 8 semaines).\n\n- Les fracture-décollements épiphysaires du radius:\n\n-Les fracture-décollements épiphysaires à bascule postérieure: leur réduction est obtenue par une manœuvre en traction, hyper-extension puis flexion du foyer de fracture et du poignet. Ces fractures ne sont stables qu’en flexion palmaire du poignet.\n\n-Les fracture-décollements à bascule antérieure: analogues aux précédentes, mais le déplacement est inverse. La réduction sera réalisée selon une manœuvre inverse. Elles seront immobilisées dans plâtre brachio-anté-brachio-palmaire, bien moulé au niveau de la face antérieure du carpe et sur un poignet en légère extension.\n\n- Les fractures intermédiaires: si le déplacement est important, la réduction est nécessaire. L'immobilisation repose sur un plâtre brachio-anté-brachio-palmaire.\n\n- Les fractures isolées du cubitus relèvent d’une immobilisation plâtrée associée ou non à une réduction.\n\n- Les fractures épiphysaires imposent une immobilisation bloquant la prono-supination.\n\nLes méthodes chirurgicales ne sont utilisées que dans les échecs ou les difficultés du traitement orthopédique.",
+    "answer_imgs": []
+   },
+   {
+    "n": 3,
+    "q": "Quelle complication faut-il craindre pour ce type de fracture?",
+    "answer": "Il faut craindre une soudure prématuré du cartilage de croissance: épiphysiodèse.",
+    "comment": "",
+    "answer_imgs": []
+   }
+  ],
+  "section": "MS",
+  "id": "MS_cas29"
+ },
+ {
+  "file": "FRACTURES MS/cas_clinique/cas30.html",
+  "region": "Poignet",
+  "casenum": "Cas clinique 2",
+  "vignette": "Traumatisme fermé de l’avant-bras gauche, chez un enfant de 4ans, suite à une chute d’un 1,5m de hauteur avec réception sur main en hyper-flexion.\nL’examen a objectivé une attitude du traumatisé du membre supérieur avec déformation en dos de fourchette de l’extrémité distale de l’avant-bras.\nLa radiographie a montré:",
+  "vignette_imgs": [
+   "FRACTURES MS/img/poignet1.jpg",
+   "FRACTURES MS/img/as1.jpg"
+  ],
+  "qa": [
+   {
+    "n": 1,
+    "q": "Quel est votre diagnostic?",
+    "answer": "Fracture du 1/4 distal des deux os de l’avant-bras avec bascule postérieur de l’extrémité distale du radius.",
+    "comment": "",
+    "answer_imgs": []
+   },
+   {
+    "n": 2,
+    "q": "Quelle est votre attitude?",
+    "answer": "Réduction orthopédique avec maintient par plâtre brachio-anté-brachio-palmaire en flexion (fig3, fig4).\n\nfig3",
+    "comment": "Les fractures du 1/4 distal des deux os de l'avant bras relèvent d’un traitement orthopédique dans la majorité des cas.\n\n- Les fractures épargnant le cartilage de croissance:\n\n- Fractures en motte de beurre : le traitement repose sur l'immobilisation par un plâtre brachio-anté-brachio-palmaire.\n\n- Fractures en bois-vert: la réduction en général facile, impose parfois de casser la deuxième corticale pour obtenir un alignement stable des deux os et éviter un déplacement secondaire.\n\n- Fractures complètes : Non déplacées, elles seront immobilisées par un plâtre brachio-anté-brachio-palmaire. Déplacées, elles seront réduites sous anesthésie générale et immobilisées par plâtre brachio-anté-brachio-palmaire circulaire et bien moulé. Pour les fractures à bascule postérieure, il est préférable que le plâtre soit fait sur un poignet en flexion de 45 à 60° pour prévenir un éventuel déplacement secondaire. Ce plâtre pourra être redressé 3 semaines après (l’immobilisation totale est de 6 à 8 semaines).\n\n- Les fracture-décollements épiphysaires du radius:\n\n-Les fracture-décollements épiphysaires à bascule postérieure: leur réduction est obtenue par une manœuvre en traction, hyper-extension puis flexion du foyer de fracture et du poignet. Ces fractures ne sont stables qu’en flexion palmaire du poignet.\n\n-Les fracture-décollements à bascule antérieure: analogues aux précédentes, mais le déplacement est inverse. La réduction sera réalisée selon une manœuvre inverse. Elles seront immobilisées dans plâtre brachio-anté-brachio-palmaire, bien moulé au niveau de la face antérieure du carpe et sur un poignet en légère extension.\n\n- Les fractures intermédiaires: si le déplacement est important, la réduction est nécessaire. L'immobilisation repose sur un plâtre brachio-anté-brachio-palmaire.\n\n- Les fractures isolées du cubitus relèvent d’une immobilisation plâtrée associée ou non à une réduction.\n\n- Les fractures épiphysaires imposent une immobilisation bloquant la prono-supination.\n\nLes méthodes chirurgicales ne sont utilisées que dans les échecs ou les difficultés du traitement orthopédique.",
+    "answer_imgs": [
+     "FRACTURES MS/img/ach.jpg",
+     "FRACTURES MS/img/poignet2.jpg"
+    ]
+   },
+   {
+    "n": 3,
+    "q": "Quelles sont les complications à craindre pour ce type de lésion?",
+    "answer": "Les complications à craindre sont le syndrome de loge et le déplacement secondaire (c'est pour cela qu'on fait une radiographie de contrôle à J8, J15 et J21).",
+    "comment": "",
+    "answer_imgs": []
+   }
+  ],
+  "section": "MS",
+  "id": "MS_cas30"
+ },
+ {
+  "file": "FRACTURES MI/cas_clinique/cas0.html",
+  "region": "Cas clinique 9",
+  "casenum": "",
+  "vignette": "Nouveau né, accouchement par voie basse dystocique qui a présenté à l’examen clinique une déformation du membre inférieur droit et une asymétrie des mouvements spontanés des quatre membres.",
+  "vignette_imgs": [
+   "FRACTURES MI/img/mr.png"
+  ],
+  "qa": [
+   {
+    "n": 1,
+    "q": "Interprétez la radiographie, quel est votre diagnostic ?",
+    "answer": "Il s’agit d’une fracture de la diaphyse fémorale déplacée avec angulation importante",
+    "comment": "Les traumatismes obstétricaux concernent surtout le nouveau-né à terme (80 à 90 % des cas), rarement le prématuré. Il existe plusieurs facteurs favorisants :\n\nune présentation anormale tels que le siège ou la face, ce qui est source de dystocie\n\nune disproportion céphalo-pelvienne, à cause d'une déformation, une hydrocéphalie, une macrosomie…\n\nune extraction instrumentale, forceps ou ventouse\n\ndes manœuvres obstétricales inappropriées le plus souvent, quelle soient instrumentales ou manuelles\n\ndes manœuvres obstétricales liées à une dystocie\n\nun travail prolongé ou trop rapide",
+    "answer_imgs": []
+   },
+   {
+    "n": 2,
+    "q": "Quel traitement proposez vous ?",
+    "answer": "On procède à une réduction dans l’axe suivi d’une immobilisation par une attelle.",
+    "comment": "Le traitement vise essentiellement une réduction approximative et surtout un contrôle de la douleur par une immobilisation par une attelle. Dés le quinzième jour un cal exubérant apparaît sur les clichés de contrôle. La contention est retirée entre 15 et 20 jours. Les fractures obstétricales sont des fractures de bon pronostic. Elles bénéficient de l’extraordinaire remodelage osseux de l’enfant en croissance. Le traitement orthopédique initial, le moins agressif possible, donne un bon résultat dans la majorité des cas et les séquelles sont rares.",
+    "answer_imgs": []
+   },
+   {
+    "n": 3,
+    "q": "Quels sont les autres traumatismes à rechercher ?",
+    "answer": "- Lésions traumatiques des parties molles : érythèmes, abrasions, ulcérations, hématome du\n\nsterno-cleido- mastoïdien…\n\n-Traumatismes crâniens : céphalhématome, enfoncement de la boite crânienne…\n\n-Traumatismes du rachis, de la moelle et des nerfs périphériques : Paralysie obstétricale du plexus brachial, paralysie faciale…\n\n- Lésions traumatiques des os des membres : fracture de la clavicule, fracture de l’humérus…",
+    "comment": "",
+    "answer_imgs": []
+   }
+  ],
+  "section": "MI",
+  "id": "MI_cas0"
+ },
+ {
+  "file": "FRACTURES MI/cas_clinique/cas1.html",
+  "region": "Cas clinique 1",
+  "casenum": "",
+  "vignette": "Enfant âgé de 14 ans, sans antécédents pathologiques particuliers, qui s’était présenté aux\nurgences suite à un accident de la voie publique à point d’impact cranio-facial, abdominal et pelvien.",
+  "vignette_imgs": [
+   "FRACTURES MI/img/r2.png"
+  ],
+  "qa": [
+   {
+    "n": 1,
+    "q": "Quels sont les premiers gestes à réaliser ?",
+    "answer": "- Évaluation de l’état hémodynamique, respiratoire et neurologique du patient\n\n- Transfert en réanimation en cas d’instabilité hémodynamique\n\n- Dans les autres cas, pose d’une voie veineuse, et assurer l’antalgie\n\n- Bilan lésionnel d’un patient polytraumatisé\n\n- Recherche de complications loco-régionales\n\n- Bilan radiologique initial",
+    "comment": "- Devant tout traumatisme à haute énergie une lésion de l’anneau pelvien doit être\nsuspectée.\n-Le pronostic vital peut être engagé soit par la fracture elle-même (hémorragie\nrétro-péritonéale) soit par les lésions associées.\n-L’examen clinique devra être complet et scrupuleusement consigné :\n* Inspection :\ncontusions, dermabrasions, hématomes, …\n* Palpation :\nrepères osseux du bassin, recherche d’une instabilité de l’anneau\npelvien en écartant et rapprochant les épines iliaques antéro-supérieures.\n* Examen vasculaire périphérique.\n* Examen neurologique et testing de la sensibilité périnéale.\n* Bilan urologique :\n\nincapacité mictionnelle, globe vésical, hématurie, …\n-Examen à la recherche de lésions associées dans le cadre d’un patient\npolytraumatisé (crâne, abdomen, thorax, …)\n-L’imagerie comportera au minimum une radiographie du bassin de face, complétée\npar d’autres examens paraclinique si besoin (scanner pour préciser les lésions de\nl’anneau pelvien).",
+    "answer_imgs": []
+   },
+   {
+    "n": 2,
+    "q": "On avait noté la présence d’une anomalie sur la radiographie du bassin de face,",
+    "answer": "Il s’agit d’une fracture de l’aile iliaque droite classée type II b selon la classification de\n\nTorode et Zieg.",
+    "comment": "Commentaire :\n\nLes lésions traumatiques de la ceinture pelvienne et du sacrum sont rares chez l’enfant (5% des fractures) et leur gravité est liée à la violence du traumatisme.\n\nLes lésions stables siègent surtout au niveau des branches pubiennes, leur diagnostic est simple sur des clichés standards et elles sont rarement associées à des lésions viscérales.\n\nEn cas de fractures instables, la tomodensitométrie présente l’intérêt de faire à la fois le bilan osseux précis mais aussi le bilan viscéral.\n\nLes fractures de l’anneau pelvien s’accompagnent des lésions associées dans 75% des cas surtout du tractus uro-génital (1-2% de rupture de l’urètre, 3-5% de rupture de la vessie, 10% de plaies périnéales vaginales et/ou rectales, 3% de lésions vasculaires.\n\nIl s’agit le plus souvent de mécanisme à haute énergie dans un contexte de patient polytraumatisé (accident de la voie publique).",
+    "answer_imgs": []
+   },
+   {
+    "n": 3,
+    "q": "Quel autre examen paraclinique demandez vous ?",
+    "answer": "On demande un scanner du bassin (figure 2)",
+    "comment": "",
+    "answer_imgs": []
+   },
+   {
+    "n": 4,
+    "q": "Quelle est votre attitude thérapeutique ?",
+    "answer": "Les fractures stables sont le plus souvent traitées par simple repos au lit pendant quelques\njours puis marche en décharge.",
+    "comment": "Tout enfant hémodynamiquement instable relèvera de la réanimation en se tenant à disposition pour une éventuelle réduction et stabilisation de la fracture en cas d’hémorragie rétro-péritonéale.\n\nPour les patients stables, le traitement sera le plus souvent orthopédique :\n\n*Fractures non déplacées :\nrepos au lit puis marche en décharge.\n\n*Fractures en rotation externe :\nréduction en hamac.\n\n*Fracture avec ascension d’un hémi-bassin :\nréduction par traction.\n\nSeules les lésions instables nécessiteront une réduction (Traction trans-osseuse, réduction à foyer ouvert) et une fixation interne ou externe.",
+    "answer_imgs": []
+   }
+  ],
+  "section": "MI",
+  "id": "MI_cas1"
+ },
+ {
+  "file": "FRACTURES MI/cas_clinique/cas2.html",
+  "region": "Cas clinique 2",
+  "casenum": "",
+  "vignette": "Patiente de 15 ans, victime d’un accident de la voie publique : la patiente avait été heurtée par une voiture avec point d’impact cranio-facial, abdominal et pelvien.",
+  "vignette_imgs": [
+   "FRACTURES MI/img/C2R2.png"
+  ],
+  "qa": [
+   {
+    "n": 1,
+    "q": "Quelle est votre conduite à tenir en urgence ?",
+    "answer": "Tout d’abord, il faut reconnaître et traiter les\n3 urgences vitales\n:\n\nCardio circulatoire\n\nÉ\nTAT DE CHOC\ndû à une lésion hémorragique interne ou extériorisée.\n\nDIAGNOSTIC POSITIF\n:\n\no pâleur des téguments, marbrures des genoux,\n\no pouls rapide et filant, temps de recoloration cutanée allongé, tension artérielle abaissée avec pincement de la différentielle.\n\nCONDUITE\nÀ\nTENIR :\n\no oxygénothérapie au masque voire intubation trachéale et ventilation,\n\no mise en place de deux voies d’abord veineux périphériques de gros calibre,\n\no restauration de la volémie par remplissage vasculaire,\n\no massage cardiaque en cas d’arrêt cardio-circulatoire.\n\nRespiratoire\n\nDIAGNOSTIC POSITIF\n:\n\no Agitation, polypnée ou bradypnée, signes de lutte ou d’encombrement, cyanose.\n\nCONDUITE\nÀ\nTENIR :\n\no Libération des voies aériennes supérieures (extraction d’un corps étranger, prévention de la chute en arrière de la langue par sub-luxation de la mandibule).\n\no Intubation trachéale et ventilation, rachis cervical en rectitude.\n\nNeurologique\n\nÉ\ntat de conscience\n(score de Glasgow), réflexe photo- moteur, motilité spontanée.",
+    "comment": "",
+    "answer_imgs": []
+   },
+   {
+    "n": 2,
+    "q": "Interprétez la radiographie du bassin. Quel est votre diagnostic?",
+    "answer": "Fractures ilio-pubienne et ischio-pubienne gauche et du sacrum gauche.",
+    "comment": "Radiographie du genou gauche de face et de profil ne montrant aucune anomalie osseuse\n\nClassification de Torode et Zieg : (Figure1)\n\n-Type I :\nArrachement apophysaire.\n\n-Type II :\nFracture de l’aile iliaque.\n\n*II A : Arrachement apophysaire iliaque.\n\n*II B : Fracture vraie de l’aile iliaque.\n\n-Type III :\nFracture simple et stable de l’anneau pelvien.\n\n*III A : Disjonction symphysaire ou arrachement apophysaire de la symphyse.\n\n*III B : Fracture du cotyle sans lésion concomitante de l’anneau pelvien.\n\n-Type IV :\nFracture génératrice d’instabilité.\n\n*IV A : Fracture bilatérale des branches ischio et ilio-pubiennes.\n\n*IV B : Fracture du pubis ou disjonction symphysaire associée à une lésion instable de l’arc postérieur (disjonction sacro-iliaque ou fracture de l’aileron sacré).",
+    "answer_imgs": []
+   },
+   {
+    "n": 3,
+    "q": "Quel autre examen paraclinique demandez vous ?",
+    "answer": "On demande un scanner du bassin (figure2, 3 et 4)",
+    "comment": "",
+    "answer_imgs": [
+     "FRACTURES MI/img/C2R3.png"
+    ]
+   },
+   {
+    "n": 4,
+    "q": "Quelles sont les complications qu’il faudra rechercher systématiquement?",
+    "answer": "Il faudra rechercher les complications vasculaires, neurologiques et urologiques",
+    "comment": "-Complications vasculaires : coloration et température cutanée, pouls périphériques, écho Doppler en cas de doute.\n\n-Complications neurologiques : recherche de lésions du plexus lombo-sacré, la sensibilité et la tonicité du sphincter anal.\n\n-Complications urologiques : incapacité mictionnelle, globe vésical, hématurie ou urétrorragie.",
+    "answer_imgs": []
+   }
+  ],
+  "section": "MI",
+  "id": "MI_cas2"
+ },
+ {
+  "file": "FRACTURES MI/cas_clinique/cas3.html",
+  "region": "Cas clinique 3",
+  "casenum": "",
+  "vignette": "Patient de 8 ans, avait été admis aux urgences pour traumatisme du membre inférieur droit suite à un accident de la voie publique.",
+  "vignette_imgs": [
+   "FRACTURES MI/img/FIGURE 1c2.png"
+  ],
+  "qa": [
+   {
+    "n": 1,
+    "q": "Interprétez la radiographie, quel est votre diagnostic ?",
+    "answer": "Il s’agit d’une fracture du col du fémur : Fracture décollement épiphysaire,\ntype I selon Salter & Harris\net classé type I selon Delbet.",
+    "comment": "Commentaire :\n\nLes lésions traumatiques de la ceinture pelvienne et du sacrum sont rares chez l’enfant (5% des fractures) et leur gravité est liée à la violence du traumatisme.\n\nLes lésions stables siègent surtout au niveau des branches pubiennes, leur diagnostic est simple sur des clichés standards et elles sont rarement associées à des lésions viscérales.\n\nEn cas de fractures instables, la tomodensitométrie présente l’intérêt de faire à la fois le bilan osseux précis mais aussi le bilan viscéral.\n\nLes fractures de l’anneau pelvien s’accompagnent des lésions associées dans 75% des cas surtout du tractus uro-génital (1-2% de rupture de l’urètre, 3-5% de rupture de la vessie, 10% de plaies périnéales vaginales et/ou rectales, 3% de lésions vasculaires.\n\nIl s’agit le plus souvent de mécanisme à haute énergie dans un contexte de patient polytraumatisé (accident de la voie publique).",
+    "answer_imgs": []
+   },
+   {
+    "n": 2,
+    "q": "Quel est le diagnostic différentiel ?",
+    "answer": "c’est l’épiphysiolyse.",
+    "comment": "La distinction entre la fracture et l’épiphysiolyse est en théorie assez aisée : à l’inverse de la fracture du col du fémur, l’épiphysiolyse survient lors d’un choc minime chez un enfant souvent en surcharge pondérale et ayant des antécédents de boiterie.",
+    "answer_imgs": []
+   },
+   {
+    "n": 3,
+    "q": "Quel traitement proposez vous ?",
+    "answer": "On demande un scanner du bassin",
+    "comment": "Possibilités et indications thérapeutiques :\n\nLe traitement des fractures du col du fémur de l’enfant est chirurgical dans la plupart des cas et doit être réalisé\nen urgence.\n\nQuelques particularités propres à l’enfant doivent être connues.\n\nLe périoste de l’enfant est épais et résistant autour du col du fémur et va limiter le déplacement dans près de la moitié des cas. En revanche s’il est déchiré et interposé dans le foyer de fracture, il empêchera une réduction anatomique. En raison de la vascularisation de l’épiphyse fémorale, les fractures cervicales ou certaines fractures cervico-trochantériennes peuvent léser les vaisseaux périostés lors de leur trajet sous le périoste, le long du col fémoral entraînant un risque de nécrose épiphysaire. L’os spongieux du col du fémur et de la région trochantérienne est très dense et résistant, offrant une excellente prise au vissage.\n\nType I :\n\nLa fixation chirurgicale est de règle\n, parfois même en percutané par une ou deux broches chez le jeune enfant ou des vis à compression chez l’adolescent.\n\nType II :\n\nLes fractures non déplacées et les fractures peu déplacées à trait horizontal peuvent être traitées par plâtre pelvi-pédieux pendant 4 à 6 semaines, en surveillant régulièrement l’absence de déplacement secondaire.\n\nLes fractures peu déplacées à trait vertical sont instables et il est prudent de les traiter chirurgicalement par ostéosynthèse à foyer fermé.\n\nLes fractures déplacées doivent être ostéosynthésées. La fixation se fait par deux vis ne franchissant pas le cartilage de croissance.\n\nType III :\n\nLe traitement est chirurgical.\n\nLa réduction est obtenue comme pour le type II soit sur table orthopédique ou par abord chirurgical antéro-externe.\n\nS’il existe un décollement apophysaire du grand trochanter, il faut le fixer par un cerclage à effet de hauban appuyé sur 2 broches verticales, après réduction et fixation du trait principal.\n\nType IV :\n\nLe traitement orthopédique par traction collée permet d’obtenir parfois un bon alignement en flexion à 90° (Traction au Zénith). Sinon fixation par une vis plaque surtout dans le cas de polytraumatisme.",
+    "answer_imgs": []
+   },
+   {
+    "n": 4,
+    "q": "Quelle est la complication la plus redoutable ?",
+    "answer": "Nécrose de la tête fémorale : l’évolution des fractures de type I de Delbet est malheureusement le plus souvent défavorable quels que soient la précocité et le type de traitement.",
+    "comment": "La Nécrose avasculaire ou aseptique :\n\nC’est la complication la plus fréquente et la plus invalidante Le risque de nécrose aseptique est directement proportionnel à l'importance du déplacement initial des fragments fracturaires et à l'importance des dégâts vasculaires au moment du traumatisme.\n\nD'autres facteurs sont associés à l'augmentation de ce risque de nécrose aseptique, ce sont les types l ou II et un âge supérieur à dix ans.\n\nType I :\n\nLa nécrose survient dans près de 70%. Le pronostic est défavorable quel que soit la précocité et le type de traitement.\n\nType II, III:\n\nLe risque de nécrose est plus élevé si les fractures sont déplacées ou le traitement différé.\n\nLa précocité de la réduction est un facteur d’amélioration du pronostic, ainsi que l’évacuation de l’hématome intra capsulaire.\n\nLe délai de visualisation radiologique de la nécrose est d’un an, d’où l’intérêt de la scintigraphie osseuse dans le premier mois postopératoire pour un diagnostic plus précoce.",
+    "answer_imgs": []
+   }
+  ],
+  "section": "MI",
+  "id": "MI_cas3"
+ },
+ {
+  "file": "FRACTURES MI/cas_clinique/cas4.html",
+  "region": "Cas clinique 4",
+  "casenum": "",
+  "vignette": "Patiente de 14 ans, sans antécédents particuliers, s’était présentée aux urgences suite à un accident de la voie publique qui avait occasionné chez elle un traumatisme avec un point d’impact au niveau du membre inférieur droit.\nL’examen à l’admission avait retrouvé une patiente en bon état général, on avait noté l’existence d’une impotence fonctionnelle totale du membre droit associée à une douleur à la palpation de la cuisse droite sans effraction cutanée ni troubles vasculo-nerveux.",
+  "vignette_imgs": [
+   "FRACTURES MI/img/c4f1.png"
+  ],
+  "qa": [
+   {
+    "n": 1,
+    "q": "Interprétez la radiographie, quel est votre diagnostic ?",
+    "answer": "Il s’agit d’une fracture du col du fémur : transcervicale droite non déplacée classée type II selon\nDelbet.",
+    "comment": "Type II\n:\n\nFracture transcervicale, la plus fréquente des fractures du col du fémur.\n\nLa disposition vasculaire explique le risque élevé de nécrose.\n\nOn distingue selon\nPauwels\n, les fractures à trait horizontal de meilleur pronostic que celles à trait vertical.",
+    "answer_imgs": []
+   },
+   {
+    "n": 2,
+    "q": "Quelle est votre attitude thérapeutique ?",
+    "answer": "On propose un traitement chirurgical\n(figure3)\n:\n\nRéduction en urgence au bloc opératoire, sous anesthésie générale, sur table orthopédique sous contrôle scopique à l’amplificateur de brillance en abduction et rotation interne.\n\nContention du foyer de fracture par ostéosynthèse interne : vissage par vis canulées.\n\nRepos strict.\n\nMise en charge après consolidation.",
+    "comment": "Possibilités et indications thérapeutiques :\n\nLe traitement des fractures du col du fémur de l’enfant est chirurgical dans la plupart des cas et doit être réalisé\nen urgence.\n\nQuelques particularités propres à l’enfant doivent être connues.\n\nLe périoste de l’enfant est épais et résistant autour du col du fémur et va limiter le déplacement dans près de la moitié des cas. En revanche s’il est déchiré et interposé dans le foyer de fracture, il empêchera une réduction anatomique. En raison de la vascularisation de l’épiphyse fémorale, les fractures cervicales ou certaines fractures cervico-trochantériennes peuvent léser les vaisseaux périostés lors de leur trajet sous le périoste, le long du col fémoral entraînant un risque de nécrose épiphysaire. L’os spongieux du col du fémur et de la région trochantérienne est très dense et résistant, offrant une excellente prise au vissage.\n\nType I :\n\nLa fixation chirurgicale est de règle\n, parfois même en percutané par une ou deux broches chez le jeune enfant ou des vis à compression chez l’adolescent.\n\nType II :\n\nLes fractures non déplacées et les fractures peu déplacées à trait horizontal peuvent être traitées par plâtre pelvi-pédieux pendant 4 à 6 semaines, en surveillant régulièrement l’absence de déplacement secondaire.\n\nLes fractures peu déplacées à trait vertical sont instables et il est prudent de les traiter chirurgicalement par ostéosynthèse à foyer fermé.\n\nLes fractures déplacées doivent être ostéosynthésées. La fixation se fait par deux vis ne franchissant pas le cartilage de croissance.\n\nType III :\n\nLe traitement est chirurgical.\n\nLa réduction est obtenue comme pour le type II soit sur table orthopédique ou par abord chirurgical antéro-externe.\n\nS’il existe un décollement apophysaire du grand trochanter, il faut le fixer par un cerclage à effet de hauban appuyé sur 2 broches verticales, après réduction et fixation du trait principal.\n\nType IV :\n\nLe traitement orthopédique par traction collée permet d’obtenir parfois un bon alignement en flexion à 90° (Traction au Zénith). Sinon fixation par une vis plaque surtout dans le cas de polytraumatisme.",
+    "answer_imgs": [
+     "FRACTURES MI/img/c4f3.png"
+    ]
+   },
+   {
+    "n": 3,
+    "q": "Quelle est la complication la plus redoutable ?",
+    "answer": "C’est la nécrose de la tête fémorale.",
+    "comment": "La Nécrose avasculaire ou aseptique :\n\nC’est la complication la plus fréquente et la plus invalidante Le risque de nécrose aseptique est directement proportionnel à l'importance du déplacement initial des fragments fracturaires et à l'importance des dégâts vasculaires au moment du traumatisme.\n\nD'autres facteurs sont associés à l'augmentation de ce risque de nécrose aseptique, ce sont les types l ou II et un âge supérieur à dix ans.\n\nType I :\n\nLa nécrose survient dans près de 70%. Le pronostic est défavorable quel que soit la précocité et le type de traitement.\n\nType II, III:\n\nLe risque de nécrose est plus élevé si les fractures sont déplacées ou le traitement différé.\n\nLa précocité de la réduction est un facteur d’amélioration du pronostic, ainsi que l’évacuation de l’hématome intra capsulaire.\n\nLe délai de visualisation radiologique de la nécrose est d’un an, d’où l’intérêt de la scintigraphie osseuse dans le premier mois postopératoire pour un diagnostic plus précoce.",
+    "answer_imgs": []
+   },
+   {
+    "n": 4,
+    "q": "Quel est le délai de décharge, d’éviction scolaire et sportive?",
+    "answer": "La mise en décharge sera prudente et la mise en charge ne sera autorisée qu’après disparition complète du trait.\n\nEviction scolaire : 2 à 4 mois.\n\nEviction sportive : 1 an.",
+    "comment": "",
+    "answer_imgs": []
+   }
+  ],
+  "section": "MI",
+  "id": "MI_cas4"
+ },
+ {
+  "file": "FRACTURES MI/cas_clinique/cas5.html",
+  "region": "Cas clinique 5",
+  "casenum": "",
+  "vignette": "Enfant de 7 ans, sans antécédents particuliers, s’était présenté aux urgences suite à un accident de la voie publique qui avait occasionné chez lui un traumatisme avec un point d’impact au niveau du membre inférieur droit.",
+  "vignette_imgs": [
+   "FRACTURES MI/img/c5f1.png"
+  ],
+  "qa": [
+   {
+    "n": 1,
+    "q": "Interprétez la radiographie, quel est votre diagnostic ?",
+    "answer": "Il s’agit d’une fracture du col du fémur : basi-cervicale droite avec déplacement minime classée type III selon\nDelbet\n.",
+    "comment": "Type III\n:\n\nFracture basicervicale ou cervicotrochanterienne, moins fréquente.\n\nLa situation du trait par rapport au cartilage de croissance sous trochantérien a permis à\nRigault\nd’en distinguer\n4 formes :\n\nLa véritable fracture basicervicale, dont le trait arrive à la limite interne du grand trochanter : avant réduction, elle est difficile à différencier de la fracture transcervicale à trait vertical en raison de rotation externe du fragment distal effaçant le col sur la radiographie de face : c’est la radiographie de profil après réduction qui permet le plus souvent de les distinguer.\n\nLa fracture basicervicale avec décollement de la partie interne du grand trochanter ou fracture-décollement apophysaire\n.\n\nLa fracture avec décollement complet du grand trochanter.\n\nLa fracture avec décollement apophysaire de la partie externe du grand trochanter : contrairement aux trois formes précédentes, le trait se termine en dehors du hile vasculaire du col et le bon pronostic doit les rapprocher des fractures trochantériennes.",
+    "answer_imgs": []
+   },
+   {
+    "n": 2,
+    "q": "Quelle est votre attitude thérapeutique ?",
+    "answer": "On propose un traitement chirurgical :\n\n- en urgence au bloc opératoire, sous anesthésie générale, sur table orthopédique sous contrôle scopique à l’amplificateur de brillance en abduction et rotation interne.\n\n-contention du foyer de fracture par ostéosynthèse interne : vissage.\n\n-Immobilisation plâtrée : plâtre pelvi-pédieux pendant 2 mois.\n\n-mise en charge après consolidation.\n(Figure2)",
+    "comment": "Possibilités et indications thérapeutiques :\n\nLe traitement des fractures du col du fémur de l’enfant est chirurgical dans la plupart des cas et doit être réalisé\nen urgence.\n\nQuelques particularités propres à l’enfant doivent être connues.\n\nLe périoste de l’enfant est épais et résistant autour du col du fémur et va limiter le déplacement dans près de la moitié des cas. En revanche s’il est déchiré et interposé dans le foyer de fracture, il empêchera une réduction anatomique. En raison de la vascularisation de l’épiphyse fémorale, les fractures cervicales ou certaines fractures cervico-trochantériennes peuvent léser les vaisseaux périostés lors de leur trajet sous le périoste, le long du col fémoral entraînant un risque de nécrose épiphysaire. L’os spongieux du col du fémur et de la région trochantérienne est très dense et résistant, offrant une excellente prise au vissage.\n\nType I :\n\nLa fixation chirurgicale est de règle\n, parfois même en percutané par une ou deux broches chez le jeune enfant ou des vis à compression chez l’adolescent.\n\nType II :\n\nLes fractures non déplacées et les fractures peu déplacées à trait horizontal peuvent être traitées par plâtre pelvi-pédieux pendant 4 à 6 semaines, en surveillant régulièrement l’absence de déplacement secondaire.\n\nLes fractures peu déplacées à trait vertical sont instables et il est prudent de les traiter chirurgicalement par ostéosynthèse à foyer fermé.\n\nLes fractures déplacées doivent être ostéosynthésées. La fixation se fait par deux vis ne franchissant pas le cartilage de croissance.\n\nType III :\n\nLe traitement est chirurgical.\n\nLa réduction est obtenue comme pour le type II soit sur table orthopédique ou par abord chirurgical antéro-externe.\n\nS’il existe un décollement apophysaire du grand trochanter, il faut le fixer par un cerclage à effet de hauban appuyé sur 2 broches verticales, après réduction et fixation du trait principal.\n\nType IV :\n\nLe traitement orthopédique par traction collée permet d’obtenir parfois un bon alignement en flexion à 90° (Traction au Zénith). Sinon fixation par une vis plaque surtout dans le cas de polytraumatisme.",
+    "answer_imgs": [
+     "FRACTURES MI/img/c5f2.png"
+    ]
+   },
+   {
+    "n": 3,
+    "q": "Quelle est la complication la plus redoutable ?",
+    "answer": "C’est la nécrose de la tête fémorale.",
+    "comment": "La Nécrose avasculaire ou aseptique :\n\nC’est la complication la plus fréquente et la plus invalidante Le risque de nécrose aseptique est directement proportionnel à l'importance du déplacement initial des fragments fracturaires et à l'importance des dégâts vasculaires au moment du traumatisme.\n\nD'autres facteurs sont associés à l'augmentation de ce risque de nécrose aseptique, ce sont les types l ou II et un âge supérieur à dix ans.\n\nType I :\n\nLa nécrose survient dans près de 70%. Le pronostic est défavorable quel que soit la précocité et le type de traitement.\n\nType II, III:\n\nLe risque de nécrose est plus élevé si les fractures sont déplacées ou le traitement différé.\n\nLa précocité de la réduction est un facteur d’amélioration du pronostic, ainsi que l’évacuation de l’hématome intra capsulaire.\n\nLe délai de visualisation radiologique de la nécrose est d’un an, d’où l’intérêt de la scintigraphie osseuse dans le premier mois postopératoire pour un diagnostic plus précoce.",
+    "answer_imgs": []
+   },
+   {
+    "n": 4,
+    "q": "Un suivi radiologique est-il obligatoire ?",
+    "answer": "Oui. On demande une radiographie du bassin de face à 1 mois, 3 mois puis 1 an.",
+    "comment": "SUIVI :\n\n- L’immobilisation post opératoire (traction collée, plâtre pelvi-pédieux) sera décidée en fonction de l’âge de l’enfant, du type de fracture et de la qualité de l’ostéosynthèse.\n\n- le membre fracturé sera mis en décharge pour une durée prolongée, le délai de consolidation est de 2 mois au moins.\n\nLes fractures du fémur nécessitent une radiographie de contrôle à 1 mois, 3 mois et à 1 an.\n\nEn cas de décollement épiphysaire, une scintigraphie osseuse doit être demandée pour juger de la vitalité de la tête fémorale.\n\nLa scintigraphie précoce au premier mois post-opératoire à une valeur pronostique certaine, car si la fixation est normale à ce stade, le risque de nécrose grave paraît faible. Il faut prévoir une surveillance radiographique à 3 mois, 6 mois, 1 et 2 ans.\n\nL’ablation du matériel d’ostéosynthèse ne doit pas être envisagée avant un délai d’un an postopératoire.\n\n-De la rééducation sera nécessaire pour apprendre la marche en décharge avec des béquilles, pour entretenir les mobilités articulaires et la trophicité musculaire.",
+    "answer_imgs": []
+   }
+  ],
+  "section": "MI",
+  "id": "MI_cas5"
+ },
+ {
+  "file": "FRACTURES MI/cas_clinique/cas6.html",
+  "region": "Cas clinique 6",
+  "casenum": "",
+  "vignette": "Patient de 12ans qui avait été admis aux urgences pour traumatisme du membre inférieur droit suite à un accident de la voie publique.",
+  "vignette_imgs": [
+   "FRACTURES MI/img/c6f1.png"
+  ],
+  "qa": [
+   {
+    "n": 1,
+    "q": "Quel est votre diagnostic ? Interprétez la radiographie",
+    "answer": "Il s’agit d’une fracture per trochantérienne avec un troisième fragment associée à une fracture du petit trochanter déplacée classée stade IV de\nDelbet\n.",
+    "comment": "Les fractures pertrochanteriennes sont rares chez l’enfant. Ce ne sont donc pas de véritables fractures du col du fémur. Leur pronostic vasculaire est excellent.",
+    "answer_imgs": []
+   },
+   {
+    "n": 2,
+    "q": "Quelle attitude thérapeutique préconisez vous ?",
+    "answer": "Le traitement est chirurgical : réduction à ciel ouvert du foyer et stabilisation par une plaque et vissage du petit trochanter. (\nFigure 2)",
+    "comment": "Possibilités et indications thérapeutiques :\n\nLe traitement des fractures du col du fémur de l’enfant est chirurgical dans la plupart des cas et doit être réalisé\nen urgence.\n\nQuelques particularités propres à l’enfant doivent être connues.\n\nLe périoste de l’enfant est épais et résistant autour du col du fémur et va limiter le déplacement dans près de la moitié des cas. En revanche s’il est déchiré et interposé dans le foyer de fracture, il empêchera une réduction anatomique. En raison de la vascularisation de l’épiphyse fémorale, les fractures cervicales ou certaines fractures cervico-trochantériennes peuvent léser les vaisseaux périostés lors de leur trajet sous le périoste, le long du col fémoral entraînant un risque de nécrose épiphysaire. L’os spongieux du col du fémur et de la région trochantérienne est très dense et résistant, offrant une excellente prise au vissage.\n\nType I :\n\nLa fixation chirurgicale est de règle\n, parfois même en percutané par une ou deux broches chez le jeune enfant ou des vis à compression chez l’adolescent.\n\nType II :\n\nLes fractures non déplacées et les fractures peu déplacées à trait horizontal peuvent être traitées par plâtre pelvi-pédieux pendant 4 à 6 semaines, en surveillant régulièrement l’absence de déplacement secondaire.\n\nLes fractures peu déplacées à trait vertical sont instables et il est prudent de les traiter chirurgicalement par ostéosynthèse à foyer fermé.\n\nLes fractures déplacées doivent être ostéosynthésées. La fixation se fait par deux vis ne franchissant pas le cartilage de croissance.\n\nType III :\n\nLe traitement est chirurgical.\n\nLa réduction est obtenue comme pour le type II soit sur table orthopédique ou par abord chirurgical antéro-externe.\n\nS’il existe un décollement apophysaire du grand trochanter, il faut le fixer par un cerclage à effet de hauban appuyé sur 2 broches verticales, après réduction et fixation du trait principal.\n\nType IV :\n\nLe traitement orthopédique par traction collée permet d’obtenir parfois un bon alignement en flexion à 90° (Traction au Zénith), sinon réduction chirurgicale à ciel ouvert et stabilisation par plaque vissée.",
+    "answer_imgs": [
+     "FRACTURES MI/img/c6f2.png"
+    ]
+   },
+   {
+    "n": 3,
+    "q": "Quelles sont les séquelles possibles ?",
+    "answer": "La pseudarthrose\n\nL’épiphysiodèse\n\nLe Cal vicieux",
+    "comment": "Le risque de nécrose de la tête fémorale est faible, d’autres complications sont possibles :\n\nLa Coxa vara post traumatique :\n\nElle se définit par une fermeture de l'angle cervico-diaphysaire dont la valeur devient inférieure â 135 °. La valeur normale de cet angle chez l'enfant varie de 145 à 150 degrés. La coxa vara post traumatique est avant tout liée au traitement orthopédique.\n\nLa Pseudarthrose :\n\nLe type III\n(basicervical) a une grande tendance à la pseudarthrose. Elle peut être plus ou moins serrée ou se présenter sous la forme d'une grande dislocation avec raccourcissement important entraînant souvent une nécrose aseptique secondaire.\n\nLa Fermeture précoce des cartilages :\n\nPrincipal trouble de croissance compliquant les fractures du col fémoral chez l'enfant. Cette fermeture précoce ne connaît pas encore de causes évidentes. On incrimine une nécrose avasculaire le traumatisme chirurgical provoqué par le matériel d’ostéosynthèse.\n\nLa part de raccourcissement entraînée par cette fermeture précoce est en fonction de l’âge de l’enfant : chez le tout petit enfant, une fermeture précoce des cartilages entrainera une inégalité de longueur de membre très importante. Par contre, chez le grand enfant, l'inégalité de longueur de membre résultant d'une fermeture précoce des cartilages sera minime.\n\nLe Cal vicieux :\ndû en général à un traitement insuffisant ou un traitement orthopédique pour des fractures initialement ou secondairement déplacées.",
+    "answer_imgs": []
+   }
+  ],
+  "section": "MI",
+  "id": "MI_cas6"
+ },
+ {
+  "file": "FRACTURES MI/cas_clinique/cas7.html",
+  "region": "Cas clinique 7",
+  "casenum": "",
+  "vignette": "Enfant de 7 ans, sans antécédents particuliers, victime d’un traumatisme au niveau du membre inférieur droit suite à une chute de sa hauteur sans autre point d’impact.",
+  "vignette_imgs": [
+   "FRACTURES MI/img/c7Q2.png"
+  ],
+  "qa": [
+   {
+    "n": 1,
+    "q": "Quel est votre diagnostic ? Interprétez la radiographie",
+    "answer": "Fracture diaphysaire du fémur droit à trait spiroïde avec un chevauchement.",
+    "comment": "Les fractures diaphysaires du fémur représentent la troisième localisation par ordre de fréquence des fractures de l’enfant. Elles sont très variables avec classiquement une fracture médio-diaphysaire.\n\nElles sont rencontrées principalement chez le garçon (sex ratio : 3/1)\n\nLes étiologies sont nombreuses et variables selon l’âge du patient :\n\nEntre 0-4 ans : chutes 40%, maltraitance 30%, accident de la voie publique 10%, traumatisme obstétricaux rares.\n\nEntre 6-10 ans : Accident de la voie publique 70%, chute 20%.\n\nEntre 13 et 15ans : Accident de la voie publique 70%, accident de sport 20%.",
+    "answer_imgs": []
+   },
+   {
+    "n": 2,
+    "q": "Quelle est votre conduite à tenir en urgence ?",
+    "answer": "-Chercher lésions associées et surveillance des constantes générales.\n\n-Pose d’une voie veineuse permettant l’administration d’antalgiques.\n\n-Réalisation d’une anesthésie locorégionale de type bloc crural : elle doit être effectuée avant toute autre investigation dès que le diagnostic de fracture du fémur est évoqué. Elle permettra la manipulation et l’installation indolore de l’enfant.",
+    "comment": "",
+    "answer_imgs": []
+   },
+   {
+    "n": 3,
+    "q": "Pour quel traitement opteriez vous ?",
+    "answer": "C’est une indication à l’embrochage centromédullaire élastique stable.\n\nSous anesthésie générale, sous scope : réduction du foyer fracturaire et stabilisation par deux broches de Metaizeau.(Figure 2)",
+    "comment": "Le traitement chirurgical\nest de plus en plus utilisé surtout chez\nl’enfant de plus de 6 ans\n: c’est l’embrochage centromédullaire élastique stable.",
+    "answer_imgs": [
+     "FRACTURES MI/img/C7R2.png"
+    ]
+   },
+   {
+    "n": 4,
+    "q": "Quelle est votre conduite en post opératoire ?",
+    "answer": "L’hospitalisation dure 2 à 3 jours, la marche avec béquilles et sans appui est autorisée à j5. L’enfant peut retourner à l’école à J 15 et reprendre le sport à J 90. Les broches seront retirées entre le 4\nème\net le 8\nème\nmois lorsque la corticalisation fémorale est suffisante",
+    "comment": "",
+    "answer_imgs": []
+   },
+   {
+    "n": 5,
+    "q": "Quelles sont les complications du traitement chirurgical ?",
+    "answer": "L’infection reste le principal risque dont les séquelles, bien que rares, peuvent être très sévères : séquestrations diaphysaires, pseudarthroses, inégalités, raideur articulair>e…",
+    "comment": "",
+    "answer_imgs": []
+   }
+  ],
+  "section": "MI",
+  "id": "MI_cas7"
+ },
+ {
+  "file": "FRACTURES MI/cas_clinique/cas8.html",
+  "region": "Cas clinique 8",
+  "casenum": "",
+  "vignette": "Enfant de 4ans, qui s’était présenté aux urgences suite à un traumatisme du membre inférieur gauche causé par la chute d’un objet lourd sur sa cuisse.",
+  "vignette_imgs": [
+   "FRACTURES MI/img/c8ff.png"
+  ],
+  "qa": [
+   {
+    "n": 1,
+    "q": "interprétez la radiographie",
+    "answer": "Fracture médio-diaphysaire du fémur droit avec angulation.",
+    "comment": "Les fractures diaphysaires du fémur représentent la troisième localisation par ordre de fréquence des fractures de l’enfant. Elles sont très variables avec classiquement une fracture médio-diaphysaire.\n\nElles sont rencontrées principalement chez le garçon (sex ratio : 3/1)\n\nLes étiologies sont nombreuses et variables selon l’âge du patient :\n\nEntre 0-4 ans : chutes 40%, maltraitance 30%, accident de la voie publique 10%, traumatisme obstétricaux rares.\n\nEntre 6-10 ans : Accident de la voie publique 70%, chute 20%.\n\nEntre 13 et 15ans : Accident de la voie publique 70%, accident de sport 20%.",
+    "answer_imgs": []
+   },
+   {
+    "n": 2,
+    "q": "Quel sont les complications à rechercher ?",
+    "answer": "Ouverture cutanée : allant de l’ouverture de dedans en dehors en cas de déplacement majeur jusqu’au délabrement avec perte de substance musculo-cutanée.\nLésions vasculaires et nerveuses à rechercher systématiquement.",
+    "comment": "CONDUITE À TENIR EN URGENCE :\n\n-Chercher lésions associés et surveillance des constantes vitales.\n\n-Pose d’une voie veineuse permettant l’administration d’antalgiques.\n\n-Réalisation d’une anesthésie locorégionale de type bloc crural : elle peut être effectuée avant toute autre investigation dès que le diagnostic de fracture du fémur est évoqué. Elle permettra la manipulation et l’installation indolore de l’enfant.",
+    "answer_imgs": []
+   },
+   {
+    "n": 3,
+    "q": "Quels est le traitement ?",
+    "answer": "On demande un scanner du bassin (figure 2)",
+    "comment": "Le traitement orthopédique\ns’impose chez le petit\nenfant avant 6 ans\ncar le potentiel de remodelage est important et la consolidation est rapide. Les modalités du traitement orthopédique sont variées, dépendant de l’âge de l’enfant, du type de fracture, et surtout des habitudes du chirurgien qui applique et surveille ce traitement, qui est représenté essentiellement par la traction et l’immobilisation plâtrée d’emblée ou après réduction.\n\n-Réduction de la fracture puis immobilisation plâtrée :\n\nElle se réalise sur un cheval à plâtre et nécessite plusieurs aides qui maintiennent l'alignement du membre (ligne passant par l'épine iliaque antéro-supérieure, le bord externe de la rotule, le premier espace interdigital du pied), le genou en légère flexion (15°) et le talon à angle droit. Commencer par une attelle plâtrée postérieure qui renforcera la solidité du plâtre. Ne pas oublier de protéger les plis et les saillies osseuses par du coton. Renforcer au niveau de l'articulation de la hanche par de petites attelles (abaisse-langues, par exemple). Le plâtre doit englober les deux épines iliaques antéro-supérieures, s'appuyer sur le sacrum, dégager l'orifice anal et le périnée. Les orteils sont bien dégagés pour permettre une bonne surveillance du plâtre.\n\n- La traction collée au zénith\n\nC’est un système adhésif, fait d’une large bande de sparadrap, appliqué en U sur les faces interne et externe du membre inférieur, à partir du genou. Sous le pied une planchette est disposée maintenant la bande écartée. Une cordelette de traction y est amarrée. Un système de deux poulies fixées sur un cadre surmontant le lit permet de réaliser une traction convenable dans sa force et sa direction. Le membre est soulevé à la verticale par un poids équivalent au 10ème du poids du corps de l'enfant qui doit soulever la fesse au-dessus du plan de décubitus\n\nDes contrôles radiologiques vérifient la qualité de l’alignement. Dès l’apparition du cal sur la radio, la traction est remplacée par un plâtre pelvi-pedieux. L’inconvénient majeur de ces méthodes est de nécessiter une hospitalisation prolongée et une longue éviction scolaire.",
+    "answer_imgs": [
+     "FRACTURES MI/img/r3.png"
+    ]
+   },
+   {
+    "n": 4,
+    "q": "Quelles sont les séquelles possibles ?",
+    "answer": "Inégalité de longueur des membres inférieurs.\n\n-Cal vicieux .\n\n-Pseudarthrose.",
+    "comment": "- Inégalité de longueur des membres inférieurs : surtout si on laisse un chevauchement important ou en cas de réduction parfaite chez le petit enfant (risque d’hypercroissance)\n\n- Cal vicieux : c’est l’apanage du traitement orthopédique.\n\nLes cals vicieux en varus ou en valgus seront d’autant plus tolérés que l’enfant est jeune et donc le potentiel de remodelage résiduel important.\n\nLes cals vicieux rotatoires ne se corrigent pas et doivent donc être soigneusement évités par une correction parfaite de la rotation dans le foyer de fracture.\n\n- Pseudarthrose : rare",
+    "answer_imgs": []
+   }
+  ],
+  "section": "MI",
+  "id": "MI_cas8"
+ },
+ {
+  "file": "FRACTURES MI/cas_clinique/cas9.html",
+  "region": "Cas clinique 10",
+  "casenum": "",
+  "vignette": "Patient de 13 ans victime d’un accident de la voie publique avec point d’impact au niveau du genou droit. Le patient avait présenté une impotence fonctionnelle totale du membre inférieur droit et un genou tuméfie. La palpation avait noté la présente d’une douleur exquise au niveau de l’extrémité inférieur du fémur droit",
+  "vignette_imgs": [],
+  "qa": [
+   {
+    "n": 1,
+    "q": "Quel est votre diagnostic ?",
+    "answer": "Il s’agit d’un décollement épiphysaire type 1 de l’extrémité inférieure du fémur droit",
+    "comment": "Classification de Salter et Harris : (Figure2)\n\nFracture type 1 :\nle trait de fracture intéresse exclusivement le cartilage de croissance : il s’agit d’un décollement épiphysaire pur séparant le massif bicondylien de la métaphyse.\n\nFracture type 2 :\nle trait passe au niveau du cartilage de croissance et de la métaphyse. Il sépare le massif bicondylien en emportant une lame de la métaphyse.\n\nFracture type 3 :\nle trait de fracture passe au niveau de l’épiphyse et du cartilage de croissance ; c’est un équivalent d’une fracture intercondylienne.\n\nFracture type 4 :\nle trait de fracture passe au niveau de l’épiphyse de la métaphyse et du cartilage de croissance.\n\nLes fractures décollement épiphysaire type I et II sont les plus fréquentes.",
+    "answer_imgs": []
+   },
+   {
+    "n": 2,
+    "q": "Quelle est votre attitude thérapeutique ?",
+    "answer": "Réduction de la fracture et embrochage en tour Eiffel puis immobilisation par plâtre cruro pédieux en légère flexion du genou\n\nMise en charge après consolidation.",
+    "comment": "Fracture type I et II non déplacée :\n\nImmobilisation cruro-pédieuse, directe ou après ostéosynthèse, genou fléchi à 30 degré.\n\nFracture type I et II déplacée :\n\nRéduction orthopédique sous anesthésie générale et immobilisation cruro-pédieuse lorsque la réduction est satisfaisante.\n\nDans le cas contraire une réduction chirurgicale s’impose : ostéosynthèse par deux broches Kirchner obliques en croix transfixiant la physe, protégée par une immobilisation cruro-pédieuse post opératoire.\n\nFracture type III et IV :\n\nLe plus souvent une réduction chirurgicale s’impose, généralement l’ostéosynthèse sera réalisée par vissage.",
+    "answer_imgs": []
+   },
+   {
+    "n": 3,
+    "q": "Quelle est votre attitude post opératoire ?",
+    "answer": "Immobilisation plâtrée de 4 à 6 semaines.\n\n- Contrôle radiographique à J 8 pour guetter un éventuel déplacement secondaire.\n\n- Reprise de la marche de façon progressive à partir de la 6\nème\nsemaine avec deux cannes béquilles.",
+    "comment": "",
+    "answer_imgs": []
+   },
+   {
+    "n": 4,
+    "q": "Quelles sont les séquelles possibles ?",
+    "answer": "- Épiphysiodèse\n\n- Cal vicieux\n\n- Raideur articulaire\n\n- Arthrose précoce",
+    "comment": "L’épiphysiodèse est la complication la plus redoutable : Lorsque le pont est central, la conséquence est l’arrêt de la croissance, le raccourcissement est la conséquence d'un traumatisme survenu soit en cours de croissance soit un traumatisme violent avec un déplacement important. Le raccourcissement constitue la complication la plus redoutable. Il est le témoin d'une épiphysiodèse plus ou moins complète du cartilage de croissance. Cette épiphysiodèse peut être définitive et est d’autant plus grave que le décollement survient à un âge plus bas. Lorsque le pont est latéral la conséquence est une déviation axiale. Elle est la conséquence d’une épiphysiodèse incomplète. Au cours des lésions épiphysaires, l'épiphysiodèse s’observe surtout dans les fractures de type III , IV et V de Salter et Harris mais peuvent aussi se rencontrer, bien que plus rarement, dans les lésions de type II.",
+    "answer_imgs": []
+   }
+  ],
+  "section": "MI",
+  "id": "MI_cas9"
+ },
+ {
+  "file": "FRACTURES MI/cas_clinique/cas10.html",
+  "region": "Cas clinique 11",
+  "casenum": "",
+  "vignette": "Patient de 15 ans, avait été victime d’un accident de la voie publique avec point d’impact au niveau du genou droit.",
+  "vignette_imgs": [
+   "FRACTURES MI/img/C10FI.png"
+  ],
+  "qa": [
+   {
+    "n": 1,
+    "q": "Quel est votre diagnostic ? Interprétez la radiographie",
+    "answer": "Il s’agit d’une fracture décollement épiphysaire de l’extrémité inférieur du fémur classée type II de Salter et Harris .",
+    "comment": "Classification de Salter et Harris : (Figure2)\n\nFracture type 1 :\nle trait de fracture intéresse exclusivement le cartilage de croissance : il s’agit d’un décollement épiphysaire pur séparant le massif bicondylien de la métaphyse.\n\nFracture type 2 :\nle trait passe au niveau du cartilage de croissance et de la métaphyse. Il sépare le massif bicondylien en emportant une lame de la métaphyse.\n\nFracture type 3 :\nle trait de fracture passe au niveau de l’épiphyse et du cartilage de croissance ; c’est un équivalent d’une fracture intercondylienne.\n\nFracture type 4 :\nle trait de fracture passe au niveau de l’épiphyse de la métaphyse et du cartilage de croissance.\n\nLes fractures décollement épiphysaire type I et II sont les plus fréquentes.",
+    "answer_imgs": []
+   },
+   {
+    "n": 2,
+    "q": "Quelles sont les complications à rechercher ?",
+    "answer": "-Atteinte de l’artère poplitée\n\n-Atteinte du nerf péronier\n\n-L’ouverture cutanée",
+    "comment": "Atteinte de l’artère poplitée : rare et représente 1% des accidents. En cas de persistance des signes d’ischémie après réduction, l’exploration chirurgicale s’impose.\n\nAtteinte du nerf péronier survient dans 3% des cas.",
+    "answer_imgs": []
+   },
+   {
+    "n": 3,
+    "q": "Quel traitement proposez vous ?",
+    "answer": "Sous anesthésie générale, au bloc opératoire, réduction à ciel fermé du foyer de fracture et fixation par vissage puis immobilisation par genouillère plâtrée pendant 4 à 6 semaines. (Figure2)",
+    "comment": "Fracture type I et II non déplacée :\n\nImmobilisation cruro-pédieuse, directe ou après ostéosynthèse, genou fléchi à 30 degré.\n\nFracture type I et II déplacée :\n\nRéduction orthopédique sous anesthésie générale et immobilisation cruro-pédieuse lorsque la réduction est satisfaisante.\n\nDans le cas contraire une réduction chirurgicale s’impose : ostéosynthèse par deux broches Kirchner obliques en croix transfixiant la physe, protégée par une immobilisation cruro-pédieuse post opératoire.\n\nFracture type III et IV :\n\nLe plus souvent une réduction chirurgicale s’impose, généralement l’ostéosynthèse sera réalisée par vissage.",
+    "answer_imgs": [
+     "FRACTURES MI/img/C10F1.png",
+     "FRACTURES MI/img/C10F2.png"
+    ]
+   },
+   {
+    "n": 4,
+    "q": "Quelle est la séquelle la plus redoutable ?",
+    "answer": "Il s’agit de l’épiphysiodèse qui se complique soit de désaxation soit d’inégalité de longueur des membres.",
+    "comment": "Lorsque le pont est central, la conséquence est l’arrêt de la croissance, le raccourcissement est la conséquence d'un traumatisme survenu soit en cours de croissance soit un traumatisme violent avec un déplacement important. Le raccourcissement constitue la complication la plus redoutable. Il est le témoin d'une épiphysiodèse plus ou moins complète du cartilage de croissance. Cette épiphysiodèse peut être définitive et est d’autant plus grave que le décollement survient à un âge plus bas.\n\nLorsque le pont est latéral la conséquence est une déviation axiale. Elle est la conséquence d’une épiphysiodèse incomplète.\n\nAu cours des lésions épiphysaires, l'épiphysiodèse s’observe surtout dans les fractures de type IV et V de Salter et Harris mais peuvent aussi se rencontrer, bien que plus rarement, dans les lésions de type III.",
+    "answer_imgs": []
+   }
+  ],
+  "section": "MI",
+  "id": "MI_cas10"
+ },
+ {
+  "file": "FRACTURES MI/cas_clinique/cas11.html",
+  "region": "Cas clinique 12",
+  "casenum": "",
+  "vignette": "Patient de 14 ans, sans antécédents particuliers, avait été victime d’un traumatisme au niveau du genou droit lors d’un accident de la voie publique.",
+  "vignette_imgs": [
+   "FRACTURES MI/img/C11F1.png"
+  ],
+  "qa": [
+   {
+    "n": 1,
+    "q": "Quel est votre diagnostic ?",
+    "answer": "C’est une fracture décollement épiphysaire type II de Salter et Harris de l’extrémité supérieure du tibia droit.",
+    "comment": "",
+    "answer_imgs": []
+   },
+   {
+    "n": 2,
+    "q": "Quelles sont les complications à rechercher en urgence ?",
+    "answer": "Il faudra rechercher systématiquement :\n\nUne lésion de l’artère poplitée ou l’une de ses branches.\n\nUne lésion du nerf tibial ou nerf fibulaire commun.\n\nUne ouverture cutanée.\n\nUne lésion ligamentaire associée.",
+    "comment": "-Atteinte de l’artère poplitée ou l’une de ses branches est évaluée à 10% : il faudra rechercher les pouls avant et après toute manœuvre de réduction.\n\n-Lésion ligamentaire associée dans 50% des cas : touchant le ligament collatéral médial ou le ligament croisé antérieur.\n\n-Lésions neurologiques : les lésions du nerf tibial et du nerf fibulaire commun sont rares mais devront être recherchées systématiquement.\n\n-Ouverture cutanée.",
+    "answer_imgs": []
+   },
+   {
+    "n": 3,
+    "q": "Quel traitement préconisez vous ?",
+    "answer": "Sous anesthésie générale, réduction à ciel fermé et vissage percutané suivi d’une immobilisation par plâtre cruro-pédieux.",
+    "comment": "En présence de signes d’ischémie distale, la réduction sous anesthésie générale voire l’exploration sont une urgence absolue.\n\nDe même les fractures très déplacées devront être réduites rapidement même en l’absence de complications vasculo-nerveuses initiales.\n\nLes fractures type I et II de Salter et Harris :\n\nTraitement orthopédique par immobilisation cruro-pédieuse après réduction sous anesthésie générale.\n\nEn l’absence de réduction satisfaisante un abord chirurgical sera nécessaire : ostéosynthèse en croix ou vissage puis immobilisation cruro-pédieuse.\n\nLes fractures type III ou IV de Salter et Harris :\n\n-Réduction anatomique généralement par arthrotomie.\n\n-Ostéosynthèse par vissage ou embrochage.\n\n-Lorsque la croissance résiduelle est non négligeable, l’ostéosynthèse respectera tant que possible le cartilage de croissance.\n\nIl faudra évacuer les hémarthroses afin de soulager le patient.",
+    "answer_imgs": [
+     "FRACTURES MI/img/C11.png"
+    ]
+   },
+   {
+    "n": 4,
+    "q": "Quelles sont les séquelles possibles ?",
+    "answer": "-Epiphysiodèse.\n\n-cal vicieux.\n\n-Raideur articulaire.\n\n-Gonarthrose.",
+    "comment": "Epiphysiodèse\n: une lésion du cartilage de croissance occasionnera des troubles de la croissance à type de déviations axiales (tibia vara, valga, recurvatum) voire une inégalité de longueur des membres.\n\n-\nRaideur articulaire\n: cette séquelle relativement fréquente en cas de fracture articulaire sera prévenue par une réduction anatomique et une rééducation appropriée après l’immobilisation.\n\n-\nGonarthrose\n: Les fractures type III et IV ont un potentiel arthrogène.",
+    "answer_imgs": []
+   }
+  ],
+  "section": "MI",
+  "id": "MI_cas11"
+ },
+ {
+  "file": "FRACTURES MI/cas_clinique/cas12.html",
+  "region": "Cas clinique 13",
+  "casenum": "",
+  "vignette": "Enfant de 12 ans, s’était présenté aux urgences pour traumatisme du genou gauche lors d’un accident de sport.",
+  "vignette_imgs": [
+   "FRACTURES MI/img/C12F12.png"
+  ],
+  "qa": [
+   {
+    "n": 1,
+    "q": "Quel est votre diagnostic ? Interprétez la radiographie",
+    "answer": "Il s’agit d’une fracture transversale de la rotule classée type I de Duparc.",
+    "comment": "La fracture de rotule est une pathologie rare voir exceptionnelle chez l’enfant, le plus souvent secondaire à un traumatisme direct : accident de sport ou de la voie publique.",
+    "answer_imgs": []
+   },
+   {
+    "n": 2,
+    "q": "Quelle est votre attitude thérapeutique ?",
+    "answer": "Sous anesthésie générale au bloc opératoire : réduction chirurgicale à ciel ouvert et ostéosynthèse par cerclage haubanage. (Figure 4 et 5)",
+    "comment": "Le traitement des fractures sans rupture de l’appareil extenseur consistent en une immobilisation cruro-malléolaire allant de 4 à 6 semaines.\n\nPour les fractures avec rupture de l’appareil extenseur mais sans déplacement on optera soit pour l’immobilisation cruro-malléolaire soit pour une ostéosynthèse par vis.\n\nPour les fractures avec rupture de l’appareil extenseur avec déplacement le traitement est chirurgical ; l’ostéosynthèse se fera par embrochage et haubanage ( figure 6)",
+    "answer_imgs": [
+     "FRACTURES MI/img/C12R2.png"
+    ]
+   },
+   {
+    "n": 3,
+    "q": "Quelles sont les mesures associées et les suites post opératoires ?",
+    "answer": "-Immobilisation cruro-malléolaire.\n\n-Contrôle radiographique sous plâtre à j8 et j15.\n\n-Pas d’activité sportive durant 3 mois.\n\n-Possible rééducation après immobilisation afin de récupérer les amplitudes articulaires.",
+    "comment": "",
+    "answer_imgs": []
+   },
+   {
+    "n": 4,
+    "q": "Quelles sont les séquelles possibles ?",
+    "answer": "-Patella alta : rotule haute\n\n-Insuffisance quadricipitale.\n\n-Lésios ostéo-cartilagineuses fémoro-patellaire et gonarthrose précoce",
+    "comment": "",
+    "answer_imgs": []
+   }
+  ],
+  "section": "MI",
+  "id": "MI_cas12"
+ },
+ {
+  "file": "FRACTURES MI/cas_clinique/cas13.html",
+  "region": "Cas clinique 14",
+  "casenum": "",
+  "vignette": "Patient de 14 ans, sans antécédents particuliers, victime d’un traumatisme du genou lors d’un accident de la voie publique.",
+  "vignette_imgs": [
+   "FRACTURES MI/img/c13f1.png",
+   "FRACTURES MI/img/c13f2.png"
+  ],
+  "qa": [
+   {
+    "n": 1,
+    "q": "Quel est votre diagnostic ? Interprétez la radiographie",
+    "answer": "Fracture de l’épine tibiale type 4.",
+    "comment": "La fracture des épines tibiales est relativement rare, son incidence est de 3 cas/100.000 fractures de l’enfant, les adolescents sportifs entre 8 et 17 ans étant plus exposés.\n\nLe fragment détaché correspond à la zone d’insertion osseuse du ligament croisé antérieur.",
+    "answer_imgs": []
+   },
+   {
+    "n": 2,
+    "q": "Quel autre examen paraclinique demandez vous ?",
+    "answer": "un scanner du genou. (Figure3 )",
+    "comment": "",
+    "answer_imgs": [
+     "FRACTURES MI/img/c13R2.png"
+    ]
+   },
+   {
+    "n": 3,
+    "q": "Quel est le traitement?",
+    "answer": "Au bloc opératoire, sous anesthésie générale, réduction du foyer et fixation par deux vis canulées. (Figure 4 et 5)",
+    "comment": "Fracture type 1 :\nTraitement orthopédique par immobilisation cruro-pédieuse genou en extension.\n\nFracture type 2 :\nRéduction sous anesthésie générale par extension du genou puis immobilisation cruro-pédieuse genou en extension.\n\nTraitement chirurgical si traitement orthopédique inefficace.\n\nFracture type 3 et 4 :\nRéduction et ostéosynthèse chirurgicale par arthroscopie ou arthrotomie puis immobilisation cruro-pédieuse genou à 20 degré de flexion.\n\nPlusieurs types d’ostéosynthèse ont été décrits à savoir l’ostéo-suture par du fil résorbable, le fil d’acier et le vissage",
+    "answer_imgs": [
+     "FRACTURES MI/img/C13R32.png"
+    ]
+   },
+   {
+    "n": 4,
+    "q": "Quelles sont les complications possibles ?",
+    "answer": "Lésions ligamentaires associées.\n\nLésions méniscales associées.",
+    "comment": "",
+    "answer_imgs": []
+   },
+   {
+    "n": 5,
+    "q": "Quelles sont les séquelles possibles ?",
+    "answer": "Lésions ligamentaires associées.\n\nLésions méniscales associées.\n\nLaxité résiduelle par distension du LCA ou par réduction insuffisante.\n\nDiminution des amplitudes articulaires du genou après immobilisation prolongée ou par réduction insuffisante.",
+    "comment": "",
+    "answer_imgs": []
+   }
+  ],
+  "section": "MI",
+  "id": "MI_cas13"
+ },
+ {
+  "file": "FRACTURES MI/cas_clinique/cas14.html",
+  "region": "Cas clinique 15",
+  "casenum": "",
+  "vignette": "Patient de 15 ans, sans antécédents pathologiques particuliers, s’était présenté aux urgences suite à un traumatisme du genou gauche lors d’un accident de sport.",
+  "vignette_imgs": [
+   "FRACTURES MI/img/cas14f1.png"
+  ],
+  "qa": [
+   {
+    "n": 1,
+    "q": "Interprétez la radiographie. Quel est votre diagnostic ?",
+    "answer": "Radiographies de profil de genou gauche d’un garçon de 15 ans objectivant une fracture de la tubérosité tibiale antérieure classée stade II d’Ogden.",
+    "comment": "Classification des fractures de la tubérosité tibiale antérieure selon Odgen :\n\nType I :\nAvulsion simple du centre d’ossification.\n\n: non déplacée.\n\n: déplacée.\n\nType II :\n\n: Séparation de la tubérosité tibiale antérieure.\n\n: Communition du centre d’ossification.\n\nType III :\n\n: Extension du trait de fracture à l’articulation du genou.\n\n: Communition du fragment.",
+    "answer_imgs": []
+   },
+   {
+    "n": 2,
+    "q": "Quelle est votre attitude thérapeutique ?",
+    "answer": "Au bloc opératoire, réduction et par vissage puis immobilisation par plâtre cruropédieux pendant 4 à 6 semaines.",
+    "comment": "",
+    "answer_imgs": [
+     "FRACTURES MI/img/c14f3.png"
+    ]
+   },
+   {
+    "n": 3,
+    "q": "Quelles sont les complications possibles ?",
+    "answer": "-L’évolution en recurvatum est exceptionnelle car ces lésions surviennent chez des adolescents en fin de croissance.\n\n-Des syndromes de loge ont été décrits justifiant une surveillance post opératoire attentive.\n\nLe pronostic est excellent.",
+    "comment": "",
+    "answer_imgs": []
+   }
+  ],
+  "section": "MI",
+  "id": "MI_cas14"
+ },
+ {
+  "file": "FRACTURES MI/cas_clinique/cas15.html",
+  "region": "Cas clinique 16",
+  "casenum": "",
+  "vignette": "Enfant de 5 ans, sans antécédents pathologiques particuliers, avait été ramené aux urgences suite à un traumatisme ouvert de la jambe droite secondaire à un accident de la voie publique (piéton heurté par voiture).",
+  "vignette_imgs": [
+   "FRACTURES MI/img/c15f1.png"
+  ],
+  "qa": [
+   {
+    "n": 1,
+    "q": "Quels sont les soins à prodiguer en urgence ?",
+    "answer": "Conduite thérapeutique en urgence :\n\npremier parage aux urgences, lavage abondant au sérum physiologique, ablation des corps étrangers\n\nsérum antitétanique,\n\ntraitement antalgique: paracétamol à raison de 60 mg/kg/j par voie rectale,\n\nanti-inflammatoires non stéroïdiens (AINS): Acide niflurique,\n\nantibiothérapie parentérale en intraveineuse, bactéricide débutée immédiatement en monothérapie\n\nimmobilisation temporaire du foyer de fracture dans une attelle,\n\ndemander une radiographie de la jambe\n\nlaisser l’enfant à jeun",
+    "comment": "Prévention antitétanique :\n\nLa prophylaxie antitétanique est obligatoire pour toute fracture ouverte, sauf cas de vaccination dument prouvée par le carnet de vaccination, datant de moins de 5 ans.\n\nDans le cas d’une plaie très contaminée ou vaccination datant de 5 à 10 ans un rappel vaccinal est indiqué.\n\nSi l’immunisation date de plus de 10 ans, ou jamais effectuée, une immunothérapie avec vaccination sera indiquée.\n\nLavage :\n\nLe lavage doit être entrepris en urgence dès l’admission de l’enfant. Ce temps comprend un savonnage avec rinçage et séchage des zones atteintes et saines au-dessus et au-dessous de la plaie.\n\nParage :\n\nTemps important de la prise en charge des fractures ouvertes, consiste à l’ablation des tissus dévitalisés, il concerne le tissu cutané, sous cutané, fascias et muscles. Le parage du segment jambier doit être longitudinal et si possible en ellipse, de la superficie à la profondeur, le parage doit être complet mais économe, toute la graisse dévitalisée ou douteuse doit être excisée, tous les fragments osseux libres dévascularisés doivent être réséqués.\n\nRéférences\n\nAFIF.\n\nLes Fracture de jambe chez l’enfant.\n\nThèse doctorat médecine, Marrakech, 2012\n\nChotel F, Bereard J, Parot R.\n\nFractures de jambe. In: Clavert JM, Karger C, Lascombes P, Ligier JN, Métaizeau JP, editors. Fractures de l’enfant.\n\nMonographie du GEOP. Montpellier : Sauramps médical ; 2002.\n\nFracture ouverte de jambe chez l’enfant.\n\nThèse doctorat médecine, Rabat,2008,131 pages\n\nPeter G.Hope ,William G. Cole.\n\nOpen fractures of the tibia in children.\n\nJ Bone joint surg Br 1992;74-B:546-53\n\nIrwin , P. Gipson and P. Asheroft.\n\nOpen fractures of the tibia in children.\n\nInjury, 1995,Vol.26,21-24, January\n\nJ Stewart, G. Tytherleigh-strong, S.Brahathwaj and AA.Quaba\n.\n\nThe soft tissu management of children’s open tibial fractures.\n\nJ.R. Coll surg Edimb.44,Feb 1999.24-30\n\nG Jones, R.D.D. Duncan.\n\nOpen tibial fractures in children under 13 years of age: 10 years experience.\n\nInjury, Int. J. care Injured 34 (2003) 776-780\n\nAdnan A. Faraj Anthony T\n.\n\nStudy of twenty-seven paediatric patients with open tibial fractures: the role of definitive skeletal stabilization.\n\nChinese medical journal (Taipei) 2002;65:453-456",
+    "answer_imgs": []
+   },
+   {
+    "n": 2,
+    "q": "Quel est votre diagnostic ? Interprétez la radiographie",
+    "answer": "Il s’agit d’une fracture ouverte du 1/3 distal des deux os de la jambe gauche légèrement déplacée",
+    "comment": "",
+    "answer_imgs": []
+   },
+   {
+    "n": 3,
+    "q": "Quel traitement proposez vous ?",
+    "answer": "Vu l’ouverture cutanée, on propose un traitement chirurgical\n:\n\n- sous anesthésie générale :\n\n- ablation des corps étrangers, brossage de la plaie à l’eau oxygénée, lavage abondant au sérum physiologique,\n\n- parage, suture et pansement antiseptique,\n\n- excision plan par plan des tissus dévitalisés,\n\n- fermeture cutanée sans tension,\n\n- réduction manuelle sous contrôle scopique à l’amplificateur de brillance,\n\n- contention du foyer de fracture par un fixateur externe. (Figure 2)",
+    "comment": "",
+    "answer_imgs": [
+     "FRACTURES MI/img/c15f2.png"
+    ]
+   },
+   {
+    "n": 4,
+    "q": "Quelles sont les complications à craindre ?",
+    "answer": "Réponse :\n\nDifférents types de complications peuvent survenir dans le temps :\n\nLes complications précoces locales :\n\nle syndrome ischémique post-traumatique des loges de la jambe.\n\nC’est un œdème post-traumatique à l’origine d’une hyperpression dans les loges aponévrotiques de la jambe, responsable d’une ischémie tissulaire. Le diagnostic est évoqué devant des douleurs insupportables de la jambe à type de brûlures, une jambe turgescente et gonflée, une tension douloureuse des masses musculaires de la loge ischémique avec déficit sensitivomoteur (sciatique poplité externe +++).\nAucun examen complémentaire n’est nécessaire au diagnostic et ne doit retarder le traitement +++.\nCe dernier est\nune urgence\n\nthérapeutique\n+++. On procède à une ablation du plâtre et à une aponévrotomie de décharge des 3 loges de la jambe. Le patient est prévenu du risque des séquelles neurologiques.\n\nLes complications secondaires locales :\n\n-Complications cutanées :\n\n-Nécrose cutanée avec ouverture cutanée secondaire +++,\n\n-Porte d’entrée à l’infection secondaire,\n\n-Infection locale.\n\n-Déplacement secondaire : surtout pour les fractures traitées orthopédiquement.\n\nLes complications tardives :\n\n-retard de consolidation,\n\n-pseudarthrose aseptique,\n\n-ostéite chronique,\n\n-pseudarthrose septique,\n\n-cal vicieux",
+    "comment": "",
+    "answer_imgs": []
+   }
+  ],
+  "section": "MI",
+  "id": "MI_cas15"
+ },
+ {
+  "file": "FRACTURES MI/cas_clinique/cas16.html",
+  "region": "Cas clinique 17",
+  "casenum": "",
+  "vignette": "Enfant de 6 ans, sans antécédents pathologiques particuliers, s’était présenté aux urgences suite à un traumatisme ouvert de la jambe gauche secondaire à un accident de la voie publique.",
+  "vignette_imgs": [
+   "FRACTURES MI/img/c16F1.png",
+   "FRACTURES MI/img/C16F2.png"
+  ],
+  "qa": [
+   {
+    "n": 1,
+    "q": "Quel est le votre diagnostic ?",
+    "answer": "Fracture du tiers inférieur de la jambe avec perte de substance cutanée et osseuse, classée Cauchoix III.\n\nRéférences\n\nAFIF.\n\nLes Fracture de jambe chez l’enfant.\n\nThèse doctorat médecine, Marrakech, 2012\n\nChotel F, Bereard J, Parot R.\n\nFractures de jambe. In: Clavert JM, Karger C, Lascombes P, Ligier JN, Métaizeau JP, editors. Fractures de l’enfant.\n\nMonographie du GEOP. Montpellier : Sauramps médical ; 2002.\n\nFracture ouverte de jambe chez l’enfant.\n\nThèse doctorat médecine, Rabat,2008,131 pages\n\nPeter G.Hope ,William G. Cole.\n\nOpen fractures of the tibia in children.\n\nJ Bone joint surg Br 1992;74-B:546-53\n\nIrwin , P. Gipson and P. Asheroft.\n\nOpen fractures of the tibia in children.\n\nInjury, 1995,Vol.26,21-24, January\n\nJ Stewart, G. Tytherleigh-strong, S.Brahathwaj and AA.Quaba\n.\n\nThe soft tissu management of children’s open tibial fractures.\n\nJ.R. Coll surg Edimb.44,Feb 1999.24-30\n\nG Jones, R.D.D. Duncan.\n\nOpen tibial fractures in children under 13 years of age: 10 years experience.\n\nInjury, Int. J. care Injured 34 (2003) 776-780\n\nAdnan A. Faraj Anthony T\n.\n\nStudy of twenty-seven paediatric patients with open tibial fractures: the role of definitive skeletal stabilization.\n\nChinese medical journal (Taipei) 2002;65:453-456",
+    "comment": "Classification de Cauchoix & Duparc :\n\n-classification fondée sur l’importance de l’ouverture cutanée qui met le foyer de fracture en communication avec l’extérieur,\n\n-évaluation instantanée sans signification évolutive +++,\n\n-elle ne tient pas compte des lésions sous-jacentes +++ (Une fracture évaluée Cauchoix II aux urgences peut être évaluée Cauchoix III après parage au bloc opératoire).\n\nCLASSIFICATION\n\nCORRESPONDANCE ANATOMO-PATHOLOGIQUE\n\nCAUCHOIX I\n\no - Ouverture simple : Plaie ponctiforme ou linéaire,\n\no - Sans décollement sous-cutané, ni contusion,\n\no - Ouverture typiquement de dedans en dehors,\n\no - Suturable sans tension après parage chirurgical,\n\no - Traitement de la fracture et pronostic identiques à ceux des fractures fermées.\n\nCAUCHOIX II\n\no - Plaie large associée à une contusion et/ou un décollement,\n\no - sous –cutané, et/ou délimitant des lambeaux de vitalité douteuse,\n\no - Suturable après parage chirurgical,\n\no - Risque élevé de nécrose et d’ouverture cutanée en regard du foyer de fracture.\n\nCAUCHOIX III\n\no - Perte de substance limitée ou étendue, cutanée et/ou musculo-aponévrotique.\n\no - D’origine traumatique ou secondaire au parage chirurgical,\n\no - Non suturable.",
+    "answer_imgs": []
+   },
+   {
+    "n": 2,
+    "q": "Quelle est votre conduite à tenir en urgence ?",
+    "answer": "Conduite thérapeutique en urgence :\n\npremier parage aux urgences, lavage abondant au sérum physiologique, ablation des corps étrangers\n\nsérum antitétanique,\n\ntraitement antalgique: paracétamol à raison de 60 mg/kg/j par voie rectale,\n\nanti-inflammatoires non stéroïdiens (AINS): Acide niflurique,\n\nantibiothérapie parentérale en intraveineuse, bactéricide débutée immédiatement en monothérapie\n\nimmobilisation temporaire du foyer de fracture dans une attelle,\n\ndemander une radiographie de la jambe\n\nlaisser l’enfant à jeun",
+    "comment": "",
+    "answer_imgs": []
+   },
+   {
+    "n": 3,
+    "q": "Quelle est votre attitude thérapeutique ?",
+    "answer": "Vu l’ouverture cutanée, on propose un traitement chirurgical\n:\n\n- sous anesthésie générale,\n\n- excision plan par plan des tissus voués à la nécrose,\n\n- fermeture cutanée sans tension,\n\n- réduction manuelle sous contrôle scopique à l’amplificateur de brillance,\n\n- contention du foyer de fracture par un fixateur externe. (Figure 3)\n\n- confection d’un lambeau fascio-cutané en cross-leg. (Figure 4,5 )",
+    "comment": "",
+    "answer_imgs": [
+     "FRACTURES MI/img/C16R3.png",
+     "FRACTURES MI/img/C16R1.png"
+    ]
+   }
+  ],
+  "section": "MI",
+  "id": "MI_cas16"
+ },
+ {
+  "file": "FRACTURES MI/cas_clinique/cas17.html",
+  "region": "Cas clinique 18",
+  "casenum": "",
+  "vignette": "Enfant de 6 ans s’était présenté aux urgences suite à un accident de la voie publique à point d’impact au niveau de la jambe gauche.",
+  "vignette_imgs": [
+   "FRACTURES MI/img/c17f1.png",
+   "FRACTURES MI/img/c17f4.png"
+  ],
+  "qa": [
+   {
+    "n": 1,
+    "q": "Quel est votre diagnostic ?",
+    "answer": "Fracture des deux os de la jambe a trait transversal avec déplacement externe sans angulation",
+    "comment": "Les fractures de jambe sont une localisation fréquente des fractures de l’enfant. Elles représentent la troisième localisation fracturaire après les fractures du fémur et de l’avant bras.\n\nElles touchent le garçon dans 70 % des cas, vers l'âge de 8 ans. Leur prévalence est en augmentation en rapport surtout avec les accidents de la voie publique et les traumatismes sportifs.\n\nDans 70 % des cas seul le tibia est fracturé.",
+    "answer_imgs": []
+   },
+   {
+    "n": 2,
+    "q": "Que faut-il rechercher systématiquement ?",
+    "answer": "-Ouverture cutanée.\n\n-Lésions vasculaires : lésion de l’artère tibiale antérieure ou postérieure.\n\nToute ischémie constatée constitue une extrême urgence de prise en charge.\n\n-Lésions nerveuses : nerf fibulaire commun ou ses branches et le nerf tibial.",
+    "comment": "",
+    "answer_imgs": []
+   },
+   {
+    "n": 3,
+    "q": "Quel est votre traitement ?",
+    "answer": "On procède à une réduction manuelle au bloc opératoire sous anesthésie générale avec contrôle scopique sous amplificateur de brillance puis à une immobilisation plâtrée : on confectionne un\nplâtre cruro-pédieux\nque le patient gardera pendant 3 mois. (Figure 3)",
+    "comment": "La fracture de jambe de l’enfant reste d’une pratique courante en traumatologie infantile. Généralement bénigne, son traitement doit rester aussi orthopédique que possible et tenir compte des possibilités de remodelage que procure le jeune âge de ces blessés.\n\nLa réduction d’une fracture déplacée est effectuée sous anesthésie générale, jambe pendante au bord de la table. Après vérification radiologique de l’alignement, un plâtre cruro-pédieux est immédiatement confectionné, genou fléchi, cheville à angle droit ou même en équin pour éviter le recurvatum du foyer de fracture. Le membre inférieur est surélevé pendant 48 heures et béquillage sans appui autorisé en fonction de l’âge de l’enfant. La confection du plâtre cruro-pédieux mobilise un aide. Le jersey protecteur ne doit ni plisser, ni être un facteur de compression supplémentaire. Une seule couche de coton est appliquée sur toute la longueur avec une discrète tension et renforcée sur le péroné proximal (protection du nerf sciatique poplité externe). L'épaisseur du Jersey peut être doublée, voire triplée sans mettre de coton. L'aide ne doit pas tracter le pied par le Jersey (risque escarre talon).\n\nLa cheville doit être immobilisée en légère équin de 20° (détente du triceps sural) dans les fractures des 1/3 moyen et distal, et 10° pour les fractures du 1/3 proximal (prévention de déformation secondaire en recurvatum). Le plâtre est préféré à la résine : il doit être soigneusement moulé, en immobilisant en premier le segment jambier. Puis le plâtre est complété en cruro-pédieux genou en flexion à 45° environ, pour mieux contrôler la rotation et éviter une remise en charge prématurée.\n\nLa durée d’immobilisation est de l'ordre de 8 à 16 semaines chez l'adolescent.",
+    "answer_imgs": []
+   },
+   {
+    "n": 4,
+    "q": "Quelle est la principale complication à guetter ?",
+    "answer": "Syndrome de loge\n: il est toujours redouté lors des fractures de jambe. Ce risque justifie une surveillance accrue lors des premières heures après la fracture et après le traitement.",
+    "comment": "Les signes à rechercher sont :\n\nDouleur en particulier des extrémités : à elle seule, elle doit faire suspecter ce diagnostic et débuter sa prise en charge en extrême urgence.\n\nParesthésies, anesthésie et des signes moteurs pouvant aller jusqu’à la paralysie complète.\n\nPuis tardivement s’installent des signes d’ischémie : L’abolition des pouls est tardive et ne doit pas retarder le traitement.",
+    "answer_imgs": []
+   }
+  ],
+  "section": "MI",
+  "id": "MI_cas17"
+ },
+ {
+  "file": "FRACTURES MI/cas_clinique/cas18.html",
+  "region": "Cas clinique 19",
+  "casenum": "",
+  "vignette": "Enfant de 7 ans, victime d’un accident de la voie publique : le patient avait été heurté par une moto avec point d’impact cranio-facial et membre inférieur gauche.",
+  "vignette_imgs": [],
+  "qa": [
+   {
+    "n": 1,
+    "q": "Quelle est votre conduite à tenir en urgence ?",
+    "answer": "Tout d’abord, il faut reconnaître et traiter les\n3 urgences vitales\n:\n\nCardio circulatoire\n\n·\nÉ\nTAT DE CHOC\ndû à une lésion hémorragique interne ou extériorisée.\n\n·\nDIAGNOSTIC POSITIF\n:\n\no pâleur des téguments, marbrures des genoux,\n\no pouls rapide et filant, temps de recoloration cutanée allongé, tension artérielle abaissée avec pincement de la différentielle.\n\n·\nCONDUITE\nÀ\nTENIR :\n\no oxygénothérapie au masque voire intubation trachéale et ventilation,\n\no mise en place de deux voies d’abord veineux périphériques de gros calibre,\n\no restauration de la volémie par remplissage vasculaire,\n\no massage cardiaque en cas d’arrêt cardio-circulatoire.\n\nRespiratoire\n\n·\nDIAGNOSTIC POSITIF\n:\n\no Agitation, polypnée ou bradypnée, signes de lutte ou d’encombrement, cyanose.\n\n·\nCONDUITE\nÀ\nTENIR :\n\no Libération des voies aériennes supérieures (extraction d’un corps étranger, prévention de la chute en arrière de la langue par sub-luxation de la mandibule).\n\no Intubation trachéale et ventilation, rachis cervical en rectitude.\n\nNeurologique\n\n·\nÉ\ntat de conscience\n(score de Glasgow), réflexe photo- moteur, motilité spontanée.\n\ne.",
+    "comment": "Après avoir éliminé une urgence vitale cardio-circulatoire, respiratoire et neurologique, on procède à un examen physique complet et à un bilan lésionnel paraclinique initial : TDM cranio-faciale, radiographie du rachis, échographie abdominale, radiographie du bassin et radiographie de la jambe. Le reste du bilan sera réalisé en fonction de l’état du patient.\n\nOn immobilise le membre inférieur gauche par une attelle plâtrée.\n\nPar la suite, on administre un traitement antalgique simple périphérique à base de paracétamol (60 mg/kg/j, par voie rectale) et d’anti-inflammatoires non stéroïdiens (Acide niflurique).",
+    "answer_imgs": []
+   },
+   {
+    "n": 2,
+    "q": "Quel est votre diagnostic ? Interprétez la radiographie",
+    "answer": "C’est une fracture médio-diaphysaire à trait transversal du tibia gauche.",
+    "comment": "",
+    "answer_imgs": []
+   },
+   {
+    "n": 3,
+    "q": "Que faut-il rechercher systématiquement ?",
+    "answer": "-Ouverture cutanée.\n\n-Lésions vasculaires : lésion de l’artère tibiale antérieure ou postérieure.\n\nToute ischémie constatée constitue une extrême urgence de prise en charge.\n\n-Lésions nerveuses : nerf fibulaire commun ou ses branches et le nerf tibial.",
+    "comment": "",
+    "answer_imgs": []
+   },
+   {
+    "n": 4,
+    "q": "Quel traitement préconisez vous ?",
+    "answer": "Sous anesthésie générale, sous scope, réduction à ciel fermé de la fracture puis maintien du foyer par deux broches de Maitezeau : embrochage ascendant. (Figure 2 et 3)",
+    "comment": "Les indications du traitement chirurgical sont rares et ne se discutent qu’à partir d’un âge > 7ans, en cas de :\n\nPolytraumatisme,\n\nTraumatisme crânien grave,\n\nFracture instable,\n\nFracture ouverte de type II ou III Cauchoix & Duparc vu moins de 6h après le traumatisme.",
+    "answer_imgs": [
+     "FRACTURES MI/img/MT.png",
+     "FRACTURES MI/img/RT.png"
+    ]
+   }
+  ],
+  "section": "MI",
+  "id": "MI_cas18"
+ },
+ {
+  "file": "FRACTURES MI/cas_clinique/cas20.html",
+  "region": "Cas clinique 21",
+  "casenum": "",
+  "vignette": "Enfant de 6 ans, sans antécédents pathologiques particuliers, s’était présenté aux urgences pour un traumatisme fermé de la cheville droite suite à un accident sur la voie publique.",
+  "vignette_imgs": [
+   "FRACTURES MI/img/C20.png"
+  ],
+  "qa": [
+   {
+    "n": 1,
+    "q": "Quel est votre diagnostic ? (Interprétez la radiographie)",
+    "answer": "Il s’agit d’une fracture décollement épiphysaire de la malléole interne, classée type III selon Salter & Harris.",
+    "comment": "",
+    "answer_imgs": []
+   },
+   {
+    "n": 2,
+    "q": "Quel traitement proposez- vous ?",
+    "answer": "C’est une fracture décollement épiphysaire de la malléole interne, donc on procédera à une réduction chirurgicale par abord du côté du fragment épiphysaire et une synthèse par vis :\n\nréduction manuelle au bloc opératoire sous anesthésie générale, en urgence, par manœuvres externes, sous contrôle scopique à l’amplificateur de brillance,\n\n- contention du foyer de fracture par\nembrochage,\n\n- immobilisation plâtrée : botte plâtrée pendant 45 jours,\n\n- ablation des vis après consol",
+    "comment": "Le traitement des fractures de la cheville est le plus souvent orthopédique. La manœuvre de réduction dépend du mécanisme : une fracture en abduction se corrige en adduction. Une fracture en adduction sera plâtrée en abduction. Le traitement orthopédique est en règle suffisant pour les types I et II si la réduction est anatomique, sinon une contention par vissage est obligatoire. Le traitement chirurgical est indiqué dans les fractures déplacées, surtout lorsque l’écart inter-fragmentaire est plus de 2mm et en particulier quand le trait est intra-articulaire. Le vissage est assuré en percutané si la fracture est stable, sinon on préférera une réduction chirurgicale.\n\n-Type I :\nSous anesthésie générale et contrôle par amplificateur de brillance, réduction orthopédique et immobilisation par plâtre cruro-pédieux pour 45 jours.\n\n-\nType II\n: Réduction orthopédique : si la réduction est anatomique : Plâtre cruro-pédieux. Sinon réduction chirurgicale par abord du côté de l’écaille métaphysaire et vissage. Plâtre cruro-pédieux pour 45 jours.\n\n-\nType III :\nRéduction chirurgicale par abord du côté du fragment épiphysaire, embrochage ou vissage en compression épiphysaire, plâtre cruro-pédieux pour 45 jours\n.\n\n-\nType IV :\nRéduction chirurgicale, embrochage ou vissage.",
+    "answer_imgs": []
+   },
+   {
+    "n": 3,
+    "q": "Que faut-il redouter chez cette patiente ?",
+    "answer": "l’inégalité de longueur du membre inférieur,\n\n- la désaxation.\n\nIls sont la conséquence de la survenue d’une épiphysiodèse.",
+    "comment": "-Epiphysiodèse : Ces fractures intéressant le cartilage de croissance sont régulièrement pourvoyeuses de lésions de celui-ci générant des ponts d’épiphysiodèse.\n\nClassiquement, les lésions type III, IV et V sont les plus à risque ainsi que les fractures comminutives.\n\nCes ponts d’épiphysiodèse seront alors responsables d’anomalies d’axe ou de d’anomalies de longueur.\n\n-Cal vicieux.\n\n-Arthrose précoce.",
+    "answer_imgs": []
+   }
+  ],
+  "section": "MI",
+  "id": "MI_cas20"
+ },
+ {
+  "file": "FRACTURES MI/cas_clinique/cas21.html",
+  "region": "Cas clinique 22",
+  "casenum": "",
+  "vignette": "Patient de 13 ans, sans antécédents pathologiques particuliers, victime d’une chute d’escaliers qui avait occasionné chez lui un traumatisme fermé de la cheville.",
+  "vignette_imgs": [
+   "FRACTURES MI/img/C21F.png"
+  ],
+  "qa": [
+   {
+    "n": 1,
+    "q": "Quels sont les premiers gestes à réaliser ?",
+    "answer": "-Assurer l’antalgie et l’immobilisation de la cheville et de la jambe.\n\n-Rechercher les signes d’ischémie ou de souffrance nerveuse.\n\n-Laisser l’enfant à jeun jusqu’à la décision thérapeutique.\n\n-Réaliser un bilan radiologique initial",
+    "comment": "",
+    "answer_imgs": []
+   },
+   {
+    "n": 2,
+    "q": "Quel est votre diagnostic ?",
+    "answer": "La radiographie de face et de profil de la cheville gauche met en évidence une fracture décollement épiphysaire de la malléole interne classée stade4 selon la classification de\nSalter et Harris\n(fracture de\nMac Farland\n).",
+    "comment": "",
+    "answer_imgs": []
+   },
+   {
+    "n": 3,
+    "q": "Quelles sont les séquelles les plus fréquentes de ce genre de fractures ?",
+    "answer": "C’est une indication au vissage percutané : vissage transversal épargnant le cartilage de croissance puis immobilisation par botte plâtré.\n(Figure 2)",
+    "comment": "Le traitement des fractures de la cheville est le plus souvent orthopédique. La manœuvre de réduction dépend du mécanisme : une fracture en abduction se corrige en adduction. Une fracture en adduction sera plâtrée en abduction. Le traitement orthopédique est en règle suffisant pour les types I et II si la réduction est anatomique, sinon une contention par vissage est obligatoire. Le traitement chirurgical est indiqué dans les fractures déplacées, surtout lorsque l’écart inter-fragmentaire est plus de 2mm et en particulier quand le trait est intra-articulaire. Le vissage est assuré en percutané si la fracture est stable, sinon on préférera une réduction chirurgicale.\n\n-Type I :\nSous anesthésie générale et contrôle par amplificateur de brillance, réduction orthopédique et immobilisation par plâtre cruro-pédieux pour 45 jours.\n\n-\nType II\n: Réduction orthopédique : si la réduction est anatomique : Plâtre cruro-pédieux. Sinon réduction chirurgicale par abord du côté de l’écaille métaphysaire et vissage. Plâtre cruro-pédieux pour 45 jours.\n\n-\nType III :\nRéduction chirurgicale par abord du côté du fragment épiphysaire, embrochage ou vissage en compression épiphysaire, plâtre cruro-pédieux pour 45 jours\n.\n\n-\nType IV :\nRéduction chirurgicale, embrochage ou vissage.",
+    "answer_imgs": [
+     "FRACTURES MI/img/C21R3.png"
+    ]
+   }
+  ],
+  "section": "MI",
+  "id": "MI_cas21"
+ },
+ {
+  "file": "FRACTURES MI/cas_clinique/cas22.html",
+  "region": "Cas clinique 23",
+  "casenum": "",
+  "vignette": "Patient de 12 ans, sans antécédents pathologiques particuliers, s’était présenté aux urgences suite à un traumatisme fermé de la cheville gauche occasionné lors d’une chute d’un lieu élevé.",
+  "vignette_imgs": [
+   "FRACTURES MI/img/c22f1.png"
+  ],
+  "qa": [
+   {
+    "n": 1,
+    "q": "Quel est votre diagnostic ? Interprétez la radiographie",
+    "answer": "Il s’agit d’une fracture décollement épiphysaire de la cheville gauche classée type IV de Salter et Harris.",
+    "comment": "",
+    "answer_imgs": []
+   },
+   {
+    "n": 2,
+    "q": "Quelle est votre attitude thérapeutique ?",
+    "answer": "C’est une indication au traitement chirurgical :\n\nAu bloc opératoire, réduction du foyer fracturaire et stabilisation par vissage suivi d’un traitement complémentaire par immobilisation plâtrée pour une durée de 4 à 6 semaines. (Figure 2)",
+    "comment": "Le traitement des fractures de la cheville est le plus souvent orthopédique. La manœuvre de réduction dépend du mécanisme : une fracture en abduction se corrige en adduction. Une fracture en adduction sera plâtrée en abduction. Le traitement orthopédique est en règle suffisant pour les types I et II si la réduction est anatomique, sinon une contention par vissage est obligatoire. Le traitement chirurgical est indiqué dans les fractures déplacées, surtout lorsque l’écart inter-fragmentaire est plus de 2mm et en particulier quand le trait est intra-articulaire. Le vissage est assuré en percutané si la fracture est stable, sinon on préférera une réduction chirurgicale.\n\n-Type I :\nSous anesthésie générale et contrôle par amplificateur de brillance, réduction orthopédique et immobilisation par plâtre cruro-pédieux pour 45 jours.\n\n-\nType II\n: Réduction orthopédique : si la réduction est anatomique : Plâtre cruro-pédieux. Sinon réduction chirurgicale par abord du côté de l’écaille métaphysaire et vissage. Plâtre cruro-pédieux pour 45 jours.\n\n-\nType III :\nRéduction chirurgicale par abord du côté du fragment épiphysaire, embrochage ou vissage en compression épiphysaire, plâtre cruro-pédieux pour 45 jours\n.\n\n-\nType IV :\nRéduction chirurgicale, embrochage ou vissage.",
+    "answer_imgs": [
+     "FRACTURES MI/img/c22e.png"
+    ]
+   },
+   {
+    "n": 3,
+    "q": "Quel est votre suivi post opératoire ?",
+    "answer": "Cliniquement\n: surveillance cutanée et vasculo-nerveuse, au moindre doute de compression le plâtre est bivalvé.\n\nRadiologiquement\n: des contrôles radiologiques rapprochés doivent être réalisés : j8, j15, j21, j45",
+    "comment": "",
+    "answer_imgs": []
+   },
+   {
+    "n": 4,
+    "q": "Quelle est la complication la plus redoutable ?",
+    "answer": "C’est l’épiphysiodèse : les séquelles sont marquées par les désaxations et les inégalités de longueur des membres inférieurs.",
+    "comment": "Lorsque le pont est central, la conséquence est l’arrêt de la croissance, le raccourcissement est la conséquence d'un traumatisme survenu soit en cours de croissance soit un traumatisme violent avec un déplacement important. Le raccourcissement constitue la complication la plus redoutable. Il est le témoin d'une épiphysiodèse plus ou moins complète du cartilage de croissance. Cette épiphysiodèse peut être définitive et est d’autant plus grave que le décollement survient à un âge plus bas.\n\nLorsque le pont est latéral la conséquence est une déviation axiale. Elle est la conséquence d’une épiphysiodèse incomplète.\n\nAu cours des lésions épiphysaires, l'épiphysiodèse s’observe surtout dans les fractures de type IV et V de Salter et Harris mais peuvent aussi se rencontrer, bien que plus rarement, dans les lésions de type III.",
+    "answer_imgs": []
+   }
+  ],
+  "section": "MI",
+  "id": "MI_cas22"
+ }
+]

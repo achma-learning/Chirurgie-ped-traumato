@@ -1,1 +1,6 @@
 FRACTURES MS.zip
+
+# Anki build artifacts (regenerable; images are already inside the .apkg)
+anki/build/media/
+__pycache__/
+*.pyc
