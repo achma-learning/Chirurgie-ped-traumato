@@ -2324,3 +2324,42 @@ color :#B9AA81;
 
     text-align: justify;
 }
+
+/* ============================================================================
+   Image display fix
+   Clinical-case figures (radios, schemas) open inside .popup_block pop-ups and
+   were hard-coded with tiny inline widths (e.g. width:20%-40% of an 800px box),
+   so high-resolution X-rays rendered at ~150-300px. The rules below turn the
+   pop-up into a large, responsive, centred panel and let each figure use the
+   full available space - capped to its own natural resolution and to the
+   viewport, so images are never upscaled/blurred nor clipped. The close button
+   (.cntrl) and dg-picture-zoom thumbnails keep their own sizing.
+   ========================================================================== */
+.popup_block{
+    width:min(1040px, 94vw) !important;
+    height:auto !important;
+    max-height:92vh !important;
+    top:50% !important;
+    left:50% !important;
+    transform:translate(-50%, -50%) !important;
+    margin:0 !important;
+    float:none !important;
+    box-sizing:border-box;
+}
+.popup_block .popup{
+    width:100% !important;
+    height:auto !important;
+    max-height:calc(92vh - 64px) !important;
+    overflow:auto !important;
+    float:none !important;
+    box-sizing:border-box;
+}
+.popup_block .popup img:not(.cntrl):not(.dg-picture-zoom){
+    width:auto !important;
+    height:auto !important;
+    max-width:100% !important;
+    max-height:80vh;
+    display:inline-block;
+    vertical-align:top;
+    margin:12px 6px;
+}
