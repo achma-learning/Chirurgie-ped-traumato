@@ -1,34 +1,34 @@
 /*
  * Chirurgie pédiatrique — nav.js
- * Self-contained floating toggle + drawer for quick access to every
- * cas clinique from any page. Drop one <script src=".../assets/nav.js">
- * before </body> on any page; everything else is auto-injected.
+ * Permanent, always-visible MkDocs-style left sidebar for the whole site.
+ * Drop one <script src=".../assets/nav.js"></script> before </body> on any page;
+ * the sidebar, the content offset and the mobile toggle are all auto-injected.
+ *
+ * - Desktop (>= 1240px): sidebar is fixed & permanent, page content is shifted right.
+ * - Narrow screens      : sidebar is off-canvas, opened by a ☰ toggle (like MkDocs).
+ * - The current page is highlighted, its section expanded and scrolled into view.
+ * - Book-aware highlighting (cas1.html exists in both books) via full-path match.
  */
 (function () {
   if (window.__cpNavLoaded) return;
   window.__cpNavLoaded = true;
 
   // --- Resolve base path back to the repo root --------------------------------
-  // The site lives under <root>/FRACTURES MI/... and <root>/FRACTURES MS/...
-  // We walk the URL pathname to count how many ".." we need to reach root.
   function computeBase() {
     var path = decodeURIComponent(window.location.pathname || "");
     var marker = path.match(/FRACTURES M[IS]\//);
-    if (!marker) return "";
+    if (!marker) return null; // we are at the repository root -> no sidebar here
     var tail = path.substring(path.indexOf(marker[0]));
-    var depth = tail.split("/").length - 1; // segments after the FRACTURES dir
+    var depth = tail.split("/").length - 1;
     return new Array(depth + 1).join("../");
   }
   var BASE = computeBase();
+  if (BASE === null) return; // keep the custom landing page (index.html) untouched
 
-  // --- Catalog ----------------------------------------------------------------
-  // Mirrors the official casclinique.html in each folder. Numbers shown match
-  // the printed Cas clinique number; "file" is the actual file on disk.
+  // --- Catalog (mirrors casclinique.html; numbers = printed Cas clinique n°) ---
   var CATALOG = {
     ms: {
-      title: "Membre supérieur",
-      folder: "FRACTURES MS",
-      accent: "#2563eb",
+      title: "Membre supérieur", folder: "FRACTURES MS", home: "index.html", accent: "#2563eb",
       groups: [
         { label: "Épaule",     cases: [["1","cas1.html"],["2","cas2.html"],["3","cas3.html"],["4","cas4.html"],["5","cas5.html"]] },
         { label: "Bras",       cases: [["1","cas6.html"]] },
@@ -38,185 +38,251 @@
       ]
     },
     mi: {
-      title: "Membre inférieur",
-      folder: "FRACTURES MI",
-      accent: "#16a34a",
+      title: "Membre inférieur", folder: "FRACTURES MI", home: "index.htm", accent: "#16a34a",
       groups: [
         { label: "Bassin",   cases: [["1","cas1.html"],["2","cas2.html"]] },
         { label: "Hanche",   cases: [["3","cas3.html"],["4","cas4.html"],["5","cas5.html"],["6","cas6.html"]] },
         { label: "Cuisse",   cases: [["7","cas7.html"],["8","cas8.html"],["9","cas0.html"]] },
         { label: "Genou",    cases: [["10","cas9.html"],["11","cas10.html"],["12","cas11.html"],["13","cas12.html"],["14","cas13.html"],["15","cas14.html"]] },
         { label: "Jambe",    cases: [["16","cas15.html"],["17","cas16.html"],["18","cas17.html"],["19","cas18.html"]] },
-        { label: "Cheville", cases: [["20","cas19.html"],["21","cas20.html"],["22","cas21.html"],["23","cas22.html"]] }
+        { label: "Cheville", cases: [["21","cas20.html"],["22","cas21.html"],["23","cas22.html"]] }
       ]
     }
   };
+  // Auxiliary (non-case) pages of each book, in reading order.
+  var AUX = [
+    ["Introduction",  "introduction/introduction.html"],
+    ["Prérequis",     "prerequis/prerequis.html"],
+    ["Cas cliniques", "cas_clinique/casclinique.html"],
+    ["Résumé",        "resume/resume.html"],
+    ["Conclusion",    "conclusion/conclusion.html"],
+    ["Bibliographie", "bibliographie/bibliographie.html"]
+  ];
 
-  function caseUrl(book, file) { return BASE + book.folder + "/cas_clinique/" + file; }
-  function homeUrl(book)       { return BASE + book.folder + "/" + (book === CATALOG.mi ? "index.htm" : "index.html"); }
-  function rootUrl()            { return BASE + "index.html"; }
+  function bookUrl(book, rel) { return BASE + book.folder + "/" + rel; }
+  function caseUrl(book, file) { return bookUrl(book, "cas_clinique/" + file); }
+  function rootUrl() { return BASE + "index.html"; }
 
   // --- Styles -----------------------------------------------------------------
+  var W = "290px";       // sidebar width
+  var BP = "1300px";     // permanent breakpoint (sidebar 290 + 960 grid + scrollbar/breathing)
   var css = ''
-    + '.cpnav-btn{position:fixed;top:14px;right:14px;z-index:99998;'
-    + 'background:#111827;color:#fff;border:0;border-radius:999px;'
-    + 'padding:10px 16px;font:600 14px/1 -apple-system,Segoe UI,Roboto,sans-serif;'
-    + 'box-shadow:0 6px 20px rgba(0,0,0,.25);cursor:pointer;letter-spacing:.02em;'
-    + 'transition:transform .15s ease,background .15s ease}'
-    + '.cpnav-btn:hover{background:#1f2937;transform:translateY(-1px)}'
-    + '.cpnav-btn:focus{outline:2px solid #60a5fa;outline-offset:2px}'
-    + '.cpnav-overlay{position:fixed;inset:0;background:rgba(15,23,42,.55);'
-    + 'opacity:0;visibility:hidden;transition:opacity .2s ease,visibility .2s;z-index:99998}'
-    + '.cpnav-overlay.open{opacity:1;visibility:visible}'
-    + '.cpnav-panel{position:fixed;top:0;right:0;height:100%;width:min(420px,92vw);'
-    + 'background:#fff;color:#0f172a;z-index:99999;transform:translateX(100%);'
-    + 'transition:transform .25s cubic-bezier(.2,.7,.2,1);box-shadow:-12px 0 40px rgba(0,0,0,.25);'
-    + 'display:flex;flex-direction:column;font:14px/1.5 -apple-system,Segoe UI,Roboto,sans-serif}'
-    + '.cpnav-panel.open{transform:translateX(0)}'
-    + '.cpnav-head{padding:18px 20px;border-bottom:1px solid #e5e7eb;'
-    + 'display:flex;align-items:center;justify-content:space-between;gap:8px}'
-    + '.cpnav-head h2{margin:0;font:700 16px/1.2 -apple-system,Segoe UI,Roboto,sans-serif;color:#0f172a}'
-    + '.cpnav-head a.cpnav-home{font-size:12px;color:#475569;text-decoration:none;border:1px solid #e5e7eb;border-radius:6px;padding:4px 8px}'
-    + '.cpnav-head a.cpnav-home:hover{background:#f1f5f9;color:#0f172a}'
-    + '.cpnav-close{background:transparent;border:0;font-size:22px;cursor:pointer;color:#64748b;line-height:1;padding:4px 8px}'
-    + '.cpnav-close:hover{color:#0f172a}'
-    + '.cpnav-search{padding:10px 20px;border-bottom:1px solid #e5e7eb;background:#fafafa}'
-    + '.cpnav-search input{width:100%;padding:8px 10px;border:1px solid #d1d5db;border-radius:6px;font-size:13px;outline:none}'
-    + '.cpnav-search input:focus{border-color:#2563eb;box-shadow:0 0 0 3px rgba(37,99,235,.15)}'
-    + '.cpnav-body{overflow:auto;padding:8px 0 24px;flex:1}'
-    + '.cpnav-book{padding:14px 20px 4px}'
-    + '.cpnav-book h3{margin:0 0 6px;font:700 13px/1.2 -apple-system,Segoe UI,Roboto,sans-serif;'
-    + 'text-transform:uppercase;letter-spacing:.06em;color:var(--c,#111827)}'
-    + '.cpnav-book h3 a{color:inherit;text-decoration:none;border-bottom:1px dashed currentColor}'
-    + '.cpnav-grp{margin:8px 0}'
-    + '.cpnav-grp>summary{cursor:pointer;list-style:none;padding:6px 8px;border-radius:6px;'
-    + 'font-weight:600;color:#0f172a;display:flex;justify-content:space-between;align-items:center}'
+    + ':root{--cpnav-w:' + W + '}'
+    + '.cpnav-side{position:fixed;top:0;left:0;bottom:0;width:var(--cpnav-w);z-index:100000;'
+    +   'background:#0f172a;color:#e2e8f0;display:flex;flex-direction:column;'
+    +   'font:14px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Inter,sans-serif;'
+    +   'box-shadow:2px 0 18px rgba(2,6,23,.28);transform:translateX(-100%);'
+    +   'transition:transform .24s cubic-bezier(.2,.7,.2,1)}'
+    + '.cpnav-side.cpnav-open{transform:none}'
+    + '.cpnav-head{padding:16px 18px 12px;border-bottom:1px solid #1e293b;flex:0 0 auto}'
+    + '.cpnav-head a.cpnav-title{display:block;color:#fff;text-decoration:none;'
+    +   'font:800 16px/1.2 -apple-system,Segoe UI,Roboto,sans-serif;letter-spacing:-.01em}'
+    + '.cpnav-head .cpnav-sub{display:block;margin-top:3px;color:#94a3b8;font-size:11.5px;'
+    +   'text-transform:uppercase;letter-spacing:.09em}'
+    + '.cpnav-search{padding:12px 16px;flex:0 0 auto}'
+    + '.cpnav-search input{width:100%;padding:9px 11px;border:1px solid #334155;border-radius:8px;'
+    +   'background:#111a2e;color:#e2e8f0;font-size:13px;outline:none}'
+    + '.cpnav-search input::placeholder{color:#64748b}'
+    + '.cpnav-search input:focus{border-color:#3b82f6;box-shadow:0 0 0 3px rgba(59,130,246,.25)}'
+    + '.cpnav-body{overflow:auto;padding:4px 10px 28px;flex:1 1 auto;-webkit-overflow-scrolling:touch}'
+    + '.cpnav-body::-webkit-scrollbar{width:10px}'
+    + '.cpnav-body::-webkit-scrollbar-thumb{background:#334155;border-radius:8px;border:3px solid #0f172a}'
+    + '.cpnav-book{margin:10px 0 6px}'
+    + '.cpnav-book>a.cpnav-bh{display:flex;align-items:center;gap:8px;padding:7px 8px;border-radius:8px;'
+    +   'color:#fff;text-decoration:none;font:700 13px/1.2 -apple-system,Segoe UI,Roboto,sans-serif;'
+    +   'text-transform:uppercase;letter-spacing:.05em}'
+    + '.cpnav-book>a.cpnav-bh:hover{background:#1e293b}'
+    + '.cpnav-book>a.cpnav-bh .cpnav-dot{width:9px;height:9px;border-radius:50%;background:var(--c);flex:0 0 auto}'
+    + '.cpnav-aux{list-style:none;margin:2px 0 6px;padding:0 0 0 6px}'
+    + '.cpnav-aux a{display:block;padding:5px 10px;border-radius:6px;color:#cbd5e1;text-decoration:none;font-size:13px}'
+    + '.cpnav-aux a:hover{background:#1e293b;color:#fff}'
+    + '.cpnav-grp{margin:1px 0}'
+    + '.cpnav-grp>summary{cursor:pointer;list-style:none;padding:6px 10px;border-radius:6px;'
+    +   'font-weight:600;color:#e2e8f0;display:flex;justify-content:space-between;align-items:center;gap:8px}'
     + '.cpnav-grp>summary::-webkit-details-marker{display:none}'
-    + '.cpnav-grp>summary:hover{background:#f1f5f9}'
-    + '.cpnav-grp>summary .cpnav-count{font-weight:500;font-size:12px;color:#64748b;background:#e5e7eb;'
-    + 'border-radius:999px;padding:1px 8px;margin-left:8px}'
-    + '.cpnav-grp[open]>summary{background:#f8fafc}'
-    + '.cpnav-cases{list-style:none;margin:4px 0 8px;padding:0 0 0 18px;'
-    + 'border-left:2px solid #e5e7eb}'
-    + '.cpnav-cases li{margin:0}'
-    + '.cpnav-cases a{display:block;padding:5px 10px;color:#1e293b;text-decoration:none;'
-    + 'border-radius:5px;font-size:13px}'
-    + '.cpnav-cases a:hover{background:var(--c,#111827);color:#fff}'
-    + '.cpnav-cases a.cpnav-current{background:#fde68a;color:#0f172a;font-weight:600}'
-    + '.cpnav-empty{padding:20px;color:#64748b;font-style:italic;text-align:center}'
-    + '@media print{.cpnav-btn,.cpnav-panel,.cpnav-overlay{display:none!important}}';
+    + '.cpnav-grp>summary:hover{background:#1e293b}'
+    + '.cpnav-grp>summary .cpnav-chev{transition:transform .18s ease;color:#64748b;font-size:11px}'
+    + '.cpnav-grp[open]>summary .cpnav-chev{transform:rotate(90deg)}'
+    + '.cpnav-grp>summary .cpnav-count{margin-left:auto;font-weight:500;font-size:11px;color:#94a3b8;'
+    +   'background:#1e293b;border-radius:999px;padding:1px 8px}'
+    + '.cpnav-cases{list-style:none;margin:2px 0 6px;padding:0 0 0 14px;border-left:1px solid #1e293b;margin-left:12px}'
+    + '.cpnav-cases a{display:block;padding:5px 10px;color:#cbd5e1;text-decoration:none;border-radius:6px;font-size:13px}'
+    + '.cpnav-cases a:hover{background:#1e293b;color:#fff}'
+    + '.cpnav-current{background:var(--c)!important;color:#fff!important;font-weight:600}'
+    + '.cpnav-empty{padding:16px;color:#64748b;font-style:italic;text-align:center}'
+    // toggle button + scrim (mobile / narrow)
+    + '.cpnav-toggle{position:fixed;top:12px;left:12px;z-index:100001;background:#0f172a;color:#fff;'
+    +   'border:0;border-radius:10px;width:44px;height:44px;font-size:20px;line-height:1;cursor:pointer;'
+    +   'box-shadow:0 6px 18px rgba(2,6,23,.35)}'
+    + '.cpnav-toggle:hover{background:#1e293b}'
+    + '.cpnav-toggle:focus{outline:2px solid #60a5fa;outline-offset:2px}'
+    + '.cpnav-scrim{position:fixed;inset:0;z-index:99999;background:rgba(2,6,23,.5);'
+    +   'opacity:0;visibility:hidden;transition:opacity .2s ease,visibility .2s}'
+    + '.cpnav-scrim.cpnav-open{opacity:1;visibility:visible}'
+    // permanent mode on wide screens
+    + '@media (min-width:' + BP + '){'
+    +   'html.cpnav-has-side body{margin-left:var(--cpnav-w)!important}'
+    +   '.cpnav-side{transform:none!important}'
+    +   '.cpnav-toggle{display:none}'
+    +   '.cpnav-scrim{display:none}'
+    + '}'
+    + '@media print{.cpnav-side,.cpnav-toggle,.cpnav-scrim{display:none!important}'
+    +   'html.cpnav-has-side body{margin-left:0!important}}';
 
   var style = document.createElement('style');
   style.textContent = css;
   document.head.appendChild(style);
 
   // --- Build DOM --------------------------------------------------------------
-  var btn = document.createElement('button');
-  btn.className = 'cpnav-btn';
-  btn.type = 'button';
-  btn.setAttribute('aria-label', 'Ouvrir le menu des cas cliniques');
-  btn.innerHTML = '☰ Cas cliniques';
-
-  var overlay = document.createElement('div');
-  overlay.className = 'cpnav-overlay';
-
-  var panel = document.createElement('aside');
-  panel.className = 'cpnav-panel';
-  panel.setAttribute('role', 'dialog');
-  panel.setAttribute('aria-label', 'Navigation cas cliniques');
+  var side = document.createElement('aside');
+  side.className = 'cpnav-side';
+  side.setAttribute('aria-label', 'Navigation du site');
 
   var head = document.createElement('div');
   head.className = 'cpnav-head';
-  head.innerHTML = '<h2>Cas cliniques</h2>'
-    + '<div style="display:flex;gap:8px;align-items:center">'
-    + '<a class="cpnav-home" href="' + rootUrl() + '">Accueil</a>'
-    + '<button class="cpnav-close" type="button" aria-label="Fermer">&times;</button>'
-    + '</div>';
-  panel.appendChild(head);
+  head.innerHTML = '<a class="cpnav-title" href="' + rootUrl() + '">Fractures de l’enfant'
+    + '<span class="cpnav-sub">Traumato-orthopédie pédiatrique</span></a>';
+  side.appendChild(head);
 
   var search = document.createElement('div');
   search.className = 'cpnav-search';
-  search.innerHTML = '<input type="search" placeholder="Filtrer (ex: coude, genou, 14)" autocomplete="off" />';
-  panel.appendChild(search);
+  search.innerHTML = '<input type="search" placeholder="Filtrer (coude, genou, 14…)" autocomplete="off" aria-label="Filtrer la navigation" />';
+  side.appendChild(search);
 
-  var body = document.createElement('div');
+  var body = document.createElement('nav');
   body.className = 'cpnav-body';
 
-  var currentHref = decodeURIComponent(window.location.pathname).split('/').pop();
+  var links = []; // all <a> for search + current detection
 
-  function renderBook(key) {
+  function mkLink(href, text, cls, searchStr) {
+    var a = document.createElement('a');
+    a.href = href; a.textContent = text;
+    if (cls) a.className = cls;
+    a.dataset.search = (searchStr || text).toLowerCase();
+    links.push(a);
+    return a;
+  }
+
+  Object.keys(CATALOG).forEach(function (key) {
     var book = CATALOG[key];
-    var section = document.createElement('section');
-    section.className = 'cpnav-book';
-    section.style.setProperty('--c', book.accent);
-    var h = document.createElement('h3');
-    h.innerHTML = '<a href="' + homeUrl(book) + '">' + book.title + '</a>';
-    section.appendChild(h);
+    var sec = document.createElement('section');
+    sec.className = 'cpnav-book';
+    sec.style.setProperty('--c', book.accent);
+
+    var bh = mkLink(bookUrl(book, book.home), book.title, 'cpnav-bh', book.title);
+    bh.insertAdjacentHTML('afterbegin', '<span class="cpnav-dot"></span>');
+    sec.appendChild(bh);
+
+    // auxiliary pages
+    var aux = document.createElement('ul');
+    aux.className = 'cpnav-aux';
+    AUX.forEach(function (p) {
+      var li = document.createElement('li');
+      li.appendChild(mkLink(bookUrl(book, p[1]), p[0], null, book.title + ' ' + p[0]));
+      aux.appendChild(li);
+    });
+    sec.appendChild(aux);
+
+    // case groups
     book.groups.forEach(function (g) {
       var det = document.createElement('details');
       det.className = 'cpnav-grp';
-      det.open = false;
       var sum = document.createElement('summary');
-      sum.innerHTML = '<span>' + g.label + '</span><span class="cpnav-count">' + g.cases.length + '</span>';
+      sum.innerHTML = '<span class="cpnav-chev">▶</span><span>' + g.label
+        + '</span><span class="cpnav-count">' + g.cases.length + '</span>';
       det.appendChild(sum);
       var ul = document.createElement('ul');
       ul.className = 'cpnav-cases';
       g.cases.forEach(function (c) {
         var li = document.createElement('li');
-        var a = document.createElement('a');
-        a.href = caseUrl(book, c[1]);
-        a.textContent = 'Cas clinique ' + c[0];
-        a.dataset.search = (book.title + ' ' + g.label + ' cas clinique ' + c[0]).toLowerCase();
-        if (c[1] === currentHref) a.className = 'cpnav-current';
-        li.appendChild(a);
+        li.appendChild(mkLink(caseUrl(book, c[1]), 'Cas clinique ' + c[0], null,
+          book.title + ' ' + g.label + ' cas ' + c[0]));
         ul.appendChild(li);
-        // open the group if it contains the current page
-        if (c[1] === currentHref) det.open = true;
       });
       det.appendChild(ul);
-      section.appendChild(det);
+      det.dataset.group = g.label;
+      sec.appendChild(det);
     });
-    body.appendChild(section);
+    body.appendChild(sec);
+  });
+  side.appendChild(body);
+
+  // --- Current page detection (book-aware, by resolved full path) -------------
+  var here = decodeURIComponent(window.location.pathname);
+  var current = null;
+  links.forEach(function (a) {
+    if (decodeURIComponent(a.pathname) === here) current = a;
+  });
+  if (current) {
+    current.classList.add('cpnav-current');
+    var det = current.closest('details.cpnav-grp');
+    if (det) det.open = true;
   }
-  renderBook('ms');
-  renderBook('mi');
-  panel.appendChild(body);
 
-  // --- Behavior ---------------------------------------------------------------
-  function open()  { overlay.classList.add('open'); panel.classList.add('open'); var i = search.querySelector('input'); if (i) setTimeout(function(){ i.focus(); }, 100); }
-  function close() { overlay.classList.remove('open'); panel.classList.remove('open'); }
+  // --- Toggle + scrim (narrow screens) ----------------------------------------
+  var toggle = document.createElement('button');
+  toggle.className = 'cpnav-toggle';
+  toggle.type = 'button';
+  toggle.setAttribute('aria-label', 'Ouvrir/fermer le menu');
+  toggle.innerHTML = '☰';
 
-  btn.addEventListener('click', open);
-  overlay.addEventListener('click', close);
-  head.querySelector('.cpnav-close').addEventListener('click', close);
-  document.addEventListener('keydown', function (e) { if (e.key === 'Escape') close(); });
+  var scrim = document.createElement('div');
+  scrim.className = 'cpnav-scrim';
 
-  // Filter
+  function openSide()  { side.classList.add('cpnav-open'); scrim.classList.add('cpnav-open'); }
+  function closeSide() { side.classList.remove('cpnav-open'); scrim.classList.remove('cpnav-open'); }
+  function toggleSide(){ side.classList.contains('cpnav-open') ? closeSide() : openSide(); }
+
+  toggle.addEventListener('click', toggleSide);
+  scrim.addEventListener('click', closeSide);
+  document.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape') closeSide();
+    if (e.key === '/' && document.activeElement !== search.querySelector('input')) {
+      e.preventDefault(); openSide(); search.querySelector('input').focus();
+    }
+  });
+  // close the off-canvas menu after picking a link (narrow screens only)
+  body.addEventListener('click', function (e) {
+    if (e.target.tagName === 'A' && !matchMedia('(min-width:' + BP + ')').matches) closeSide();
+  });
+
+  // --- Search / filter --------------------------------------------------------
   search.querySelector('input').addEventListener('input', function (e) {
     var q = e.target.value.trim().toLowerCase();
-    var groups = body.querySelectorAll('.cpnav-grp');
-    groups.forEach(function (g) {
-      var any = false;
-      g.querySelectorAll('.cpnav-cases a').forEach(function (a) {
-        var match = !q || a.dataset.search.indexOf(q) !== -1;
-        a.parentNode.style.display = match ? '' : 'none';
-        if (match) any = true;
+    body.querySelectorAll('.cpnav-book').forEach(function (sec) {
+      var bookVisible = false;
+      sec.querySelectorAll('.cpnav-aux a').forEach(function (a) {
+        var m = !q || a.dataset.search.indexOf(q) !== -1;
+        a.parentNode.style.display = m ? '' : 'none'; if (m) bookVisible = true;
       });
-      g.style.display = any ? '' : 'none';
-      if (q) g.open = any;
+      sec.querySelectorAll('.cpnav-grp').forEach(function (g) {
+        var any = false;
+        g.querySelectorAll('.cpnav-cases a').forEach(function (a) {
+          var m = !q || a.dataset.search.indexOf(q) !== -1;
+          a.parentNode.style.display = m ? '' : 'none'; if (m) any = true;
+        });
+        g.style.display = any ? '' : 'none';
+        if (q) g.open = any; else g.open = g.querySelector('.cpnav-current') != null;
+        if (any) bookVisible = true;
+      });
+      sec.style.display = bookVisible ? '' : 'none';
     });
   });
 
-  // Mount when DOM is ready
+  // --- Mount ------------------------------------------------------------------
   function mount() {
     if (!document.body) return setTimeout(mount, 30);
-    document.body.appendChild(btn);
-    document.body.appendChild(overlay);
-    document.body.appendChild(panel);
+    document.documentElement.classList.add('cpnav-has-side');
+    document.body.appendChild(side);
+    document.body.appendChild(scrim);
+    document.body.appendChild(toggle);
+    // (permanent mode is handled by CSS; the .cpnav-open class only drives the
+    //  off-canvas drawer on narrow screens.)
+    // scroll current item into view
+    if (current) setTimeout(function () {
+      try { current.scrollIntoView({ block: 'center' }); } catch (e) { current.scrollIntoView(); }
+    }, 60);
   }
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', mount);
-  } else {
-    mount();
-  }
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', mount);
+  else mount();
 })();
